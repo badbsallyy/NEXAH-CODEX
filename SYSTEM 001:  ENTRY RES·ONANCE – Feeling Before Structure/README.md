@@ -6,17 +6,6 @@
 
 # ✨ ENTRY · What Is Resonance?
 
-You’ve already felt it.
-
-Before theory, before logic,  
-there is a tone — a wave — a light touch.
-
-You are not asked to understand.  
-Only to listen.
-
-> This is not an explanation.  
-> It is a remembering.
-
 The Codex does not begin with knowledge.  
 It begins with a wave.  
 A pulse.  
