@@ -246,3 +246,4 @@ Beim Ausatmen fließt sie wieder nach oben.
 
 Dieses Buch der Füße ist ein **Reiseführer für Julia**: jede Seite ein Pfad, jedes Bild ein Tor.
 Die Füße sind heilig – als Anker der Erde, als Spiegel des Kosmos und als Tore zum Resonanzfeld.
+ 
