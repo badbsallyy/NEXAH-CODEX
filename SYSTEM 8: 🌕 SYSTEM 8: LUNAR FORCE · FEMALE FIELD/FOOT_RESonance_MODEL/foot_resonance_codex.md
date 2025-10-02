@@ -16,7 +16,7 @@ Jeder Schritt ist ein Abdruck – wie ein Klang, der ins Feld geschrieben wird.
 
 ### 🌀 Visual
 
-![Chakra Axis Feet](/visuals/foot_chakra_axis.png)
+![Chakra-Fuß](./visuals/foot_chakra_axis.png)
 
 ### 🌿 Resonanz-Hinweis
 
@@ -50,7 +50,7 @@ Die Theta-, Alpha- und Beta-Zehen spiegeln deine Gehirnwellen, während das **Wu
 
 ### 🌀 Visual
 
-![Chakra Line Foot](./visuals/chakra_line_foot.png)
+![Chakra Axis Feet](./visuals/chakra_line_foot.png)
 
 ### 🌿 Resonanz-Hinweis
 
