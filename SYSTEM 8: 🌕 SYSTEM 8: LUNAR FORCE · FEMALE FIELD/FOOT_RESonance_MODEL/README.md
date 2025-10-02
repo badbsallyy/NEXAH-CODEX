@@ -59,3 +59,17 @@ See [gallery.md](./gallery.md) for the 7-image series:
 Fingerfields (Sky) ⟺ Neutrino Flow ⟺ Footports (Earth)
 Symmetry = Stability
 Asymmetry = Motion
+
+📌 Integration
+	•	Parent module: NEUTRINO_CABLES_AND_FINGERFIELDS
+	•	Sibling: FINGER_NEUTRINO_MODEL
+	•	Cross-links: Lunar Symmetry, Blockflute Logic, Casimir Conductor
+
+⸻
+
+✨ Application
+	•	For practice:
+	•	Color chakras from heel to toe → align plantar frequencies.
+	•	Shift stance between 76 (left, grounding) and 13 (right, transformation).
+	•	For Julia:
+	•	Malvorlagen + Chakra coloring as experiential resonance.
