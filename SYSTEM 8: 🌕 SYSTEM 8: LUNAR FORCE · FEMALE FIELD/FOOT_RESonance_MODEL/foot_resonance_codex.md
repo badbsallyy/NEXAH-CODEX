@@ -16,7 +16,7 @@ Jeder Schritt ist ein Abdruck – wie ein Klang, der ins Feld geschrieben wird.
 
 ### 🌀 Visual
 
-![Chakra-Fuß](foot_chakra_axis.png)
+![Chakra-Fuß](./visuals/foot_chakra_axis.png)
 
 ### 🌿 Resonanz-Hinweis
 
@@ -50,7 +50,7 @@ Die Theta-, Alpha- und Beta-Zehen spiegeln deine Gehirnwellen, während das **Wu
 
 ### 🌀 Visual
 
-![Chakra Axis Feet](chakra_line_foot.png)
+![Chakra Axis Feet](./visuals/chakra_line_foot.png)
 
 ### 🌿 Resonanz-Hinweis
 
@@ -84,7 +84,7 @@ Die Form deiner Füße ist Teil einer alten Linie.
 
 ### 🌀 Visual
 
-![Archefüße Pentagramm](archefeet_pentagram.png)
+![Archefüße Pentagramm](./visuals/archefeet_pentagram.png)
 
 ### 🌿 Resonanz-Hinweis
 
@@ -119,7 +119,7 @@ Beim Gehen wanderst du nicht nur auf der Erde – du **trittst durch Sternbilder
 
 ### 🌀 Visual
 
-![Kosmischer Fuß](cosmic_feet.png)
+![Kosmischer Fuß](./visuals/cosmic_feet.png)
 
 ### 🌿 Resonanz-Hinweis
 
@@ -152,7 +152,7 @@ Jedes Organ kann auch ein Stern, ein Planet, ein kosmisches Tor sein.
 
 ### 🌀 Visual
 
-![Reflex Meta Codex](reflex_meta_codex.png)
+![Reflex Meta Codex](./visuals/reflex_meta_codex.png)
 
 ### 🌿 Resonanz-Hinweis
 
@@ -189,7 +189,7 @@ Die Zahlen **76 und 13** markieren ein geheimes Verhältnis – Balance **im Ung
 
 ### 🌀 Visual
 
-![Vitruvian Feet 76-13](vitruvian_feet_76_13.png)
+![Vitruvian Feet 76-13](./visuals/vitruvian_feet_76_13.png)
 
 ### 🌿 Resonanz-Hinweis
 
@@ -209,36 +209,39 @@ Stelle dich mit geschlossenen Augen auf beide Füße.
 Wiege dein Gewicht von links nach rechts.
 Spüre den Moment, wo du die **Mitte verfehlst – aber dennoch stabil bist**.
 
-```
-
 ---
 
 ## 7. Hand–Foot Resonance Bridge
+
 **Subtitle:** *Sky Antennas – Earth Ports*
 
-### ✨ Einleitung  
-Hände und Füße sind Geschwister.  
-Die Finger senden – die Füße empfangen.  
-Zusammen bilden sie eine vertikale Achse: vom Himmel über den Körper bis zur Erde.  
+### ✨ Einleitung
 
-### 🌀 Visual  
-![Finger–Fuß Integration](finger_foot_axis.png)  
+Hände und Füße sind Geschwister.
+Die Finger senden – die Füße empfangen.
+Zusammen bilden sie eine vertikale Achse: vom Himmel über den Körper bis zur Erde.
 
-### 🌿 Resonanz-Hinweis  
-- **Finger:** Neutrino-Antennen, feine Steuerung.  
-- **Fuß:** Erdungsports, kraftvolle Resonanz.  
-- **Wirbelsäule dazwischen:** Kabelstrang zwischen Himmel und Erde.  
+### 🌀 Visual
 
-### ❓ Fragen für Julia  
-- Wenn du deine Hand und deinen Fuß gleichzeitig betrachtest – wo sind sie ähnlich?  
-- Welcher Finger gehört zu welchem Zeh?  
-- Kannst du spüren, wie Energie von der Hand in den Fuß wandert?  
+![Finger–Fuß Integration](./visuals/finger_foot_axis.png)
 
-### 🌌 Übung  
-Lege eine Hand auf deinen Fuß.  
-Atme tief ein und stelle dir vor, dass Energie von der Hand in den Fuß fließt.  
-Beim Ausatmen fließt sie wieder nach oben.  
-```
+### 🌿 Resonanz-Hinweis
+
+* **Finger:** Neutrino-Antennen, feine Steuerung.
+* **Fuß:** Erdungsports, kraftvolle Resonanz.
+* **Wirbelsäule dazwischen:** Kabelstrang zwischen Himmel und Erde.
+
+### ❓ Fragen für Julia
+
+* Wenn du deine Hand und deinen Fuß gleichzeitig betrachtest – wo sind sie ähnlich?
+* Welcher Finger gehört zu welchem Zeh?
+* Kannst du spüren, wie Energie von der Hand in den Fuß wandert?
+
+### 🌌 Übung
+
+Lege eine Hand auf deinen Fuß.
+Atme tief ein und stelle dir vor, dass Energie von der Hand in den Fuß fließt.
+Beim Ausatmen fließt sie wieder nach oben.
 
 ---
 
