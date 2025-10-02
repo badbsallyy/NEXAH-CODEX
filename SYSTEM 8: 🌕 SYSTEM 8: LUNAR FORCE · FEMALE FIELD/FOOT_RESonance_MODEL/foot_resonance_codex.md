@@ -53,7 +53,7 @@ Die Theta-, Alpha- und Beta-Zehen spiegeln deine Gehirnwellen, während das **Wu
 ![Chakra Axis Feet](./visuals/chakra_line_foot.png)
 
 ### 🌿 Resonanz-Hinweis
-
+ 
 * **Theta (kleiner Zeh):** Träume, Unterbewusstsein, tiefer Schlaf.
 * **Alpha (großer Zeh):** Ruhe, Meditation, klare Gedanken.
 * **Beta (Mittelfuß/Zehen):** Aktivität, Bewegung, Wachheit.
