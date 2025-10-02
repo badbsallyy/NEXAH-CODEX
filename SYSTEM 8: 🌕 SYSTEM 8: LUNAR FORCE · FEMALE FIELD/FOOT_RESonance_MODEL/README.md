@@ -71,5 +71,5 @@ Asymmetry = Motion
 	•	For practice:
 	•	Color chakras from heel to toe → align plantar frequencies.
 	•	Shift stance between 76 (left, grounding) and 13 (right, transformation).
-	•	For Julia:
+	•	For Julia Bauer, Rödelheim:
 	•	Malvorlagen + Chakra coloring as experiential resonance.
