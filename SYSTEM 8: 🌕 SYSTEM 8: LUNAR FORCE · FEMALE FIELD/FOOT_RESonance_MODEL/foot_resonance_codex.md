@@ -16,7 +16,7 @@ Jeder Schritt ist ein Abdruck – wie ein Klang, der ins Feld geschrieben wird.
 
 ### 🌀 Visual
 
-![Chakra-Fuß](./visuals/foot_chakra_axis.png)
+![Chakra Axis Feet](/visuals/foot_chakra_axis.png)
 
 ### 🌿 Resonanz-Hinweis
 
