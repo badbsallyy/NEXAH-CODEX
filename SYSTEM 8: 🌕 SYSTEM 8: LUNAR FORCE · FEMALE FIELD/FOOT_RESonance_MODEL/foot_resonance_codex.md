@@ -50,7 +50,7 @@ Die Theta-, Alpha- und Beta-Zehen spiegeln deine Gehirnwellen, während das **Wu
 
 ### 🌀 Visual
 
-![Chakra Axis Feet](./visuals/chakra_line_foot.png)
+![Chakra Line Foot](./visuals/chakra_line_foot.png)
 
 ### 🌿 Resonanz-Hinweis
 
