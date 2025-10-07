@@ -1,12 +1,11 @@
 ---
-
 title: "Appendix IX · Visual Gallery – Codex Algebra of Resonance"
 system: "NEXAH-CODEX · System 1: MATHEMATICA"
 domain: "Operator Visualization · Symbolic Topology"
 status: "Active – Visual Appendix"
 curator: "Thomas Hofmann (Scarabäus1033)"
 license: "CC BY-NC-SA 4.0"
---------------------------
+---
 
 # 🎨 Appendix IX · Visual Gallery
 
