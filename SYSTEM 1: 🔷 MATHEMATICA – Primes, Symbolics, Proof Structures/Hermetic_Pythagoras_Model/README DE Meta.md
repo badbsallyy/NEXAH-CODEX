@@ -1,12 +1,11 @@
 ---
-
 title: "GEOMETRIA NOVA – Meta-Ebene · I – VII"
 system: "NEXAH-CODEX · System 1: MATHEMATICA"
 domain: "Hermetic Pythagoras Model · Resonante Geometrie und Quaternionik"
 status: "Aktiv – Vollständiger Strukturblock I–VII"
 curator: "Thomas Hofmann (Scarabäus1033)"
 license: "CC BY-NC-SA 4.0"
---------------------------
+---
 
 # 🔷 GEOMETRIA NOVA · Meta-Struktur I – VII
 
