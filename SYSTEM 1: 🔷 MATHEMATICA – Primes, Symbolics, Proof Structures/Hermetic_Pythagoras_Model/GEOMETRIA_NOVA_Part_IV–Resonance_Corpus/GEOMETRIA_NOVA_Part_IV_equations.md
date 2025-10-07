@@ -1,72 +1,62 @@
-# GEOMETRIA NOVA · Teil IV — Resonanz-Korpus / Equations  
-**System:** NEXAH-CODEX · System 1 — MATHEMATICA  
-**Curator:** Thomas Hofmann (Scarabäus1033)
+# GEOMETRIA NOVA · Part IV — Resonance Corpus · Equations
 
-> *“When geometry begins to breathe, resonance becomes space.”*  
-> *„Wenn Geometrie zu atmen beginnt, wird Resonanz zu Raum.“*
+## P14 — ϕ-Resonance Spiral / Logarithmic Growth
 
----
-
-## 🌀 P14 — φ-Resonanzspirale / Phi Resonance Spiral
-
-| **Deutsch** | **English** |
+| Deutsch | English |
 |:--|:--|
-| **Logarithmische Spirale (goldene Form)**  <br> \( r(\theta)=r_0 e^{k\theta},\quad k=\ln(\varphi) \)  <br> Diskrete Frames \(n\in\mathbb{N}\): \(\theta_n=nΔ\theta,\;r_n=r_0\varphi^{nΔ\theta}\). <br> Jeder Frame ist ein Quadrat-Layer; Gegenrotation → Fibonacci-Kachelpfad. | **Logarithmic Spiral (φ-form)**  <br> \(r(\theta)=r_0 e^{k\theta}\), \(k=\ln φ\). <br> Discrete frames \(n\): each step = square-layer; counter-rotation yields Fibonacci tiling. |
-| **Fibonacci-Relation** \(F_{n+1}=F_n+F_{n-1}\), \(φ=\lim F_{n+1}/F_n\). <br> **Layer-Skalierung** \(s_n∝F_n\); **Bogenradien** \(R_n∝F_n\). | **Fibonacci law** \(F_{n+1}=F_n+F_{n-1}\); layer scaling \(∝F_n\). |
-| **Torus-Atem (Makro-Analogon)** <br> \(r(t)=r_0(1+ε \sin ωt)\); \(V(t)=2π^2 R r(t)^2\). | **Torus breathing (macro analogy)** <br> Radial oscillation models harmonic pulsation of φ layers. |
+| $$ r(\theta) = r_0 e^{k\theta}, \quad k = \ln(\varphi) $$<br/>Diskrete Frames: $$\theta_n = n\Delta\theta, \quad r_n = r_0\,\varphi^{n\Delta\theta}$$<br/>**Interpretation:** Jeder Frame ist ein Quadrat-Layer; die Gegenrotation erzeugt den Fibonacci-Pfad. | $$ r(\theta) = r_0 e^{k\theta}, \quad k = \ln(\varphi) $$<br/>Discrete frames: $$\theta_n = n\Delta\theta, \quad r_n = r_0\,\varphi^{n\Delta\theta}$$<br/>**Meaning:** Each frame forms a square-layer; counter-rotation yields Fibonacci tiling. |
 
----
-
-## ✚ P15 — Kreuz der Kräfte / Cross of Forces
-
-| **Deutsch** | **English** |
+| Deutsch | English |
 |:--|:--|
-| **Basisfelder**  <br> \(\mathbf{X}=(α,0),\;\mathbf{Y}=(0,β)\), Kopplung \(γ\) entlang \(\mathbf{D}_\pm=(1,±1)\). | **Base fields**  <br> Orthogonal components \(X,Y\) coupled by \(γ\) along diagonals \(D_±=(1,±1)\). |
-| **Linearisierte Dynamik**  <br> \(\dot{\mathbf{u}}=A\mathbf{u},\;A=\begin{pmatrix}α&γ\\γ&β\end{pmatrix}\). <br> Eigenwerte \(λ_±=\tfrac{α+β}{2}±\sqrt{(\tfrac{α-β}{2})^2+γ^2}\). | **Linearized dynamics**  <br> Same matrix form; eigenvalues define resonance axes. |
-| **Energiefluss**  <br> \(\dot E∼\mathbf{u}^T A^T \mathbf{u}\); Stabilität bei \(Re(λ_±)≤0\). | **Energy flux:** \(\dot E∼u^T A^T u\); stability requires \(Re(λ_±)≤0\). |
+| **Fibonacci-Relation**<br/>$$ F_{n+1}=F_n+F_{n-1}, \quad \varphi = \lim_{n\to\infty} \frac{F_{n+1}}{F_n} $$<br/>Layer-Skalierung: $$s_n \propto F_n$$, Bogenradien: $$R_n \propto F_n$$ | **Fibonacci relation**<br/>$$ F_{n+1}=F_n+F_{n-1}, \quad \varphi = \lim_{n\to\infty} \frac{F_{n+1}}{F_n} $$<br/>Layer scaling: $$s_n \propto F_n$$, arc radius: $$R_n \propto F_n$$ |
 
----
-
-## 🜍 P16 — Beobachter-Dualität / Observer Duality
-
-| **Deutsch** | **English** |
+| Deutsch | English |
 |:--|:--|
-| **Zwei Seiten des Blatts**  <br> Sicht auf \(z=x+iy\) (Vorderseite) vs. \(\bar z\) (Rückseite).  <br> **Orientierungswechsel:** \(ℛ:z\mapsto\bar z\); **Rotation:** \(\mathcal{U}_θ:z\mapsto e^{iθ}z\). | **Two sheet model:**  <br> front = \(z=x+iy\), back = \(\bar z\); reflection \(ℛ\) and rotation \(\mathcal{U}_θ\) govern perception symmetry. |
-| **Schattenabbildung:** \(π(z)=Re(e^{-iφ}z)\).  <br> "Shadow path" \(s(t)=π(e^{iωt}z_0)\). | **Shadow projection:** defines oscillating real path, representing phase-dependent perception. |
+| **Torus-Atem (Makro-Analogon)**<br/>$$r(t)=r_0(1+\epsilon\sin\omega t)$$<br/>$$V(t)=2\pi^2 R r(t)^2$$ | **Torus breathing (macro analogy)**<br/>$$r(t)=r_0(1+\epsilon\sin\omega t)$$<br/>$$V(t)=2\pi^2 R r(t)^2$$ |
 
 ---
 
-## 🔶 Volumen & Slicing / Volume & Slicing
+## P15 — Kreuz der Kräfte / Cross of Forces
 
-| **Deutsch** | **English** |
+| Deutsch | English |
 |:--|:--|
-| **Torus:** \(V=2π^2Rr^2\), \(A=4π^2 Rr\). <br> **Kugel:** \(V=\tfrac{4}{3}πR^3\). <br> **Cavalieri-Prinzip:** Gleiche Querschnittsflächen ⇒ gleiche Volumina. | **Torus:** \(V=2π^2Rr^2\), **Sphere:** \(V=\tfrac{4}{3}πR^3\). <br> **Cavalieri’s Principle:** equal cross-sections ⇒ equal volume. |
+| **Basisfelder**<br/>$$\mathbf{X}=(\alpha,0), \; \mathbf{Y}=(0,\beta), \; \mathbf{D}_\pm=(1,\pm 1)$$<br/>Kopplung (\(\gamma\)) entlang der Diagonalen. | **Base fields**<br/>$$\mathbf{X}=(\alpha,0), \; \mathbf{Y}=(0,\beta), \; \mathbf{D}_\pm=(1,\pm 1)$$<br/>Coupling (\(\gamma\)) along diagonals. |
+
+| Deutsch | English |
+|:--|:--|
+| **Linearisiert:**<br/>$$\dot{\mathbf{u}} = A\mathbf{u}, \quad A = \begin{pmatrix}\alpha & \gamma \\ \gamma & \beta\end{pmatrix}$$<br/>Eigenwerte: $$\lambda_{\pm} = \tfrac{\alpha+\beta}{2} \pm \sqrt{(\tfrac{\alpha-\beta}{2})^2 + \gamma^2}$$ | **Linearized dynamics:**<br/>$$\dot{\mathbf{u}} = A\mathbf{u}, \quad A = \begin{pmatrix}\alpha & \gamma \\ \gamma & \beta\end{pmatrix}$$<br/>Eigenvalues: $$\lambda_{\pm} = \tfrac{\alpha+\beta}{2} \pm \sqrt{(\tfrac{\alpha-\beta}{2})^2 + \gamma^2}$$ |
+
+| Deutsch | English |
+|:--|:--|
+| **Energiefluss:** $$\dot E \sim \mathbf{u}^\top A^\top \mathbf{u}$$<br/>Stabilität, wenn $$\operatorname{Re}\lambda_\pm \le 0$$ | **Energy flux:** $$\dot E \sim \mathbf{u}^\top A^\top \mathbf{u}$$<br/>Stable if $$\operatorname{Re}\lambda_\pm \le 0$$ |
 
 ---
 
-## ⚛️ Resonance Corpus Summary (P14–P16)
+## P16 — Beobachter-Dualität / Observer Duality
 
-Each visual/GLB encodes a phase of resonance evolution:
+| Deutsch | English |
+|:--|:--|
+| **Zwei Seiten des Blatts:**<br/>Vorderseite $$z=x+iy$$, Rückseite $$\bar{z}$$.<br/>Orientierungswechsel: $$\mathcal{R}: z \mapsto \bar{z}$$<br/>Rotation: $$\mathcal{U}_\theta: z \mapsto e^{i\theta}z$$ | **Two-sheet model:**<br/>Front: $$z=x+iy$$, back: $$\bar{z}$$.<br/>Reflection: $$\mathcal{R}: z \mapsto \bar{z}$$<br/>Rotation: $$\mathcal{U}_\theta: z \mapsto e^{i\theta}z$$ |
 
-- **P14 — φ Spiral:** logarithmic, layered time-curvature → Fibonacci growth.
-- **P15 — Cross of Forces:** dynamic stabilization grid for phase axes.
-- **P16 — Observer Duality:** mirrored consciousness geometry, front/back linkage.
-
-Unified law:
-\[
-P·T = R
-\]
-where **P = Pulse (frequency)**, **T = Time (frame interval)**, **R = Resonance (stable field)**.
-
-> *Halving T doubles R until the cross saturates; then the observer channel flips phase.*
+| Deutsch | English |
+|:--|:--|
+| **Schattenabbildung:** $$\pi(z)=\Re(e^{-i\phi}z)$$<br/>Schattenpfad: $$s(t)=\pi(e^{i\omega t}z_0)$$<br/>Phase/Winkel steuern sichtbare Geometrie. | **Shadow projection:** $$\pi(z)=\Re(e^{-i\phi}z)$$<br/>Shadow path: $$s(t)=\pi(e^{i\omega t}z_0)$$<br/>Phase and angle control visible geometry. |
 
 ---
 
-### 🔗 Referenzen / References
+## Volumen & Slicing (für Galerieobjekte) / Volume & Slicing (for Gallery Objects)
 
-- [`P14_phi_resonance_spiral.glb`](./visuals/P14_phi_resonance_spiral.glb)
-- [`P15_cross_of_forces.glb`](./visuals/P15_cross_of_forces.glb)
-- [`P16_observer_duality.glb`](./visuals/P16_observer_duality.glb)
-- [`P14_P16_layers.glb`](./visuals/P14_P16_layers.glb)
+| Deutsch | English |
+|:--|:--|
+| **Torus:** $$V=2\pi^2Rr^2,\; A=4\pi^2 R r$$<br/>**Kugel:** $$V=\tfrac{4}{3}\pi R^3$$<br/>**Cavalieri-Prinzip:** Gleichheit der Querschnittsflächen $$A_z$$ ⇒ Gleichheit der Volumina $$V=\int A_z\,dz$$ | **Torus:** $$V=2\pi^2Rr^2,\; A=4\pi^2 R r$$<br/>**Sphere:** $$V=\tfrac{4}{3}\pi R^3$$<br/>**Cavalieri principle:** Equal cross-sections $$A_z$$ imply equal volume $$V=\int A_z\,dz$$ |
 
-**Next Module:** [Part V – Humanoid Platonics & Topological Proofs](../GEOMETRIA_NOVA_Part_V/README.md)
+---
+
+## Resonance Corpus Summary
+
+Unified field relation:
+$$ P \cdot T = R $$
+
+**Pulse (P):** Spiral step rate (φ scaling)  
+**Time (T):** Frame duration between steps  
+**Resonance (R):** Stable harmonic pattern across layers
