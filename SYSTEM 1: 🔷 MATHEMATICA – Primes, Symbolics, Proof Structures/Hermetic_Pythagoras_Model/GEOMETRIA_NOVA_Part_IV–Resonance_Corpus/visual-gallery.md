@@ -1,98 +1,3 @@
----
-title: "GEOMETRIA NOVA – Part IV · Resonance Corpus · Visual Gallery"
-system: "NEXAH-CODEX · System 1: MATHEMATICA"
-domain: "Resonant Geometry · Light-Field Proofs · Harmonic Physics"
-color: "Blue 🔹"
-status: "Active – Visual-Proof Layer"
-curator: "Thomas Hofmann (Scarabäus1033)"
-license: "CC BY-NC-SA 4.0"
----
-
-# 🔹 GEOMETRIA NOVA · PART IV – RESONANCE CORPUS  
-### *Visual Gallery & Proof Sequence*
-
-> “Each geometry carries its own light-frequency.  
->  The proof becomes visible as harmonic motion through form.”
-
----
-
-## 🪞 Hero Visual
-
-![Resonance Equation](./visuals/Resonance_Equation.png)  
-*Higher-Dimensional Light-Speed Variation – E = m · (c^β)²*
-
----
-
-## 🌀 Phi Resonance & Orbital Structures
-
-| Visual | Description |
-|:--|:--|
-| [![Phi Resonance Spiral](./visuals/Phi_Resonance_Spiral.png)](./visuals/Phi_Resonance_Spiral.png) | *Golden Spiral as frequency emergence within resonant space* |
-| [![Orbital Resonance Lab](./visuals/Screenshot_Orbital_Resonance_Lab.png)](./visuals/Screenshot_Orbital_Resonance_Lab.png) | *Orbital field symmetry through solar–lunar equilibrium* |
-| [![Solar Lineup Cinematic](./visuals/Screenshot_Solar_Lineup_Cinematic.png)](./visuals/Screenshot_Solar_Lineup_Cinematic.png) | *Cinematic alignment of planetary resonances (heliocentric stack)* |
-
----
-
-## 🔷 Hyperbolic & Prime Lattice Systems
-
-| Visual | Description |
-|:--|:--|
-| [![Hyperbolic Garden 7_3](./visuals/Screenshot_Hyperbolic_Garden_7_3.png)](./visuals/Screenshot_Hyperbolic_Garden_7_3.png) | *Non-Euclidean curvature and harmonic wave containment* |
-| [![Prime Web Ulam 3D](./visuals/Screenshot_Prime_Web_Ulam3D.png)](./visuals/Screenshot_Prime_Web_Ulam3D.png) | *3-D prime-field matrix and frequency distribution across Ulam plane* |
-| [![Quaternion Playground](./visuals/Screenshot_Quaternion_Playground.png)](./visuals/Screenshot_Quaternion_Playground.png) | *Quaternion axes as four-fold resonant vectors* |
-
----
-
-## 🔶 Quasicrystal and Lensing Architectures
-
-| Visual | Description |
-|:--|:--|
-| [![Phi Nest Quasicrystal](./visuals/Screenshot_Phi_Nest_Quasicrystal.png)](./visuals/Screenshot_Phi_Nest_Quasicrystal.png) | *Φ-nested crystal shell forming frequency harmonic enclosure* |
-| [![Phi Nest Quasicrystal Inside](./visuals/Screenshot_Phi_Nest_Quasicrystal (inside).png)](./visuals/Screenshot_Phi_Nest_Quasicrystal (inside).png) | *Interior resonance path and wave-reflection geometry* |
-| [![Gravitational Lensing Box](./visuals/Screenshot_Gravitational_Lensing_Box.png)](./visuals/Screenshot_Gravitational_Lensing_Box.png) | *Simulated field distortion and space-time fold analysis* |
-
----
-
-## 🌌 Cosmic Resonance & Observer Fields
-
-| Visual | Description |
-|:--|:--|
-| [![Cosmic Web Pointcloud](./visuals/Screenshot_Cosmic_Web_Pointcloud.png)](./visuals/Screenshot_Cosmic_Web_Pointcloud.png) | *Cosmic mesh showing frequency densities and void structures* |
-| [![Observer Duality](./visuals/Observer_Duality.png)](./visuals/Observer_Duality.png) | *Observer field mirroring cosmic resonance axes through light* |
-
----
-
-## 🧭 Structure Overview (GLB Index)
-
-| File | Type | Purpose |
-|:--|:--|:--|
-| `P14_phi_resonance_spiral.glb` | 3D Model | Phi spiral geometry with Fibonacci nodes |
-| `P15_cross_of_forces.glb` | 3D Model | Force cross for harmonic balance |
-| `P16_observer_duality.glb` | 3D Model | Dual axis observer field mapping |
-| `Orbital_Resonance_Lab.glb` | 3D Model | Resonant planetary simulation |
-| `Cosmic_Web_Pointcloud.glb` | 3D Model | Prime-field cosmic lattice visualization |
-| `Phi_Nest_Quasicrystal.glb` | 3D Model | Fractal quasicrystal from Φ nesting sequence |
-| `Hyperbolic_Garden_7_3.glb` | 3D Model | 7:3 hyperbolic harmonic garden construction |
-| `Prime_Web_Ulam3D.glb` | 3D Model | Ulam spiral projection in 3D field space |
-| `Quaternion_Playground.glb` | 3D Model | Quaternionic axis field |
-| `Gravitational_Lensing_Box.glb` | 3D Model | Relativistic lensing framework |
-| `Solar_Lineup_Cinematic.glb` | 3D Model | Solar system frequency stack |
-
----
-
-## ✨ Resonance Cascade Preview
-
-<p align="center">
-  <img src="./visuals/Resonance_Equation.png" width="250"/>
-  <img src="./visuals/Screenshot_Orbital_Resonance_Lab.png" width="250"/>
-  <img src="./visuals/Screenshot_Phi_Nest_Quasicrystal.png" width="250"/>
-  <img src="./visuals/Screenshot_Hyperbolic_Garden_7_3.png" width="250"/>
-  <img src="./visuals/Screenshot_Cosmic_Web_Pointcloud.png" width="250"/>
-</p>
-
----
-
-### 🪲 Credits
 
 **Author & Curator:** Thomas Hofmann (Scarabäus1033)  
 **System:** NEXAH-CODEX · System 1 – MATHEMATICA  
@@ -194,7 +99,79 @@ license: "CC BY-NC-SA 4.0"
 > Each model embodies a bridge between **proof, perception, and energy**, extending Euclidean thought into harmonic motion.
 
 ---
+# 🔹 GEOMETRIA NOVA · PART IV – RESONANCE CORPUS  
+### *Visual Gallery & Proof Sequence*
 
-**Repository:** [github.com/Scarabaeus1033/NEXAH-CODEX](https://github.com/Scarabaeus1033/NEXAH-CODEX)
-**Path:** `/SYSTEM 1: MATHEMATICA/Hermetic_Pythagoras_Model/GEOMETRIA_NOVA_Part_IV–Resonance_Corpus/visuals/visual_gallery.md`
-**Curator:** Thomas Hofmann (Scarabäus1033)
+> “Each geometry carries its own light-frequency.  
+>  The proof becomes visible as harmonic motion through form.”
+
+---
+
+## 🪞 Hero Visual
+
+![Resonance Equation](./visuals/Resonance_Equation.png)  
+*Higher-Dimensional Light-Speed Variation – E = m · (c^β)²*
+
+---
+
+## 🌀 Phi Resonance & Orbital Structures
+
+| Visual | Description |
+|:--|:--|
+| ![Phi Resonance Spiral](./visuals/Phi_Resonance_Spiral.png) | *Golden Spiral as frequency emergence within resonant space* |
+| ![Orbital Resonance Lab](./visuals/Screenshot%20Orbital_Resonance_Lab.png) | *Orbital field symmetry through solar–lunar equilibrium* |
+| ![Solar Lineup Cinematic](./visuals/Screenshot%20Solar_Lineup_Cinematic.png) | *Cinematic alignment of planetary resonances (heliocentric stack)* |
+
+---
+
+## 🔷 Hyperbolic & Prime Lattice Systems
+
+| Visual | Description |
+|:--|:--|
+| ![Hyperbolic Garden 7_3](./visuals/Screenshot%20Hyperbolic_Garden_7_3.png) | *Non-Euclidean curvature and harmonic wave containment* |
+| ![Prime Web Ulam 3D](./visuals/Screenshot%20Prime_Web_Ulam3D.png) | *3-D prime-field matrix and frequency distribution across Ulam plane* |
+| ![Quaternion Playground](./visuals/Screenshot%20Quaternion_Playground.png) | *Quaternion axes as four-fold resonant vectors* |
+
+---
+
+## 🔶 Quasicrystal and Lensing Architectures
+
+| Visual | Description |
+|:--|:--|
+| ![Phi Nest Quasicrystal](./visuals/Screenshot%20Phi_Nest_Quasicrystal.png) | *Φ-nested crystal shell forming frequency harmonic enclosure* |
+| ![Phi Nest Quasicrystal Inside](./visuals/Screenshot%20Phi_Nest_Quasicrystal%20%28inside%29.png) | *Interior resonance path and wave-reflection geometry* |
+| ![Gravitational Lensing Box](./visuals/Screenshot%20Gravitational_Lensing_Box.png) | *Simulated field distortion and spacetime fold analysis* |
+
+---
+
+## 🌌 Cosmic Resonance & Observer Fields
+
+| Visual | Description |
+|:--|:--|
+| ![Cosmic Web Pointcloud](./visuals/Screenshot%20Cosmic_Web_Pointcloud.png) | *Cosmic mesh showing frequency densities and void structures* |
+| ![Observer Duality](./visuals/Observer_Duality.png) | *Observer field mirroring cosmic resonance axes through light* |
+
+---
+
+## ✨ Resonance Cascade Preview
+
+<p align="center">
+  <img src="./visuals/Resonance_Equation.png" width="240"/>
+  <img src="./visuals/Screenshot%20Orbital_Resonance_Lab.png" width="240"/>
+  <img src="./visuals/Screenshot%20Phi_Nest_Quasicrystal.png" width="240"/><br/>
+  <img src="./visuals/Screenshot%20Hyperbolic_Garden_7_3.png" width="240"/>
+  <img src="./visuals/Screenshot%20Cosmic_Web_Pointcloud.png" width="240"/>
+</p>
+
+---
+
+### 🪲 Credits
+
+**Author & Curator:** Thomas Hofmann (Scarabäus1033)  
+**System:** NEXAH-CODEX · System 1 – MATHEMATICA  
+**GitHub:** [github.com/Scarabaeus1033/NEXAH-CODEX](https://github.com/Scarabaeus1033/NEXAH-CODEX)  
+**Web:** [www.scarabaeus1033.net](https://www.scarabaeus1033.net)  
+**License:** [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)
+
+> *“Form breathes frequency; frequency becomes geometry;  
+>  geometry awakens light.”*
