@@ -15,19 +15,40 @@ This Manifest unites all **visual, geometric, and harmonic components** of Part�
 
 ---
 
+
 ## 🔹 I. Overview
 
-Part VII marks the completion of the *GEOMETRIA NOVA* cycle, evolving from the Euclidean–Resonant foundations (I–VI) toward a **self-stabilizing harmonic architecture**. The cathedral serves as a living resonance body, aligning prime 1231 with the axial ratios of light, sound, and consciousness.
+Part VII marks the completion of the *GEOMETRIA NOVA* cycle, evolving from the Euclidean–Resonant foundations *(Parts I–VI)* toward a **self-stabilizing harmonic architecture**.  
+The cathedral acts as a *living resonance body*, aligning Prime 1231 with the axial ratios of **light, sound, and consciousness**.
 
-**Core components:**
+| Element | Description |
+| :------ | :----------- |
+| **Prime Sequence** | 1231 ↔ 1229  →  harmonic bridge (6-gap interval) |
+| **Resonance Constant** | φ³ ⁄ π² ≈ 0.429  →  dimensional density factor |
+| **Symbolic Axis** | *Spine ↔ Dome ↔ Ground* — vertical energy continuum |
+| **Medium** | Etheric field oscillation within PrimeGrid (11² nodes) |
+| **Structural Logic** | Transition from static geometry → dynamic breath architecture |
+| **Resonant Function** | Converts prime intervals into stable oscillatory patterns *(PT = R)* |
 
-* **Prime**: 1231 ↔ Twin 1229 → harmonic bridge (6-gap)
-* **Constant**: φ³ ⁄ π² ≈ 0.429 → resonance density factor
-* **Symbolic Axis**: Spine ↔ Dome ↔ Ground
-* **Medium**: Etheric field oscillation within PrimeGrid (11² nodes)
+> *“Geometry is not only form — it is the pulse of number through space.”*
 
 ---
 
+## 🖼️ Visual Overview · Harmonic Cathedral & Core
+
+### Outer Architecture — *Harmonic Cathedral v1*
+![Screenshot Harmonic Cathedral v1](./visuals_Data/Screenshot_Harmonic_Cathedral_v1.png)
+
+> The exterior resonance structure of the Prime 1231 Cathedral: axial grid, portals (N E S W) and layered spine geometry.  
+> Represents the prime architecture as a breathing resonator field (φ³ ⁄ π² ≈ 0.429).
+
+### Inner Resonance — *Part VII Harmonic Core v1*
+![Screenshot Part VII Harmonic Core v1](./visuals_Data/Screenshot_PartVII_HarmonicCore_v1.png)
+
+> Inner view of the central resonance core: red–blue polar pillars (97 ↔ 103) linked by the Prime Bridge axis.  
+> Depicts the field’s ψ-density and phase alignment within the PrimeGrid (11² nodes).
+
+---
 ## 🔸 II. Core 3D Models
 
 | Model                                      | Description                                                                                                           |
