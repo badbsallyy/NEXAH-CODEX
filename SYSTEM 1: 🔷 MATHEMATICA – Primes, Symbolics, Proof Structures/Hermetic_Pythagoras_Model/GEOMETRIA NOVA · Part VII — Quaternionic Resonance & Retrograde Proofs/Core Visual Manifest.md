@@ -84,7 +84,7 @@ Part VII marks the completion of the *GEOMETRIA NOVA* cycle, evolving from t
 | ![VII\_PrimeBridge\_97\_103.png](./visuals_Data/VII_PrimeBridge_97_103.png)        | **Prime Bridge 97–103**                    | Linear connector between prime resonators; spinal axis foundation.   |
 | ![VII\_FieldProjection.png](./visuals_Data/VII_FieldProjection.png)                | **Field Projection**                       | Visualization of ψ-field around Prime 1231 with breathing halo.      |
 | ![VII\_ThetaGate.png](./visuals_Data/VII_ThetaGate.png)                            | **Theta Gate**                             | Toroidal entry arc — vortex of phase transition (π⁄2 rotation).      |
-| ![VII\_HarmonicCore\_v1.png](./visuals_Data/VII_HarmonicCore_v1.png)               | **Cathedral Core (repr. by HarmonicCore)** | Interior perspective showing spine and resonant breath structure.    |
+| ![VII\_HarmonicCore\_v1.png](./visuals_Data/Screenshot_PartVII_HarmonicCore_v1.png)               | **Cathedral Core (repr. by HarmonicCore)** | Interior perspective showing spine and resonant breath structure.    |
 | ![RedBlue\_Obelisk.png](./visuals_Data/RedBlue_Obelisk.png)                        | **Red–Blue Obelisk**                       | Symbolic polarity of East–West pillars within harmonic axis.         |
 
 > **Scientific Note:**
