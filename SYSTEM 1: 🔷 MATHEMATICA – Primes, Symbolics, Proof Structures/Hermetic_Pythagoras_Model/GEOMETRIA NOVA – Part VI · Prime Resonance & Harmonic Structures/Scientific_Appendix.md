@@ -1,11 +1,10 @@
 ---
-
 title: "GEOMETRIA NOVA – Part VI · Resonant Appendix & Field Equations"
 system: "NEXAH-CODEX · System 1: MATHEMATICA"
 domain: "Field Physics · Resonance Theory · Prime Geometry"
 status: "Active · All-in-One Appendix"
 license: "CC BY-NC-SA 4.0"
---------------------------
+---
 
 # 🌀 GEOMETRIA NOVA · Part VI — Resonant Appendix & Field Equations
 
