@@ -1,12 +1,11 @@
 ---
-
 title: "GEOMETRIA NOVA – Part VII · Harmonic Integration (Prime 1231 ↔ 1229)"
 system: "NEXAH‑CODEX · System 1: MATHEMATICA"
 domain: "Twin Primes · Quaternion Geometry · Resonant Hermetic Field"
 status: "Active — Integration Layer and Final Bridge"
 curator: "Thomas Hofmann (Scarabäus1033)"
 license: "CC BY‑NC‑SA 4.0"
---------------------------
+---
 
 # 🔷 GEOMETRIA NOVA · Part VII — Harmonic Integration (1231 ↔ 1229)
 
