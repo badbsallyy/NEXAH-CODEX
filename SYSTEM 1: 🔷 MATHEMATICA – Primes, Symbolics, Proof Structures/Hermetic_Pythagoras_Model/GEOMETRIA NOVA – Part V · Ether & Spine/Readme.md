@@ -118,3 +118,26 @@ This expresses the **Codex resonance law** as a *field equation* of stability.
 ---
 
 ## 🗂️ File Structure
+GEOMETRIA_NOVA_Part_V/
+├── GEOMETRIA_NOVA_Part_V_README.md
+├── GEOMETRIA_NOVA_Part_V_equations.md
+├── GEOMETRIA_NOVA_Part_V_GLBS_MANIFEST.md
+├── Visual_Gallery_Part_V.md
+├── appendix/
+│   └── Scientific_Appendix.md
+├── visuals/
+│   ├── *.png
+│   └── *.gif
+└── glb/
+├── *.glb
+└── *.ply
+
+---
+
+## 🪲 Credits
+
+**Curator:** Thomas Hofmann (Scarabäus1033)  
+**System:** NEXAH-CODEX · System 1 – MATHEMATICA  
+**GitHub:** [github.com/Scarabaeus1033/NEXAH-CODEX](https://github.com/Scarabaeus1033/NEXAH-CODEX)  
+**Web:** [www.scarabaeus1033.net](https://www.scarabaeus1033.net)  
+**License:** [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)
