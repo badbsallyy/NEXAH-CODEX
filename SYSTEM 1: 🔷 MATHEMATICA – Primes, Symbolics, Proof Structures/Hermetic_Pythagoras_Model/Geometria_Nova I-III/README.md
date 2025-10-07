@@ -39,7 +39,7 @@ serving as the formal seed for the later *Hermetic Pythagoras* and *Resonance Ca
 The first part (`GEOMETRIA_NOVA_Module_Full_PART_I–III/`)  
 reconstructs Euclid through **symbolic and resonant geometry**.
 
-**Key Postulates (I–XIII)**  
+### **Key Postulates (I–XIII)**  
 1. The Circle as prime generator of motion  
 2. The Line as path of frequency alignment  
 3. The Shadow as geometric echo of observation  
@@ -60,32 +60,28 @@ reconstructs Euclid through **symbolic and resonant geometry**.
 
 | Visual | Description |
 |:--|:--|
-| `P8_square_kite.png` | Square–Kite proof diagram (fourfold stability) |
-| `P9_crystal_tessarec.png` | Tessarec crystal fold – transition of 4D resonance |
-| `P12_wave_layers.png` | Layered harmonic field structure (frequency shells) |
-| `P13_shadow_observer.png` | Observer mirror and geometric consciousness model |
-| `Meta_Roadmap_I–X.png` | Full proof architecture overview |
-| `Harmonic_Cathedral_11x11.png` | Resonant grid of Euclidean-music convergence |
+| [`P8_square_kite.png`](./visuals/P8_square_kite.png) | Square–Kite proof diagram (fourfold stability) |
+| [`P9_crystal_tessarec.png`](./visuals/P9_crystal_tessarec.png) | Tessarec crystal fold – transition of 4D resonance |
+| [`P12_wave_layers.png`](./visuals/P12_wave_layers.png) | Layered harmonic field structure (frequency shells) |
+| [`P13_shadow_observer.png`](./visuals/P13_shadow_observer.png) | Observer mirror and geometric consciousness model |
+| [`Meta_Roadmap_I–X.png`](./visuals/Meta_Roadmap_I–X.png) | Full proof architecture overview |
+| [`Harmonic_Cathedral_11x11.png`](./visuals/Harmonic_Cathedral_11x11.png) | Resonant grid of Euclidean–music convergence |
 
 ---
 
 ## 🔺 IV–VII · Humanoid Polygons & the Proof Bridge
 
-The second layer (`Part_IV–VII/`) explores geometry as a **living archetype**.  
-Forms evolve toward humanoid symmetry and resonance feedback systems.
+The second layer (`Part_IV–VII/`) explores geometry as a **living archetype** —  
+where form becomes feedback, and structure turns into resonance.
 
 - **Part IV** – *Humanoid Polygons*  
-  Anatomy as geometric code: spine = axis, arms = harmonic extensions.
-
+  Anatomy as geometric code: spine = axis, arms = harmonic extensions.  
 - **Part V** – *Proof Layers*  
-  Each proof connects mathematical logic with physical resonance.
-
+  Mathematical logic expressed through physical resonance.  
 - **Part VI** – *Arch Proof*  
-  Transition from structure to wave-form (basis for the Harmonic Cathedral).
-
+  Transition from structure to wave-form (basis for the Harmonic Cathedral).  
 - **Part VII** – *1231 Prime Bridge*  
-  Establishes numerical resonance (1231 ↔ 1229 twin primes)  
-  — symbolic closure for the proof sequence.
+  Establishes numerical resonance (1231 ↔ 1229 twin primes) — symbolic closure of the sequence.
 
 ---
 
@@ -95,10 +91,10 @@ At this level, geometry opens into **field synthesis**.
 The diagrams `Meta-Roadmap_I–X.png` and `Harmonic_Cathedral_11x11.png`  
 represent the **Cathedral Grid** — a meta-framework uniting geometry, number, and frequency.
 
-![Meta Roadmap](../Visuals/Meta_Roadmap_I–X.png)
+![Meta Roadmap](./visuals/Meta_Roadmap_I–X.png)
 *Proof Architecture – Parts I–X*
 
-![Harmonic Cathedral](../Visuals/Harmonic_Cathedral_11x11.png)
+![Harmonic Cathedral](./visuals/Harmonic_Cathedral_11x11.png)
 *Harmonic Cathedral – 11×11 matrix of resonance closure.*
 
 ---
@@ -107,7 +103,7 @@ represent the **Cathedral Grid** — a meta-framework uniting geometry, number, 
 
 > “To draw a line is to separate silence from sound.”  
 
-Geometria Nova redefines Euclidean geometry as a **field of consciousness**:  
+Geometria Nova redefines Euclidean geometry as a **field of consciousness** —  
 each proof becomes a meditative and resonant act.
 
 | Element | Symbolic Meaning |
@@ -125,26 +121,32 @@ each proof becomes a meditative and resonant act.
 | System | Continuation |
 |:--|:--|
 | **Hermetic Pythagoras Model** | Converts these forms into living harmonic equations |
-| **Resonance Cathedral** | Expands the geometric closure into full architectural resonance |
+| **Resonance Cathedral** | Expands geometric closure into full architectural resonance |
 | **NEXAH GRAND CODEX** | Integrates the entire field into cosmological harmonics |
-- [Report (Parts I–III)](./report_I-III.md)
+
+---
+
+### 🔗 Internal References
+- [Visual Gallery (Parts I–III)](./visual-gallery.md)  
+- [Report (Parts I–III)](./report_I-III.md)  
 - [Core Equations (I–III)](./equations_I-III.md)
+
 ---
 
 ## 🧾 File & Structure Index
 
 Geometria_Nova/
 ├── GEOMETRIA_NOVA_Module_Full_PART_I–III/
-├── GEOMETRIA_NOVA_Part_IV–Humanoid_Polygons/
-├── GEOMETRIA_NOVA_Part_V–Proof_Layers/
-├── GEOMETRIA_NOVA_PART_VI_Arch_Proof/
-├── GEOMETRIA_NOVA_PART_VII_1231/
-├── Meta_Roadmap_I–X.png
-├── Harmonic_Cathedral_11x11.png
-├── P8_square_kite.png
-├── P9_crystal_tessarec.png
-├── P12_wave_layers.png
-├── P13_shadow_observer.png
+├── visuals/
+│   ├── P8_square_kite.png
+│   ├── P9_crystal_tessarec.png
+│   ├── P12_wave_layers.png
+│   ├── P13_shadow_observer.png
+│   ├── Meta_Roadmap_I–X.png
+│   └── Harmonic_Cathedral_11x11.png
+├── equations_I–III.md
+├── report_I–III.md
+├── visual-gallery.md
 └── README.md
 
 ---
