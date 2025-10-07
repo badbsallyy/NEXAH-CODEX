@@ -38,7 +38,7 @@ _Where Postulates unfold into Harmonic Structure_
 | Visual | Description |
 |:--|:--|
 | ![Proof_Flowchart](./visuals/proof_flowchart.png) | **Proof Flowchart**<br>Logical hierarchy of the 13 Postulates — from axioms to corollaries in resonance order. |
-| ![Proof_Lattice](./visuals/Proof_Lattice–Layered_Structure.png) | **Proof Lattice**<br>Layered interdependence between proofs, showing vertical harmonic coupling. |
+| ![Proof_Lattice](./visuals/Proof_Lattice–Layered Structure.png) | **Proof Lattice**<br>Layered interdependence between proofs, showing vertical harmonic coupling. |
 | ![Proof_Cascade](./visuals/Proof_Cascade–From_Axioms_to_Corollaries.png) | **Proof Cascade**<br>Visual flow from foundational axioms through cascading harmonic relationships. |
 | ![observer_duality](./visuals/observer_duality.png) | **Observer Duality**<br>Dual-field perception grid: the observer’s eye as geometric mirror of the field. |
 | ![proof_architecture_layers](./visuals/proof_architecture_layers.png) | **Proof Architecture Layers**<br>Macro view of proof architecture — synthesis of geometry, logic and vibration. |
