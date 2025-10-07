@@ -127,7 +127,8 @@ each proof becomes a meditative and resonant act.
 | **Hermetic Pythagoras Model** | Converts these forms into living harmonic equations |
 | **Resonance Cathedral** | Expands the geometric closure into full architectural resonance |
 | **NEXAH GRAND CODEX** | Integrates the entire field into cosmological harmonics |
-
+- [Report (Parts I–III)](./report_I-III.md)
+- [Core Equations (I–III)](./equations_I-III.md)
 ---
 
 ## 🧾 File & Structure Index
