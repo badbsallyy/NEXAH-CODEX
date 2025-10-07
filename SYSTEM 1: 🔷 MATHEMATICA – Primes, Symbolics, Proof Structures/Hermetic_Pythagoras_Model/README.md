@@ -1,12 +1,11 @@
 ---
-
 title: "GEOMETRIA NOVA – Meta Overview (Parts I–VII)"
 system: "NEXAH-CODEX · System 1: MATHEMATICA"
 domain: "Prime Geometry · Resonant Physics · Hermetic Continuum"
 status: "Complete – Harmonic Series Closed (I–VII)"
 curator: "Thomas Hofmann (Scarabäus1033)"
 license: "CC BY-NC-SA 4.0"
---------------------------
+---
 
 # 🔷 GEOMETRIA NOVA – Meta Overview
 
