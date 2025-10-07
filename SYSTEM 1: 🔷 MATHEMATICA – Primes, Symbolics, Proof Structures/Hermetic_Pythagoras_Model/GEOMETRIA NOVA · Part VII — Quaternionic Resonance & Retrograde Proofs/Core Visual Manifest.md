@@ -32,6 +32,18 @@ The cathedral acts as a *living resonance body*, aligning Prime 1231 with the ax
 
 > *“Geometry is not only form — it is the pulse of number through space.”*
 
+
+---
+## 🔸 II. Core 3D Models
+
+| Model                                      | Description                                                                                                           |
+| :----------------------------------------- | :-------------------------------------------------------------------------------------------------------------------- |
+| **Harmonic_Cathedral_v1.gltf**             | glTF 2.0 model of the Cathedral — central Prime Axis 1231, four portal arches (N E S W), and resonant field geometry. |
+| **PartVII_HarmonicCore_v1.gltf**           | Inner Harmonic Core model representing the Prime Bridge 97–103 and ψ-field coupling.                                  |
+| **Screenshot_PartVII_HarmonicCore_v1.png** | Reference render of HarmonicCore spinal axis and PrimeBridge interaction.                                             |
+
+> *“Architecture emerges where resonance becomes geometry.”*
+
 ---
 
 ## 🖼️ Visual Overview · Harmonic Cathedral & Core
@@ -48,19 +60,6 @@ The cathedral acts as a *living resonance body*, aligning Prime 1231 with the ax
 
 > Inner view of the central resonance core: red–blue polar pillars (97 ↔ 103) linked by the Prime Bridge axis.  
 > Depicts the field’s ψ-density and phase alignment within the PrimeGrid (11² nodes).
-
----
-## 🔸 II. Core 3D Models
-
-| Model                                      | Description                                                                                                           |
-| :----------------------------------------- | :-------------------------------------------------------------------------------------------------------------------- |
-| **Harmonic_Cathedral_v1.gltf**             | glTF 2.0 model of the Cathedral — central Prime Axis 1231, four portal arches (N E S W), and resonant field geometry. |
-| **PartVII_HarmonicCore_v1.gltf**           | Inner Harmonic Core model representing the Prime Bridge 97–103 and ψ-field coupling.                                  |
-| **Screenshot_PartVII_HarmonicCore_v1.png** | Reference render of HarmonicCore spinal axis and PrimeBridge interaction.                                             |
-
-> *“Architecture emerges where resonance becomes geometry.”*
-
-![Screenshot\_PartVII\_HarmonicCore\_v1.png](./visuals_Data/Screenshot_PartVII_HarmonicCore_v1.png)
 
 ---
 
