@@ -18,10 +18,21 @@ _generated: 2025-10-07_
 
 ---
 
+## 🔷 Core Resonance Structures
+
+| ID | Model | Description | Preview |
+|:--|:--|:--|:--|
+| G07 | **Resonance Cathedral v0.8 Extended** | Harmonic step-array with embedded field loops — symbolizes the standing-wave architecture of the Codex. | ![Screenshot_resonance_cathedral_v0_8_extended.png](./visuals/Screenshot_resonance_cathedral_v0_8_extended.png) |
+| G08 | **ETHER MODEL Θ–Tao–Dao** | Toroidal double-lemniscate coupling — depicts the breathing transition between dual resonance streams. | ![Screenshot_ETHER_MODEL_Theta_Tao_Dao-toroidale%20Doppel-Lemniskaten-Kopplung%20ii.png](./visuals/Screenshot_ETHER_MODEL_Theta_Tao_Dao-toroidale%20Doppel-Lemniskaten-Kopplung%20ii.png) |
+| G09 | **NEXAH Portal Elevator** | Vertical frequency spine — stacked harmonic discs forming the cosmic elevator of Ether & Spine. | ![Screenshot_NEXAH_Portal_Elevator.png](./visuals/Screenshot_NEXAH_Portal_Elevator.png) |
+
+---
+
 ## 🖼️ Screenshots
 
 | Image | Preview | Notes |
 |:--|:--|:--|
+
 | ![Screenshot Ether Eye Dual Show](./visuals/Screenshot_ether_eye_dual_show.png) | Etheric dual stream | ψ-field interaction |
 | ![Screenshot Ethercodex Final Poster](./visuals/Screenshot_ethercodex_final_poster.png) | Codex overview | composition layout |
 | ![Screenshot Blue Pearl Crown Earth Zodiac](./visuals/Screenshot_blue_pearl_crown_earth_zodiac.png) | 12-axis field crown | spectral balance |
