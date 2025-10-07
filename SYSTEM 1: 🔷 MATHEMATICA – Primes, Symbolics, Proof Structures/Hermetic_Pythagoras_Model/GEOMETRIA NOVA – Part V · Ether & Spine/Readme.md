@@ -118,7 +118,7 @@ This expresses the **Codex resonance law** as a *field equation* of stability.
 ---
 
 ## 🗂️ File Structure
-GEOMETRIA_NOVA_Part_V/
+| GEOMETRIA_NOVA_Part_V |
 |:--|:--|
 ├── GEOMETRIA_NOVA_Part_V_README.md
 ├── GEOMETRIA_NOVA_Part_V_equations.md
