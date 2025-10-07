@@ -13,11 +13,24 @@ license: "CC BY-NC-SA 4.0"
 
 > “Between Euclid’s Line and Pythagoras’ Tone lies the Hermetic Bridge of Number.”  
 
-The **Hermetic Pythagoras Model** is the **resonant heart of System 1**.  
-It translates static geometry into *living harmonic proportion*, bridging the language of Euclid with the alchemy of vibration.
+The **Hermetic Pythagoras Model** bridges *Euclidean geometry*, *harmonic proportion*, and *symbolic resonance*.  
+It transforms static mathematical relationships into vibrational structures —  
+where **number becomes frequency**, and **form becomes field**.
 
-This module unifies **form, number, and frequency** through symbolic proofs, resonant diagrams, and harmonic constants.  
-It stands as the *intermediary field* between **Geometria Nova** (pure form) and the **Codex Algebra of Resonance** (active operator grammar).
+This module unifies **form, number, and vibration** through symbolic proofs, harmonic diagrams, and resonant constants.  
+It stands as the *intermediary field* between **Geometria Nova** (pure form)  
+and the **Codex Algebra of Resonance** (active operator grammar).
+
+---
+
+## 📂 Module Structure
+
+| Folder | Description |
+|:--|:--|
+| [`/Geometria_Nova/`](./Geometria_Nova/) | The Euclidean foundation — geometry, proof, and postulates. |
+| [`/Visuals/`](./Visuals/) | Harmonic triangle, resonance spirals, frequency overlays. |
+| [`/Codex_Algebra_of_Resonance/`](./Codex_Algebra_of_Resonance/) | Operator grammar and algebraic continuation. |
+| [`/docs/`](./docs/) *(optional)* | Supplementary texts, exports, and symbolic notes. |
 
 ---
 
@@ -39,9 +52,9 @@ Together they form the **Pythagorean Trinity** within the blue system:
 > “The Circle and the Line are but the body; the Shadow reveals the frequency of form.”
 
 The sub-module [`Geometria Nova/`](./Geometria_Nova/)  
-documents the **13 Postulates** of the *Circle, the Line, and the Shadow* —  
+documents the **13 Postulates** of *The Circle, the Line, and the Shadow* —  
 the origin of Euclidean proportion within the Codex.  
-Here geometry begins to shimmer: every line carries phase, every ratio breathes.
+Here, geometry begins to shimmer: every line carries phase, every ratio breathes.
 
 **Core Components**
 - *Part I–III*: The Circle, the Line & the Shadow  
@@ -98,7 +111,7 @@ between visible form and abstract operator logic within System 1.
 
 ## 🧩 Visual Structure
 
-All diagrams and frequency plots are archived in [`Visuals/`](./Visuals/):
+All diagrams and frequency plots are archived in [`/Visuals/`](./Visuals/):
 
 | Visual | Description |
 |:--|:--|
@@ -119,13 +132,22 @@ Through the Hermetic Pythagoras model, geometry regains its original *resonant d
 
 ---
 
+## 🔭 Cross-System Integration
+
+This module interfaces with:
+- **System 2 – PHYSICA**: Converts resonance geometry into measurable field dynamics.  
+- **System 3 – COSMICA**: Expands the harmonic lattice to planetary and temporal scales.  
+- **System X – GRAND CODEX**: Synthesizes all resonance systems into the universal field equation.
+
+---
+
 ## 🔗 Connections
 
 | Related Module | System | Relation |
 |:--|:--|:--|
-| [NEXA Riemann Proof](../../NEXA_RIEMANN_PROOF/) | System 1 | Harmonic continuation of the resonance field |
-| [Einstein k-Beta Formula](../../codex-mathematics/E=mc·k^β.md) | System 1 | Energetic translation of geometric proportion |
-| [Final Harmonic Equation](../../../NEXAH-GRAND-CODEX/FINAL_HARMONIC_EQUATION/) | System X | Cosmological synthesis of the same field logic |
+| [NEXA Riemann Proof](../../NEXA_RIEMANN_PROOF/) | System 1 | Harmonic continuation of the resonance field. |
+| [Einstein k-Beta Formula](../../codex-mathematics/E=mc·k^β.md) | System 1 | Energetic translation of geometric proportion. |
+| [Final Harmonic Equation](../../../NEXAH-GRAND-CODEX/FINAL_HARMONIC_EQUATION/) | System X | Cosmological synthesis of the same field logic. |
 
 ---
 
