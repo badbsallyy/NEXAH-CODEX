@@ -1,0 +1,18 @@
+newmtl kite_left
+Kd 0.1 0.7 0.2
+Ka 0.05 0.05 0.05
+Ks 0.0 0.0 0.0
+d 1.0
+
+newmtl kite_right
+Kd 0.1 0.55 0.85
+Ka 0.05 0.05 0.05
+Ks 0.0 0.0 0.0
+d 1.0
+
+newmtl square_fill
+Kd 0.85 0.85 0.85
+Ka 0.05 0.05 0.05
+Ks 0.0 0.0 0.0
+d 1.0
+
