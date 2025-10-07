@@ -42,6 +42,7 @@ The cathedral acts as a *living resonance body*, aligning Prime 1231 with the ax
 > The exterior resonance structure of the Prime 1231 Cathedral: axial grid, portals (N E S W) and layered spine geometry.  
 > Represents the prime architecture as a breathing resonator field (φ³ ⁄ π² ≈ 0.429).
 
+
 ### Inner Resonance — *Part VII Harmonic Core v1*
 ![Screenshot Part VII Harmonic Core v1](./visuals_Data/Screenshot_PartVII_HarmonicCore_v1.png)
 
