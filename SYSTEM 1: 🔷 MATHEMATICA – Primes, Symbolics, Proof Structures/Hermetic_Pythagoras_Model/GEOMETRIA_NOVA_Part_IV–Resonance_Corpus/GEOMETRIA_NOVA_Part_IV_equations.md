@@ -1,107 +1,72 @@
-# GEOMETRIA NOVA · Teil IV — Equations
+# GEOMETRIA NOVA · Teil IV — Resonanz-Korpus / Equations  
+**System:** NEXAH-CODEX · System 1 — MATHEMATICA  
+**Curator:** Thomas Hofmann (Scarabäus1033)
 
-## P14 — φ‑Resonanzspirale
-
-1. **Logarithmische Spirale (goldene Form)**  
-   \[ r(\theta) = r_0\,e^{k\theta},\qquad k=\ln(\varphi) \]
-   Diskrete Frames \(n\in\mathbb{N}\): \(\theta_n = n\Delta\theta\), \(r_n=r_0\,\varphi^{n\Delta\theta}\).  
-   **Interpretation:** Jeder Frame ist ein Quadrat‑Layer; die **Gegenrotation** nach jedem Schritt erzeugt den
-   bekannten Fibonacci‑Kachelpfad (Bögen als Kreissegmente).
-
-2. **Fibonacci‑Relation**  
-   \(F_{n+1}=F_n+F_{n-1}\), \(\varphi = \lim_{n\to\infty} \frac{F_{n+1}}{F_n}\).  
-   **Layer‑Skalierung:** \(s_n \propto F_n\); **Bogenradien:** \(R_n\propto F_n\).
-
-3. **Torus‑Atem (Makro‑Analogon)**  
-   Torus: Haupt‑/Nebenradius \(R>r>0\). Atemmodulation:  
-   \(r(t)=r_0\left(1+\epsilon\sin\omega t\right)\).  
-   **Volumen:** \(V(t)=2\pi^2 R\,r(t)^2\).
+> *“When geometry begins to breathe, resonance becomes space.”*  
+> *„Wenn Geometrie zu atmen beginnt, wird Resonanz zu Raum.“*
 
 ---
 
-## P15 — Kreuz der Kräfte
+## 🌀 P14 — φ-Resonanzspirale / Phi Resonance Spiral
 
-1. **Basisfelder**  
-   \(\mathbf{X}=(\alpha,0),\ \mathbf{Y}=(0,\beta)\) mit Kopplung \(\gamma\) entlang der Diagonalen
-   \(\mathbf{D}_\pm=(1,\pm 1)\).
-
-2. **Gekoppelte Dynamik (linearisiert)**  
-   \[ \dot{\mathbf{u}} = A\,\mathbf{u},\qquad 
-      A=\begin{pmatrix}\alpha & \gamma \\ \gamma & \beta\end{pmatrix} \]
-   Eigenwerte \( \lambda_{\pm} = \tfrac{\alpha+\beta}{2} \pm \sqrt{\left(\tfrac{\alpha-\beta}{2}\right)^2+\gamma^2}\).  
-   **Deutung:** \(\gamma\neq 0\) erzeugt *Drift/Rotation* entlang der Diagonalen (Resonanzpfade).
-
-3. **Energiefluss (Skizze)**  
-   \( \dot E \sim \mathbf{u}^\top A^\top \mathbf{u}\). Stabilität erfordert \(\operatorname{Re}\lambda_\pm\le 0\).
+| **Deutsch** | **English** |
+|:--|:--|
+| **Logarithmische Spirale (goldene Form)**  <br> \( r(\theta)=r_0 e^{k\theta},\quad k=\ln(\varphi) \)  <br> Diskrete Frames \(n\in\mathbb{N}\): \(\theta_n=nΔ\theta,\;r_n=r_0\varphi^{nΔ\theta}\). <br> Jeder Frame ist ein Quadrat-Layer; Gegenrotation → Fibonacci-Kachelpfad. | **Logarithmic Spiral (φ-form)**  <br> \(r(\theta)=r_0 e^{k\theta}\), \(k=\ln φ\). <br> Discrete frames \(n\): each step = square-layer; counter-rotation yields Fibonacci tiling. |
+| **Fibonacci-Relation** \(F_{n+1}=F_n+F_{n-1}\), \(φ=\lim F_{n+1}/F_n\). <br> **Layer-Skalierung** \(s_n∝F_n\); **Bogenradien** \(R_n∝F_n\). | **Fibonacci law** \(F_{n+1}=F_n+F_{n-1}\); layer scaling \(∝F_n\). |
+| **Torus-Atem (Makro-Analogon)** <br> \(r(t)=r_0(1+ε \sin ωt)\); \(V(t)=2π^2 R r(t)^2\). | **Torus breathing (macro analogy)** <br> Radial oscillation models harmonic pulsation of φ layers. |
 
 ---
 
-## P16 — Beobachter‑Dualität (komplexe Ebene)
+## ✚ P15 — Kreuz der Kräfte / Cross of Forces
 
-1. **Zwei Seiten des Blatts**  
-   Sicht auf \(z=x+iy\) (Vorderseite) vs. \(\bar z\) (Rückseite).  
-   **Orientierungswechsel:** \( \mathcal{R}: z \mapsto \bar z \) (Spiegel);  
-   **Rotation:** \( \mathcal{U}_\theta: z \mapsto e^{i\theta}z\).
-
-2. **Schattenabbildung**  
-   Projektion \( \pi: \mathbb{C}\to\mathbb{R}\), z. B. \( \pi(z)=\Re(z) \) oder \( \pi_\phi(z)=\Re(e^{-i\phi}z)\).  
-   **“Shadow path”**: \( s(t)=\pi( e^{i\omega t} z_0 )\) — Phase/Winkel steuern die sichtbare Geometrie.
+| **Deutsch** | **English** |
+|:--|:--|
+| **Basisfelder**  <br> \(\mathbf{X}=(α,0),\;\mathbf{Y}=(0,β)\), Kopplung \(γ\) entlang \(\mathbf{D}_\pm=(1,±1)\). | **Base fields**  <br> Orthogonal components \(X,Y\) coupled by \(γ\) along diagonals \(D_±=(1,±1)\). |
+| **Linearisierte Dynamik**  <br> \(\dot{\mathbf{u}}=A\mathbf{u},\;A=\begin{pmatrix}α&γ\\γ&β\end{pmatrix}\). <br> Eigenwerte \(λ_±=\tfrac{α+β}{2}±\sqrt{(\tfrac{α-β}{2})^2+γ^2}\). | **Linearized dynamics**  <br> Same matrix form; eigenvalues define resonance axes. |
+| **Energiefluss**  <br> \(\dot E∼\mathbf{u}^T A^T \mathbf{u}\); Stabilität bei \(Re(λ_±)≤0\). | **Energy flux:** \(\dot E∼u^T A^T u\); stability requires \(Re(λ_±)≤0\). |
 
 ---
 
-## Volumen & Slicing (für die Galerieobjekte)
+## 🜍 P16 — Beobachter-Dualität / Observer Duality
 
-- **Torus:** \(V=2\pi^2Rr^2\), \(A=4\pi^2 R r\).
-- **Kugel:** \(V=\tfrac{4}{3}\pi R^3\).  
-- **Cavalieri‑Prinzip:** Gleichheit der Querschnittsflächen \(A_z\) \(\Rightarrow\) Gleichheit der Volumina \(V=\int A_z\,dz\).
+| **Deutsch** | **English** |
+|:--|:--|
+| **Zwei Seiten des Blatts**  <br> Sicht auf \(z=x+iy\) (Vorderseite) vs. \(\bar z\) (Rückseite).  <br> **Orientierungswechsel:** \(ℛ:z\mapsto\bar z\); **Rotation:** \(\mathcal{U}_θ:z\mapsto e^{iθ}z\). | **Two sheet model:**  <br> front = \(z=x+iy\), back = \(\bar z\); reflection \(ℛ\) and rotation \(\mathcal{U}_θ\) govern perception symmetry. |
+| **Schattenabbildung:** \(π(z)=Re(e^{-iφ}z)\).  <br> "Shadow path" \(s(t)=π(e^{iωt}z_0)\). | **Shadow projection:** defines oscillating real path, representing phase-dependent perception. |
 
-**Hinweis.** Die Formeln sind minimal‑suffizient für die in Teil IV gelieferten Visuals/GLBs und lassen
-sich in Teil V/VI (Humanoid Platonics, V‑Ether) erweitern.
+---
 
-## Resonance Corpus · Equations
+## 🔶 Volumen & Slicing / Volume & Slicing
 
-- Log spiral (phi-scaled): \(\; r(\theta)=r_0\,\varphi^{\theta/(2\pi)} \;\)
-- Cross-of-Forces basis: orthogonal unit axes \( \hat{x},\hat{y} \) with phase \(\phi_q\in\{0,\pi/2,\pi,3\pi/2\}\)
-- Observer channel (II): sheet index \(s\in\{+1,-1\}\), puncture linking the sheets ⇒ measurable flip when \(R\) exceeds threshold
-- **Time–frequency law:** \( P\,T = R \) (module-normalized)
+| **Deutsch** | **English** |
+|:--|:--|
+| **Torus:** \(V=2π^2Rr^2\), \(A=4π^2 Rr\). <br> **Kugel:** \(V=\tfrac{4}{3}πR^3\). <br> **Cavalieri-Prinzip:** Gleiche Querschnittsflächen ⇒ gleiche Volumina. | **Torus:** \(V=2π^2Rr^2\), **Sphere:** \(V=\tfrac{4}{3}πR^3\). <br> **Cavalieri’s Principle:** equal cross-sections ⇒ equal volume. |
 
+---
 
-# Resonance Corpus (P14–P16)
+## ⚛️ Resonance Corpus Summary (P14–P16)
 
-This closing section binds the Part IV visuals (spiral, cross of forces, observer duality) to the proof architecture and the time–frequency relation **PT = R**.
+Each visual/GLB encodes a phase of resonance evolution:
 
-## What each GLB/GIF encodes
+- **P14 — φ Spiral:** logarithmic, layered time-curvature → Fibonacci growth.
+- **P15 — Cross of Forces:** dynamic stabilization grid for phase axes.
+- **P16 — Observer Duality:** mirrored consciousness geometry, front/back linkage.
 
-- **P14 – Phi Resonance Spiral** (`P14_phi_resonance_spiral.glb` / `.gif`)
-  - Continuous logarithmic growth with **counter-rotating square steps** (Fibonacci tiling) – shows that a spiral is *time-layered curvature*, not merely a static arc.
-  - Maps to *Corollaries* in the proof-temple: openings where time (T) and pulse (P) inject resonance (R).
-
-- **P15 – Cross of Forces** (`P15_cross_of_forces.glb` / `.gif`)
-  - Orthogonal axes with phase-locked quadrants; use it as the **momentary frame** onto which spirals attach.
-  - Maps to *Lemmata*: stabilizers that carry constraints along the axes.
-
-- **P16 – Observer Duality** (`P16_observer_duality.glb` / `.gif`)
-  - Two-sided sheet (front/back) + a linking puncture (the compass pinhole) — the **II-channel** between observed and applied side.
-  - Maps to *Axioms*: the pre-conditions of any viewing/measurement act.
-
-- **Layered Combo (optional)** (`P14_P16_layers.glb`, `P14_P16_merged_static.gltf`, `P14_P16_merged_animated.gltf`)
-  - Stack for presentations: toggle or animate to show build-up from spiral → cross → observer.
-
-## Unifying relation
-
+Unified law:
 \[
-P\cdot T = R
+P·T = R
 \]
+where **P = Pulse (frequency)**, **T = Time (frame interval)**, **R = Resonance (stable field)**.
 
-- **P (Pulse / Frequency):** spiral step-rate (Fibonacci cadence → φ-scaling).
-- **T (Time):** frame duration between steps (visible in the GIFs / animation).
-- **R (Resonance):** stable pattern that survives across layers (GLB combo).
+> *Halving T doubles R until the cross saturates; then the observer channel flips phase.*
 
-> In practice: if you halve the spiral’s step time \(T\) while keeping pulse \(P\) fixed, you double the injected resonance \(R\) until the cross (P15) saturates; beyond that, the observer channel (P16) flips side (II) and re-locks phase.
+---
 
-## Referencing in papers/talks
+### 🔗 Referenzen / References
 
-- **Static papers:** embed `P14_phi_resonance_spiral.png` and one frame from `P15` and `P16`.
-- **Talks:** switch to `P14_P16_merged_animated.gltf` for a live build-up.
-- **Interactive exhibits:** provide `P14_P16_layers.glb` with scene toggles.
+- [`P14_phi_resonance_spiral.glb`](./visuals/P14_phi_resonance_spiral.glb)
+- [`P15_cross_of_forces.glb`](./visuals/P15_cross_of_forces.glb)
+- [`P16_observer_duality.glb`](./visuals/P16_observer_duality.glb)
+- [`P14_P16_layers.glb`](./visuals/P14_P16_layers.glb)
 
+**Next Module:** [Part V – Humanoid Platonics & Topological Proofs](../GEOMETRIA_NOVA_Part_V/README.md)
