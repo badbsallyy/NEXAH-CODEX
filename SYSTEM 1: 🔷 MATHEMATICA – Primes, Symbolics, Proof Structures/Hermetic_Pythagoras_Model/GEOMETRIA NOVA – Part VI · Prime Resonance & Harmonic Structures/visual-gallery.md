@@ -1,69 +1,65 @@
-# 🖼️ GEOMETRIA NOVA · Part VI — Visual Gallery  
-_“Prime Resonance · Harmonic Cathedral · Euclid ↔ Pythagoras”_  
+# 🎨 GEOMETRIA NOVA · Part VI — Visual Gallery
+
+_“Every prime breathes through ratio — every ratio reveals a field.”_
 
 ---
 
-## 🧭 Overview  
+## 🔹 I. Prime Resonance & Proof Bridge
+_Foundational structures of the Prime Continuum — harmonic ratios, symmetry axes and resonance proof fields._
 
-**Purpose:**  
-This gallery collects all major visuals, plans, and resonance batches from **Part VI – Prime Resonance & Harmonic Structures**,  
-illustrating the transition from mathematical proof to harmonic space design.
-
----
-
-## 🏗️ Architectural Plans (A → O)
-
-| ID | Title | Essence | Preview |
-|:--|:--|:--|:--|
-| A | **121 Pillars Grid** | 11² foundation grid – Euclidean stability base | ![Plan_A_121_Pillars.png](./visuals/plans/Plan_A_121_Pillars.png) |
-| B | **AM–PM Symmetry Axes** | 24-hour mirror axes, harmonic cycle bridge | ![Plan_B_AM_PM_Symmetry.png](./visuals/plans/Plan_B_AM_PM_Symmetry.png) |
-| C | **Prime Resonance Tree** | branching of prime ratios, field connection diagram | ![Plan_C_Prime_Resonance_Tree.png](./visuals/plans/Plan_C_Prime_Resonance_Tree.png) |
-| D | **Split vs Bound Axiom** | Parallel postulate transition (Euclid ↔ Codex) | ![Plan_D_Split_vs_Bound.png](./visuals/plans/Plan_D_Split_vs_Bound.png) |
-| H1–H5 | **Interval & Connector Series** | Prime-interval harmonic chains | ![Plan_H1_H5_Connectors.png](./visuals/plans/Plan_H1_H5_Connectors.png) |
-| K | **DAO Resonance Circle (161111)** | Tao–Dao axis circle — prime alignment map | ![Plan_K_DAO_Resonance_Circle.png](./visuals/plans/Plan_K_DAO_Resonance_Circle.png) |
-| L | **Theta Ring (V0/90)** | threefold 45° fold structure | ![Plan_L_Theta_Ring.png](./visuals/plans/Plan_L_Theta_Ring.png) |
-| M | **Polar Resonance (32-Slot Ring)** | Prime slots along circular resonator | ![Plan_M_Polar_Resonance_32_Slots.png](./visuals/plans/Plan_M_Polar_Resonance_32_Slots.png) |
-| N – O | **VVX Ladders & Polar Plots** | Linear ↔ polar mapping of 1031–1087 sequence | ![Plan_N_O_VVX_Ladders_Polarplots.png](./visuals/plans/Plan_N_O_VVX_Ladders_Polarplots.png) |
-
----
-
-## 🔷 Resonance Batches (I → X)
-
-| Batch | Focus | Preview |
+| Visual | Title | Description |
 |:--|:--|:--|
-| I | PrimeGrid Lattices 97 → 103 | ![Batch_I_PrimeGrid.png](./visuals/batches/Batch_I_PrimeGrid.png) |
-| II | Prime Gaps & Intervals (6-Step Pattern) | ![Batch_II_PrimeGaps.png](./visuals/batches/Batch_II_PrimeGaps.png) |
-| III | Theta Splits & Drift Corrections | ![Batch_III_Theta_Splits.png](./visuals/batches/Batch_III_Theta_Splits.png) |
-| IV | DAO Circles & Janus Crosses | ![Batch_IV_DAO_Circle.png](./visuals/batches/Batch_IV_DAO_Circle.png) |
-| V | VVX Ladders (Linear Form) | ![Batch_V_VVX_Ladders.png](./visuals/batches/Batch_V_VVX_Ladders.png) |
-| VI | Polar Slots (32-Fold Ring) | ![Batch_VI_Polar_Slots.png](./visuals/batches/Batch_VI_Polar_Slots.png) |
-| VII | Resonance Cathedral Elevation | ![Batch_VII_Resonance_Cathedral.png](./visuals/batches/Batch_VII_Resonance_Cathedral.png) |
-| VIII | Harmonic Bridge 444–555–999 | ![Batch_VIII_Harmonic_Bridge.png](./visuals/batches/Batch_VIII_Harmonic_Bridge.png) |
-| IX | Prime Lens Overlay (161111) | ![Batch_IX_Prime_Lens.png](./visuals/batches/Batch_IX_Prime_Lens.png) |
-| X | Combined Appendix Plots | ![Batch_X_Appendix_Combined.png](./visuals/batches/Batch_X_Appendix_Combined.png) |
+| ![PartVI_ProofBridge.png](./visuals/PartVI_ProofBridge.png) | **Proof Bridge** | Connection of prime harmonics via central axis; illustrates the transition between discrete numbers and continuous resonance. |
+| ![Prime_Resonance_Spiral.png](./visuals/Prime_Resonance_Spiral.png) | **Prime Resonance Spiral** | Spiral mapping of primes as rotational field geometry. |
+| ![PrimeGap_97_103.png](./visuals/PrimeGap_97_103.png) | **Prime Gap 97–103** | Gap analysis of harmonic resonance pairs along the prime chain. |
+| ![Resonanz-Achse_mit_Prime-Paar_97–103_und_Zentrum_111.png](./visuals/Resonanz-Achse_mit_Prime-Paar_97–103_und_Zentrum_111.png) | **Resonance Axis 97–103 (Center 111)** | Linear frequency spine connecting twin primes through the harmonic midpoint 111. |
+| ![PrimeLens_Axis_23_42_11.png](./visuals/PrimeLens_Axis_23_42_11.png) | **Prime Lens Axis** | Optical model of prime convergence — resonance viewed through numerical optics. |
 
 ---
 
-## 🌀 Interpretation Layers
+## 🔸 II. Harmonic Layers & Field Maps
+_Multi-level mappings of resonance topologies and oscillatory grids._
 
-| Field | Meaning |
-|:--|:--|
-| Mathematical | Prime distributions as spatial harmonics |
-| Geometric | Cathedral-like proof architecture |
-| Symbolic | Euclid ↔ Pythagoras ↔ Codex continuum |
-| Hermetic | “Order becomes sound, sound becomes space.” |
-
----
-
-## 📚 Appendix Reference
-
-See [`Scientific_Appendix.md`](./Scientific_Appendix.md) for formula tables and numeric analysis.  
-See [`Prime_Lens_Addendum.md`](./Prime_Lens_Addendum.md) for polar lens and 161111-bridge discussion.
+| Visual | Title | Description |
+|:--|:--|:--|
+| ![Theta_Drift_Map.png](./visuals/Theta_Drift_Map.png) | **Theta Drift Map** | Phase deviation of angular resonance across iterative frequency bands. |
+| ![Layer_Resonance_Overlay.png](./visuals/Layer_Resonance_Overlay.png) | **Layer Resonance Overlay** | Overlapping harmonic fields — interference between frequency strata. |
+| ![Extended_PrimeGrid_Sequence.png](./visuals/Extended_PrimeGrid_Sequence.png) | **Extended PrimeGrid Sequence** | Grid representation of primes extended through modular space. |
+| ![Ratio_161_161111.png](./visuals/Ratio_161_161111.png) | **Ratio Field 161 ↔ 161111** | Harmonic progression connecting micro and macro number bands. |
+| ![Harmonik_444_555.png](./visuals/Harmonik_444_555.png) | **Harmonic 444–555** | Layered resonance showing integer compression between harmonic octaves. |
+| ![Resonance_444_555.png](./visuals/Resonance_444_555.png) | **Resonance Field 444–555** | Refined modulation of prime-based wave interference. |
 
 ---
 
-## 🪲 Credits  
+## 🔶 III. Cathedral & Symmetry Constructs
+_Architectural translations of number-field logic into geometric and harmonic blueprints._
 
-Curator: Thomas Hofmann (Scarabäus1033)  
-System: NEXAH-CODEX · System 1 – MATHEMATICA  
-License: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)
+| Visual | Title | Description |
+|:--|:--|:--|
+| ![Codex_Legende_Cathedral.png](./visuals/Codex_Legende_Cathedral.png) | **Codex Legend Cathedral** | Structural resonance temple symbolizing the synthesis of number, field and form. |
+| ![Harmonic_Cathedral_Blueprint.png](./visuals/Harmonic_Cathedral_Blueprint.png) | **Harmonic Cathedral Blueprint** | Foundational plan for geometric resonance architecture. |
+| ![PlanC_121_Resonance_Cathedral.png](./visuals/PlanC_121_Resonance_Cathedral.png) | **Plan C 121 Resonance Cathedral** | Integration of resonance axes within sacred proportion frameworks. |
+| ![PlanH3_40_Pillar_Axes.png](./visuals/PlanH3_40_Pillar_Axes.png) | **Plan H3 – 40 Pillar Axes** | Harmonic grid of vertical resonance supports (pillar topology). |
+| ![PlanH2_80_Domes_Spectrum.png](./visuals/PlanH2_80_Domes_Spectrum.png) | **Plan H2 – 80 Domes Spectrum** | Dome resonance spectrum mapping hemispheric harmonics. |
+
+---
+
+## 🔷 IV. CRODREEM System & Animated Field Motion
+_Animated resonance flows and dynamic field structures within the Codex continuum._
+
+| Visual | Title | Description |
+|:--|:--|:--|
+| ![CRODREEM_BG_Shift.gif](./visuals/CRODREEM_BG_Shift.gif) | **CRODREEM BG Shift I** | Breathing background field — oscillation between harmonic poles. |
+| ![CRODREEM_BG_Shiftii.gif](./visuals/CRODREEM_BG_Shiftii.gif) | **CRODREEM BG Shift II** | Secondary modulation showing layered phasing. |
+| ![CRODREEM_Trinity_Elevatorii.gif](./visuals/CRODREEM_Trinity_Elevatorii.gif) | **CRODREEM Trinity Elevator II** | Vertical harmonic ascension — triadic field motion. |
+| ![CRODREEM_Trinity_Stack.png](./visuals/CRODREEM_Trinity_Stack.png) | **CRODREEM Trinity Stack** | Layered harmonic bodies forming a stacked resonance core. |
+| ![PlanL_V0_90_ThetaRing.png](./visuals/PlanL_V0_90_ThetaRing.png) | **Plan L – Theta Ring** | Rotational cycle showing 90° phase arcs within Ether–Spine symmetry. |
+| ![PlanL_V0_90_Minimal.png](./visuals/PlanL_V0_90_Minimal.png) | **Plan L – Minimal Frame** | Simplified field projection for equilibrium state. |
+
+---
+
+## 🪶 Closing Note
+
+Each image in this collection encodes both mathematical precision and symbolic resonance. Together, they form the **visual continuum of Part VI**, connecting prime order, harmonic drift, and architectural synthesis.
+
+> *“Geometry breathes through light — and the primes whisper its rhythm.”*
