@@ -1,0 +1,12 @@
+{
+  "files": [
+    "Harmonic_Cathedral_v1.gltf",
+    "README_Harmonic_Cathedral_v1.txt"
+  ],
+  "counts": {
+    "pillars": 100,
+    "materials": 5,
+    "meshes": 5,
+    "nodes": 104
+  }
+}
