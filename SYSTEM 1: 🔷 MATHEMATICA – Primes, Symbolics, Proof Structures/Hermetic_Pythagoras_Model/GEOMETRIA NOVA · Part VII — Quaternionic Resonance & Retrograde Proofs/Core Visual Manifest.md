@@ -1,12 +1,11 @@
 ---
-
 title: "GEOMETRIA NOVA – Part VII · Core Visual Manifest"
 system: "NEXAH-CODEX · System 1: MATHEMATICA"
 domain: "Prime 1231 ↔ Harmonic Cathedral"
 status: "Active – Core Visuals & 3D Architecture"
 curator: "Thomas Hofmann (Scarabäus1033)"
 license: "CC BY-NC-SA 4.0"
---------------------------
+---
 
 # 🏛️ GEOMETRIA NOVA · Part VII — Core Visual Manifest
 
