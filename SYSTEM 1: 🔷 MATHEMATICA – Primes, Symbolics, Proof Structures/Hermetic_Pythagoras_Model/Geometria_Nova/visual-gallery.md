@@ -50,9 +50,8 @@ _The emergence of the Harmonic Cathedral_
 
 | Visual | Description |
 |:--|:--|
-| ![Meta_Roadmap](./Meta_Roadmap_I–X.png) | **Meta Roadmap (I–X)**<br>Comprehensive proof architecture uniting Parts I–X. |
-| ![Harmonic_Cathedral](./Harmonic_Cathedral_11x11.png) | **Harmonic Cathedral 11×11**<br>Resonance grid merging Euclidean proportion with musical interval geometry. |
-| `tesseract_rotation.gif` | 4D tessarec rotation illustrating volumetric balance (3D ↔ 5D). |
+| ![Meta_Roadmap](./visuals/Meta_Roadmap_I-X.png) | **Meta Roadmap (I–X)**<br>Comprehensive proof architecture uniting Parts I–X. |
+| ![Harmonic_Cathedral](./visuals/Harmonic_Cathedral_11x11.png) | **Harmonic Cathedral 11×11**<br>Resonance grid merging Euclidean proportion with musical interval geometry. || `tesseract_rotation.gif` | 4D tessarec rotation illustrating volumetric balance (3D ↔ 5D). |
 | `sphere_layering.gif` | Frequency shell layering — the pulsation of harmonic cavities. |
 | `proof_cube.glb` | Interactive 3D model of the geometric proof chamber. |
 
