@@ -88,7 +88,7 @@ Part VII marks the completion of the *GEOMETRIA NOVA* cycle, evolving from t
 | ![RedBlue\_Obelisk.png](./visuals_Data/RedBlue_Obelisk.png)                        | **Red–Blue Obelisk**                       | Symbolic polarity of East–West pillars within harmonic axis.         |
 
 > **Scientific Note:**
-> The visual models (`Harmonic_Cathedral_v1.gltf` and `PartVII_HarmonicCore_v1.gltf`) represent computationally derived harmonic structures based on ϕ³⁄π² ≈ 0.429 resonance principles.
+> The visual models (`Harmonic_Cathedral_v1.gltf` and `PartVII_HarmonicCore_v1.gltf`) represent computationally derived harmonic structures based on ϕ³⁄π² ≈ 0.429 resonance principles. 
 > Their geometry does not depict any real building but serves as a mathematical metaphor for prime-field stability.
 
 ---
