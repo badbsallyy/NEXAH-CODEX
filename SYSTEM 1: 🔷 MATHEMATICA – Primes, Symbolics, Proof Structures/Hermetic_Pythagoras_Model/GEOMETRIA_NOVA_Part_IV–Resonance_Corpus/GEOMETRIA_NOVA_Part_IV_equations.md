@@ -26,10 +26,9 @@
 |:--|:--|
 | **Linearisiert:**<br/>$$\dot{\mathbf{u}} = A\mathbf{u}, \quad A = \begin{pmatrix}\alpha & \gamma \\ \gamma & \beta\end{pmatrix}$$<br/>Eigenwerte: $$\lambda_{\pm} = \tfrac{\alpha+\beta}{2} \pm \sqrt{(\tfrac{\alpha-\beta}{2})^2 + \gamma^2}$$ | **Linearized dynamics:**<br/>$$\dot{\mathbf{u}} = A\mathbf{u}, \quad A = \begin{pmatrix}\alpha & \gamma \\ \gamma & \beta\end{pmatrix}$$<br/>Eigenvalues: $$\lambda_{\pm} = \tfrac{\alpha+\beta}{2} \pm \sqrt{(\tfrac{\alpha-\beta}{2})^2 + \gamma^2}$$ |
 
-| Deutsch | English |
-|:--|:--|
-| **Energiefluss:** $$\dot E \sim \mathbf{u}^\top A^\top \mathbf{u}$$<br/>Stabilität, wenn $$\operatorname{Re}\lambda_\pm \le 0$$ | **Energy flux:** $$\dot E \sim \mathbf{u}^\top A^\top \mathbf{u}$$<br/>Stable if $$\operatorname{Re}\lambda_\pm \le 0$$ |
-
+| **Deutsch** | **English** |
+|---|---|
+| **Energiefluss:** $\dot E \sim \mathbf u^{\mathsf T} A^{\mathsf T} \mathbf u$  <br/> **Stabilität, wenn** $\Re(\lambda_{\pm}) \le 0$ | **Energy flux:** $\dot E \sim \mathbf u^{\mathsf T} A^{\mathsf T} \mathbf u$  <br/> **Stable if** $\Re(\lambda_{\pm}) \le 0$ |
 ---
 
 ## P16 — Beobachter-Dualität / Observer Duality
