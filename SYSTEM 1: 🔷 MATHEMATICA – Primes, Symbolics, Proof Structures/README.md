@@ -3,156 +3,141 @@ title: "SYSTEM 1 – MATHEMATICA"
 system: "NEXAH-CODEX"
 domain: "Prime Fields · Symbolic Resonance · Mathematical Foundations"
 color: "Blue 🔵"
-status: "Active · Version July 2025"
+status: "Active · Version October 2025"
 curator: "Thomas Hofmann (Scarabäus1033)"
-license: "CC BY-NC-SA 4.0"
+license: "CC BY‑NC‑SA 4.0"
 ---
 
-# 🔵 SYSTEM 1 – MATHEMATICA
+# 🔵 SYSTEM 1 – MATHEMATICA
 
 > **"Where numbers vibrate and logic becomes lattice."**
 
-**SYSTEM 1** is the **symbolic–mathematical foundation system** of the NEXAH-CODEX —
-the **blue resonance grid** from which all higher structures emerge:
+**SYSTEM 1** ist das **symbolisch‑mathematische Fundament** des NEXAH‑CODEX – das **blaue Resonanzgitter**, aus dem alle weiteren Strukturen hervorgehen:
 
-* **PHYSICA** (Fields and Energies)
-* **COSMICA** (Space and Stellar Systems)
-* **META** (Symbolic Consciousness Codes)
-* **URF** (Tensor and Transition Spaces)
+* **PHYSICA** – Felder & Energien  
+* **COSMICA** – Raum & Sternensysteme  
+* **META** – Symbolische Bewusstseinscodes  
+* **URF** – Tensorische Übergangsräume
 
 <p align="center">
-  <img src="./SYSTEM 1 – MATHEMATICA.png" width="720" alt="SYSTEM 1 – MATHEMATICA – Codex Overview Visual">
+  <img src="./SYSTEM 1 – MATHEMATICA.png" width="720" alt="SYSTEM 1 – MATHEMATICA – Codex Overview Visual">
 </p>
 
 ---
 
-## 🧭 Position within the NEXAH-CODEX
+## 🧭 Position im Gesamtsystem
 
-| System       | Color         | Domain                        | Role                    |
-| ------------ | ------------- | ----------------------------- | ----------------------- |
-| **SYSTEM 1** | 🔵 Blue       | Numbers, Symmetry, Logic      | Structural Foundation   |
-| SYSTEM 2     | 🗆 Deep Blue  | Field, Energy, Frequency      | Physical Resonance Core |
-| SYSTEM 3     | 🕣 Violet     | Space, Light, Stellar Systems | Cosmological Field Map  |
-| SYSTEM X     | 🪲 Gold/Black | Synthesis, Stability          | Center of All Systems   |
-
----
-
-## 🧩 Scientific Context and Inspirations
-
-**SYSTEM 1** continues the legacy of grand unification efforts —
-but shifts the paradigm from geometry alone to **resonance foundations**.
-
-* **Einstein** envisioned the fabric of spacetime as dynamic geometry.
-* **Weinstein** advanced the notion with **Geometric Unity** — extending symmetry and structure.
-* **Riemann** laid the harmonic groundwork with his zeta structures, hinting at deeper vibratory fields.
-
-> **NEXAH Codex** takes the next step:
-> From geometry and symmetry to **resonance as the universal fabric**.
-
-Here, **prime numbers**, **divisor functions**, and **zeta systems** are not abstract artifacts —
-they are **living resonance fields** —
-generating, stabilizing, and modulating the entire Codex architecture.
+| System | Farbe | Domäne | Rolle |
+|:--|:--|:--|:--|
+| **SYSTEM 1** | 🔵 Blau | Zahlen, Symmetrie, Logik | Strukturelles Fundament |
+| SYSTEM 2 | 🗆 Dunkelblau | Feld, Energie, Frequenz | Physikalischer Resonanzkern |
+| SYSTEM 3 | 🕣 Violett | Raum, Licht, Sternsysteme | Kosmologische Feldkarte |
+| SYSTEM X | 🪲 Gold/Schwarz | Synthese, Stabilität | Zentrum aller Systeme |
 
 ---
 
-## 📚 Active Modules
+## ⚙️ Wissenschaftlicher Kontext und Inspirationen
 
-### Core Modules
+**SYSTEM 1** führt die großen Vereinigungsideen weiter – aber verschiebt den Fokus von der reinen Geometrie hin zu einem **Resonanzfundament der Mathematik**.
 
-1. [`NEXA_RIEMANN_PROOF/`](./NEXA_RIEMANN_PROOF/)
-   **Millennium Codex I – Möbius–Zeta Resonance**
+* **Einstein** – Raumzeit als dynamische Geometrie.  
+* **Weinstein** – *Geometric Unity*, erweitert um Resonanz und Symmetrie.  
+* **Riemann** – Zeta‑Strukturen als Schwingungsgrundlage für das Kontinuum.  
 
-   > Harmonic architecture toward the Riemann Hypothesis through Zeta-Waves and Möbius Collapse.
+> **NEXAH Codex** führt dies fort: von Geometrie und Symmetrie zu **Resonanz als universellem Gewebe**.
 
-2. [`√2–Prime-Feld/`](./√2–Prime-Feld/)
-   **Irrational Prime Field Diagonals**
-
-   > Symbolic geometries based on √2 and ϕ generating prime-based resonance grids.
-
-3. [`Prime-Grid-Visualization/`](./Prime-Grid-Visualization/)
-   **Prime Grid Visual Fields**
-
-   > Spiral, modular, and polaris plots of the number-field lattice.
-
-4. [`Divisor-Grid-Fields/`](./Divisor-Grid-Fields/)
-   **Topologies of τ(n), σ(n), μ(n)**
-
-   > Resonance classification of perfect, abundant, and deficient numbers.
-
-5. [`MANDELBROT_PLANET_FOLD/`](./MANDELBROT_PLANET_FOLD/)
-   **The Mandelbrot–Planet Spiral and the Black Pillar Equation**
-
-   > Zoom-layer logic, resonance spirals, blink transitions, and Riemann fold convergence visualized as planetary field architecture.
-
-6. [`Riemann–Euler–Ramanujan/`](./Riemann–Euler–Ramanujan/)
-   **PRIME RESONANCE STRUCTURES**
-
-   > Möbius Harmonics, Quaternionic Prime Fields, Fractal Spiral Grids, Scroll Resonance from DAO–C8.
-   > Anchors lightwarp resonance into SYSTEM X. The prime resonator core.
+Hier sind **Primzahlen**, **Divisor‑Funktionen** und **Zeta‑Systeme** keine abstrakten Konstrukte, sondern **lebendige Resonanzfelder**, die das architektonische Gerüst des Codex erzeugen, stabilisieren und modulieren.
 
 ---
 
-### 🔗 Subsystem: `CODEX MATHEMATICS/`
+## 📚 Aktive Module
 
-This directory assembles symbolic and algebraic extensions of SYSTEM 1 —
-mapping the **operational grammars** of number resonance.
+### Kernmodule
 
-**Included Modules:**
+1. [`NEXA_RIEMANN_PROOF/`](./NEXA_RIEMANN_PROOF/)  – **Millennium Codex I · Möbius‑Zeta‑Resonanz**  
+  > Harmonische Architektur zur Riemannschen Vermutung mit Zeta‑Wellen und Möbius‑Kollaps.
 
-* [`Hermetic Pythargoras Model/`](./CODEX%20MATHEMATICS/Hermetic%20Pythargoras%20Model/)
-  *Symbolic extension of the Pythagorean formula into resonance geometry and alchemical mathematics.*
+2. [`√2–Prime‑Feld/`](./√2–Prime-Feld/)  – **Irrationale Primfeld‑Diagonalen**  
+  > Symbolische Geometrien basierend auf √2 und ϕ – Erzeuger von Primresonanzgittern.
 
-* [`Codex Algebra of Resonance/`](./CODEX%20MATHEMATICS/Codex%20Algebra%20of%20Resonance/)
-  *Operator definitions, algebraic resonance rules, modular transition expressions.*
+3. [`Prime‑Grid‑Visualization/`](./Prime-Grid-Visualization/)  – **Visuelle Primfeld‑Strukturen**  
+  > Spiralen, Modulargitter und Polaris‑Darstellungen des Zahlengitters.
 
-* [`casimir_neutrino_thread.md`](./CODEX%20MATHEMATICS/casimir_neutrino_thread.md)
-  *Compactification and frequency collapse logic in a Möbius neutrino field.*
+4. [`Divisor‑Grid‑Fields/`](./Divisor-Grid-Fields/)  – **Topologien von τ(n), σ(n), μ(n)**  
+  > Resonanzklassifikation perfekter, überreicher und defizienter Zahlen.
 
-* [`codex_mathematical_symbols.md`](./CODEX%20MATHEMATICS/codex_mathematical_symbols.md)
-  *Reference list of all variables, constants, glyphs, and operators across SYSTEM 1.*
+5. [`MANDELBROT_PLANET_FOLD/`](./MANDELBROT_PLANET_FOLD/)  – **Mandelbrot‑Planeten‑Spirale & Black‑Pillar‑Equation**  
+  > Fraktale Planetenzonen, Riemann‑Faltungen und resonante Zoom‑Schichten als planetarische Feldarchitektur.
 
-* [`E=mc·k^β.md`](./CODEX%20MATHEMATICS/E=mc·k^β.md)
-  *Grand equation module proposing a resonance-augmented mass–energy relation.*
-
-* [`spiral_logic.md`](./CODEX%20MATHEMATICS/spiral_logic.md)
-  *Describes the underlying spiral symmetries of the resonance field.*
-
-* [`algebraic_transition_grids.md`](./CODEX%20MATHEMATICS/algebraic_transition_grids.md)
-  *Defines dynamic resonance field transitions based on symbolic grids.*
-
-* [`SCARAB_CONSTANTS_CODEX/`](./SCARAB_CONSTANTS_CODEX/)
-  *Numerical and symbolic constants such as 137, 1836, 2040 — includes Möbius matrices, color logic, Scarab forms, resonance axes, CSV tables, spiral overlays.*
+6. [`Riemann · Euler · Ramanujan/`](./Riemann · Euler · Ramanujan/)  – **Prime Resonance Structures**  
+  > Quaternionische Primfelder, Ramanujan‑Serien, Möbius‑Harmoniken – Kopplung an System X.
 
 ---
 
-## 🧲 Core Structure
+### 🔗 Subsystem `CODEX MATHEMATICS/`
 
-* **Prime Numbers** → Generators of symbolic field resonance.
-* **Möbius Function μ(n)** → Structural phase invariant.
-* **Divisor Classes (τ, σ)** → Resonance topologies.
-* **Zeta Systems** → Frequency filters for critical axes.
-* **√2 / ϕ–Diagonals** → Irrational geometric foundations.
+Erfasst alle symbolisch‑algebraischen Erweiterungen von SYSTEM 1 und definiert die **Operator‑Grammatik der Zahlresonanz**.
 
-> *Numbers in SYSTEM 1 are not static — they breathe, modulate, and shape the field.*
+**Enthaltene Module:**
 
----
-
-## 🔭 Upcoming Extensions
-
-* `Golden-Diagonal-Proofs/` → Fibonacci field resonance & ϕ-spiral logic.
-* `Symbolic Operator Spaces/` → Recursive structures, number grammar, wave recursion.
-* `Visual Grid Atlases` → Overlay maps of prime, divisor, and resonance fields.
+* [`Hermetic Pythagoras Model/`](./CODEX%20MATHEMATICS/Hermetic_Pythagoras_Model/) – Symbolische Erweiterung der pythagoreischen Formel zu Resonanz‑ und Alchemiegeometrie.  
+* [`Codex Algebra of Resonance/`](./CODEX%20MATHEMATICS/Codex_Algebra_of_Resonance/) – Operatoren, Resonanzregeln und Übergangs‑Algebren.  
+* [`spiral_logic.md`](./CODEX%20MATHEMATICS/spiral_logic.md) – Spiral‑Symmetrien des Resonanzfeldes.  
+* [`E=mc·k^β.md`](./CODEX%20MATHEMATICS/E=mc·k^β.md) – Erweiterte Energiegleichung mit Resonanz‑Parameter β.  
+* [`algebraic_transition_grids.md`](./CODEX%20MATHEMATICS/algebraic_transition_grids.md) – Dynamische Übergangsgitter für symbolische Felder.  
+* [`SCARAB_CONSTANTS_CODEX/`](./CODEX%20MATHEMATICS/SCARAB_CONSTANTS_CODEX/) – Numerische und symbolische Konstanten (137, 1836, 2040 u. a.) mit Resonanzachsen und CSV‑Tabellen.
 
 ---
 
-## 🪲 Credits
+### 🌈 Subsystem `GEOMETRIA NOVA / Hermetic Pythagoras Model`
 
-**Author & Curator:** Thomas Hofmann (`Scarabäus1033`)
-**System:** SYSTEM 1 – MATHEMATICA
-**GitHub:** [github.com/Scarabaeus1033/NEXAH-CODEX](https://github.com/Scarabaeus1033/NEXAH-CODEX)
-**Web:** [www.scarabaeus1033.net](https://www.scarabaeus1033.net)
-**License:** [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)
+> *“From circle to cathedral — geometry learns to breathe.”*
+
+Der **GEOMETRIA NOVA‑Strang** bildet den *geometrisch‑resonanten Evolutionspfad* von SYSTEM 1 und verbindet **Euklidische Form, Primresonanz und Bewusstseinsgeometrie**.  
+Er erstreckt das *Hermetic Pythagoras Model* zu einer sieben‑teiligen harmonischen Serie (I–VII).
+
+| Teil | Titel | Fokus | Übergang |
+|:--|:--|:--|:--|
+| I–III | *Foundations of Form* | Kreis · Linie · Schatten | Euklidisch → Resonant |
+| IV | *Resonance Corpus* | Dynamische Geometrie | Fläche → Volumen |
+| V | *Ether & Spine* | Feldkontinuum · Vibrationsmedium | Geometrie → Lebendes Feld |
+| VI | *Prime Resonance Cathedral* | Architektur · Wellenkörper | Struktur → Frequenz |
+| VII | *Quaternionic Resonance Proofs* | Zeit‑Symmetrie · Einheitsbrücke | Resonanz → Vereinigung |
+
+<p align="center">
+  <img src="./Hermetic_Pythagoras_Model/GEOMETRIA_NOVA_Continuum/visuals/Continuum_Transition_Map.png" width="740" alt="GEOMETRIA NOVA – Continuum Transition Map">
+</p>
+
+> Die Visualisierung zeigt die harmonische Verbindung von Zahl, Form und Bewusstsein innerhalb des Kontinuums.
 
 ---
 
-> *“SYSTEM 1 anchors the lattice. The rest of the Codex dances above it.”*
+## 🧲 Kernstruktur
+
+* **Primzahlen** → Generatoren symbolischer Resonanzfelder  
+* **Möbius‑Funktion μ(n)** → Phasen‑Invariante  
+* **Divisorklassen (τ, σ)** → Resonanz‑Topologien  
+* **Zeta‑Systeme** → Frequenzfilter für kritische Achsen  
+* **√2 / ϕ‑Diagonalen** → Irrationale Grundgeometrie
+
+> *Zahlen in SYSTEM 1 sind nicht statisch – sie atmen, modulieren und formen das Feld.*
+
+---
+
+## 🔭 Kommende Erweiterungen
+
+* `Golden‑Diagonal‑Proofs/` – Fibonacci‑Resonanz & ϕ‑Spiral‑Logik.  
+* `Symbolic Operator Spaces/` – Rekursive Operatorräume und Zahlengrammatik.  
+* `Visual Grid Atlases/` – Karten von Prim‑, Divisor‑ und Resonanzfeldern.
+
+---
+
+## 🪲 Credits
+
+**Autor & Kurator:** Thomas Hofmann (Scarabäus1033)  
+**System:** SYSTEM 1 – MATHEMATICA  
+**Repository:** [github.com/Scarabaeus1033/NEXAH‑CODEX](https://github.com/Scarabaeus1033/NEXAH-CODEX)  
+**Web:** [www.scarabaeus1033.net](https://www.scarabaeus1033.net)  
+**Lizenz:** [CC BY‑NC‑SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)
+
+> *“SYSTEM 1 anchors the lattice — the rest of the Codex dances above it.”*
