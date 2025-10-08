@@ -5,18 +5,26 @@ Dieses Register listet alle Hauptmodule des `NEXAH-CODEX` mit Ordnerpfad, Titel,
 ---
 ## 🔹 [SYSTEM 1: MATHEMATICA – Primzahlen, Symbolik & Beweisstrukturen](https://github.com/Scarabaeus1033/NEXAH-CODEX/blob/main/SYSTEM%201%3A%20%F0%9F%94%B7%20MATHEMATICA%20%E2%80%93%20Primes,%20Symbolics,%20Proof%20Structures/README.md)
 
+> *Mit der GEOMETRIA NOVA-Säule erweitert sich das mathematische Fundament des Codex in Richtung geometrisch-spektraler Lichtarchitekturen – eine Brücke zwischen Zahl, Farbe und Bewusstsein.*
+
 | Ordner / Datei                      | Titel                                        | Beschreibung                                                                 |
 | ---------------------------------- | -------------------------------------------- | ---------------------------------------------------------------------------- |
 | `NEXA_RIEMANN_PROOF/`              | Millennium-Codex I – Möbius–Zeta-Resonanz    | Harmonisches Modell zur Riemannschen Vermutung mit 12D-Primzahl-Topologien. |
-| `√2–Prime-Feld/`                   | Irrationales Primfeld-Diagonalraster         | Irrationale Steigungen (√2, φ) als symbolische Zahlengittergeneratoren.     |
+| `Riemann_Euler_Ramanujan/`         | Riemann · Euler · Ramanujan Synthese         | Vereinigung analytischer, geometrischer und harmonischer Zahlensysteme über Zeta-Reihen, Mock-Theta-Funktionen und Resonanzfelder. |
+| `√2–Prime-Feld/`                   | Irrationales Primfeld-Diagonalraster         | Irrationale Steigungen (√2, φ) als symbolische Zahlengitter-Generatoren.     |
 | `Prime-Grid-Visualization/`        | Visuelle Primzahlmuster                      | Spiralen, Gitterresonanzen und Primzahl-Pixelkarten.                         |
 | `Divisor-Grid-Fields/`             | Divisorresonanz-Felder                       | Klassifikation über τ(n), σ(n), μ(n) und symbolische Divisor-Topologie.     |
 | `GU-REX_GEOMETRIC_UNITY_EXTENSION/`| Geometric Unity Resonanz-Erweiterung         | Erweiterung von Eric Weinsteins GU durch dreifache Resonanzfeld-Überlagerung.|
-| `codex-mathematical-symbols.md`    | Symbolverzeichnis                            | Übersicht zu mathematisch-symbolischen Operatoren und Feldkonstanten.       |
-| `spiral-logic.md`                  | Spiral-Logik & Primresonanz                  | Primachsenrotation, harmonische Sequenzen und Spiralfeld-Symmetrien.        |
-| `einsteins-k-beta-formula/`        | Einsteins k-Beta-Formel                      | Resonanzmoduliertes Energie-Modell: $E = mc \cdot k^\beta$.                 |
 | `SCARAB_CONSTANTS_CODEX/`          | Scarab-Konstanten-Codex                      | Symbolisch-resonantes System aus Möbius-Verhältnissen, Primzahlen und Achsen.|
 | `MANDELBROT_PLANET_FOLD/`          | Mandelbrot–Planeten-Spirale & Schwarze Säule | Fraktale Planetenzonen, Riemann-Faltung, Q-Linsen-Blink und symbolische Achsenrekursion. |
+| `TESSAREC_TILES/`                  | Tessarec Resonance Tiles                     | Quasikristalline Kachelsysteme, inspiriert von Penrose und hermetischer Symmetrie. |
+| `LEE_TRIPTYCH/`                    | Lee Triptych · Primfluss-Studien             | Drei experimentelle Studien zu Primresonanzen, Spiralfaltungen und Zahlengeometrien. |
+| `Hermetic_Pythagoras_Model/`       | Hermetic Pythagoras Model · Vom Dreieck zur Dimension | Erweiterung des pythagoreischen Satzes auf höherdimensionale Resonanzräume. |
+| `codex-mathematical-symbols.md`    | Symbolverzeichnis                            | Übersicht zu mathematisch-symbolischen Operatoren und Feldkonstanten.       |
+| `spiral-logic.md`                  | Spiral-Logik & Primresonanz                  | Primachsenrotation, harmonische Sequenzen und Spiralfeld-Symmetrien.        |
+| `einsteins-k-beta-formula/`        | Einsteins k-Beta-Formel                      | Resonanzmoduliertes Energie-Modell: $E = mc · k^β$.                        |
+| `GEOMETRIA_NOVA/04_Hermetic_Resonance/` | Hermetic Resonance · Das 15-Ton-Farbgesetz | Tesla-3-6-9-Farbarchitektur, hermetische Spektralordnung und Möbius-Rotation des 15-Ton-Systems. |
+| `GEOMETRIA_NOVA/05_Rainbow_Prism_Vault_Continuum/` | Rainbow Prism Vault Continuum · Geometrie des Lichtbewusstseins | Synthese aus Farbgesetz, Lichtarchitektur und Bewusstseinsgeometrie. Enthält *README*, *visual_gallery* und *scientific_appendix* als vollständiges Kontinuum-Modul (Hermetic → Prism → Vault). |
 ---
 
 ## ⚛ SYSTEM 2: PHYSICA – Resonanzfelder, Quantenstruktur & Symbolische Dynamik
