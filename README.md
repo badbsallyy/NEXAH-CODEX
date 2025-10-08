@@ -34,7 +34,7 @@ It includes:
 ## 🌌 Visual Entry Map
 
 <p align="center">
-  <img src="./navigator_2.1_resonance_grid.png" width="780" alt="Navigator 2.1 Resonance Grid">
+  <img src="./navigator_2.0_resonance_grid.png" width="780" alt="Navigator 2.1 Resonance Grid">
 </p>
 
 The diagram positions all systems as **petal-vectors** in a harmonic torus.  
