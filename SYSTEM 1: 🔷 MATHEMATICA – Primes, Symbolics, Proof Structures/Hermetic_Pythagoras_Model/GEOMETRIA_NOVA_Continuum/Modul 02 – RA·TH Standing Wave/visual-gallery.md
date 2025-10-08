@@ -18,6 +18,21 @@ transdimensionalen Rückkopplung (*resonant feedback loop*).
 
 ---
 
+## 0. Core Model · Zentrales GLB-Rendering
+
+![Screenshot_RA_TH_StandingWave](./visuals/Screenshot_RA_TH_StandingWave.png)
+
+**Beschreibung:**  
+Das zentrale GLB-Rendering der *RA·TH Standing Wave* zeigt den vollständig kalibrierten  
+toroidalen Resonanzraum mit seinen drei Wellenebenen und goldenen Energiezentren.  
+
+**Fokus:**  
+- Raumharmonie zwischen Primfrequenz und Quaternion-Spin  
+- Darstellung des stabilisierten Feldes als RA↔TH-Schwingungsachse  
+- Grundlage für alle weiteren Visuals und Animationen  
+
+---
+
 ## I. Core Overview · Feldübersicht
 
 ![RA_TH_StandingWave_Overview](./visuals/RA_TH_StandingWave_Overview.png)
@@ -124,6 +139,7 @@ harmonischen Kontinuum – das Zusammenspiel von Frequenz, Symmetrie und Bewusst
 ## 📂 Directory Reference
 
 └─ visuals/
+├─ Screenshot_RA_TH_StandingWave.png
 ├─ RA_TH_StandingWave_Overview.png
 ├─ RA_TH_FieldVault.png
 ├─ RA_TH_PhiNodes.png
