@@ -16,7 +16,8 @@ license: "CC BY-NC-SA 4.0"
 
 ## I. Prime Distribution · The Harmonic Grid
 
-The Cathedral’s grid is based on **prime coordinates** interpreted as **spatial resonance nodes**.
+The Cathedral’s grid is based on **prime coordinates** interpreted as **spatial resonance nodes**.  
+Together, they form a *harmonic lattice* between discrete mathematics and geometric field topology.
 
 | Prime | Position Vector | Frequency (Hz · scale) | Relative Phase | Note |
 |:--|:--|:--|:--|:--|
@@ -45,7 +46,8 @@ The Cathedral’s grid is based on **prime coordinates** interpreted as **spatia
 | 97 | (13, 12, 11) | 64.103 | 792° | Cathedral Eye |
 | 101 | (13, 13, 12) | 66.943 | 828° | Resonance Gate |
 
-> The sequence from 2 → 101 forms the **structural octave** of the Cathedral grid.
+> The sequence 2 → 101 defines the **Prime Harmonic Octave**,  
+> a natural modulation scale for geometric resonance.
 
 ---
 
@@ -55,25 +57,25 @@ The Cathedral’s grid is based on **prime coordinates** interpreted as **spatia
 \[
 Σφ = \sum_{p} \frac{1}{\ln(p)} · \sin\left(\frac{πp}{φ}\right)
 \]
-This governs the **harmonic weight** of each prime resonance vector.
+Describes the **harmonic amplitude** distribution of prime nodes.
 
 ### 2. Möbius Inversion of Phase Symmetry
 \[
 μ′(p) = (-1)^{Ω(p)} · φ^{-\sqrt{p}}
 \]
-Defines **topological inversions** along prime-based harmonic axes.
+Defines **topological reflection** across Möbius inversion layers.
 
-### 3. Rotational Resonance Operator
+### 3. Quaternionic Rotational Operator
 \[
-R̂(p, θ) = e^{iθ_p} · (x_p + i y_p)
+R̂(q,θ) = e^{(i+j+k)θ} · q · e^{-(i+j+k)θ}
 \]
-Projects primes from linear to **spiral (polar)** domains.
+Maps Möbius inversions into **rotational field stability** (Layer III).
 
-### 4. Observer–Field Equation
+### 4. Observer–Field Feedback
 \[
 Ψ ↔ Φ = \int ψ_t ΔΩ_t dt
 \]
-Represents the **feedback loop** between consciousness and harmonic geometry.
+Models the **Φ⇄Ψ coupling**, the observational closure of the Cathedral’s proof cycle.
 
 ---
 
@@ -84,56 +86,77 @@ Represents the **feedback loop** between consciousness and harmonic geometry.
 | **φ** | Golden Ratio | 1.6180339887 | Universal Constant |
 | **π** | Pi | 3.1415926535 | Rotational Geometry |
 | **β** | Resonance Amplifier | 0.429 (≈ φ³ / π²) | Harmonic Modulator |
-| **k** | Wave Coupling Constant | Variable 0.25–0.85 | Prime Interaction Coefficient |
+| **k** | Wave Coupling Constant | 0.25–0.85 | Prime Interaction Coefficient |
 | **ΔΩ** | Phase Shift Parameter | Dynamic | Determined per resonance pair |
-| **τ** | Time / Field Interval | 1⁄137 baseline | Fine Structure Alignment |
+| **τ** | Temporal Field Interval | 1⁄137 | Fine-Structure Alignment |
 
 ---
 
 ## IV. Structural Fields & Layer Design
 
-| Zone | Range | Function | Visual Link |
+Each proof layer corresponds to a measurable **resonant stability domain** within the Cathedral.  
+Visual links connect directly to the *Proof Architecture* and *Visual Gallery*.
+
+| Zone | Range | Function | Visual Reference |
 |:--|:--|:--|:--|
-| **Root Layer** | 2 → 19 | Ground Geometry | `Operator_Grid.png` |
-| **Mid Harmonic** | 23 → 83 | Field Symmetry Columns | `Cathedral_Field_Grid.png` |
-| **Crown Section** | 89 → 181 | Polyhedral Core | `Resonance_Cathedral_Core.png` |
-| **Outer Bridge** | 191 → 307 | RA|TH Transition | `Prime_Web_Ulam3D.glb` |
+| **Root Layer** | 2 → 19 | Ground Geometry (Prime Grid) | `Resonance_Cathedral_Structural_Framework.png` |
+| **Mid Harmonic** | 23 → 83 | Frequency Columns / Möbius Inversion | `Resonance_Cathedral_Structural_Proof_Layer.png` |
+| **Crown Section** | 89 → 181 | Quaternionic Core / Rotational Stability | `Resonance_Cathedral_Structural_Proof_Network.png` |
+| **Observer Bridge** | 191 → 307 | Φ⇄Ψ Coupling / Closure | `Screenshot_cathedral_v8_8_fusion.png` |
+| **Polyhedral Apex** | 89 → 97 | Golden Resonance Crown | `Screenshot_resonance_cathedral_with_golden_polyhedron_v1.png` |
 
 ---
 
-## V. JSON / CSV Reference
+## V. Data Reference & Integration
 
 | File | Description |
 |:--|:--|
-| `compass.json` | Spatial orientation and axis configuration for GLB viewer |
-| `theme.json` | Color & light scheme (Prime Spectrum → Harmonic Rings) |
-| `overlays.json` | HUD overlays for operator visualization |
-| `Part_VII_PrimeGrid_Data.csv` | Source dataset for prime distribution and resonance attributes |
+| `compass.json` | Spatial orientation & camera alignment for GLB viewer |
+| `theme.json` | Color palette and spectral encoding per proof layer |
+| `overlays.json` | Overlay logic for dynamic resonance visualization |
+| `Part_VII_PrimeGrid_Data.csv` | Source dataset of prime distribution |
+| `cathedral_v8_8_fusion.glb` | Complete 3D resonance structure |
+| `Prime_Web_Ulam3D.glb` | Prime distribution network in cubic field space |
 
 ---
 
-## VI. Notes on GLB Integration
+## VI. Visualization Notes
 
-- The geometry data from **`cathedral_v8_8_fusion.glb`** and **`Prime_Web_Ulam3D.glb`**  
-  are optimized for **three.js or Blender 4+** environments.  
-- When exported with **gltfpack**, use:
+*Recommended Visuals for Scientific Reference:*  
 
-gltfpack -i cathedral_v8_8_fusion.glb -o cathedral_v8_8_min.glb -cc
+- **Prime Grid Base:** `Cathedral_Field_Grid.png`  
+- **Data Flow Map:** `Resonance_Cathedral_DataFlow.png`  
+- **Proof Network (I–IV):** `Resonance_Cathedral_Structural_Proof_Network.png`  
+- **Quaternionic Field Overlay:** `Resonance_Cathedral_Structural_Proof_Networkii.png`  
+- **Golden Polyhedron Integration:** `Screenshot_resonance_cathedral_with_golden_polyhedron_v1.png`
 
-- Camera presets:  
-- FOV: 28°  
-- Orbit distance: 2.6 m  
-- HDRI: `φ_Spectrum_SoftSky.exr`  
+All visuals correspond to reproducible numeric models in CSV/JSON datasets.
 
 ---
 
-## VII. References
+## VII. GLB / Simulation Parameters
 
-1. Hofmann, T. — *NEXAH Codex: Resonant Geometry and Field Syntax*, (2025).  
-2. Ramanujan, S. — Collected Papers, Cambridge University Press (1927).  
-3. Penrose, R. — *Cycles of Time: An Extraordinary New View of the Universe* (2010).  
-4. Euler, L. — *Introductio in Analysin Infinitorum* (1748).  
-5. Weinstein, E. — *Prime Topology and Harmonic Symmetry*, private lecture (2022).  
+- Engine: **three.js** / Blender 4+  
+- Compression: `gltfpack -i cathedral_v8_8_fusion.glb -o cathedral_v8_8_min.glb -cc`  
+- Camera Presets:  
+  - FOV = 28°  
+  - Orbit = 2.6 m  
+  - HDRI = `φ_Spectrum_SoftSky.exr`  
+- Recommended shader curve:  
+  \[
+  α_{blend} = e^{-βt} \sin(φt)
+  \]
+  → describes the visual damping of harmonic decay in the Crown field.
+
+---
+
+## VIII. References
+
+1. **Hofmann, T.** — *NEXAH Codex: Resonant Geometry and Field Syntax* (2025)  
+2. **Ramanujan, S.** — *Collected Papers*, Cambridge UP (1927)  
+3. **Penrose, R.** — *Cycles of Time: An Extraordinary New View of the Universe* (2010)  
+4. **Euler, L.** — *Introductio in Analysin Infinitorum* (1748)  
+5. **Weinstein, E.** — *Prime Topology and Harmonic Symmetry*, Private Lecture (2022)
 
 ---
 
