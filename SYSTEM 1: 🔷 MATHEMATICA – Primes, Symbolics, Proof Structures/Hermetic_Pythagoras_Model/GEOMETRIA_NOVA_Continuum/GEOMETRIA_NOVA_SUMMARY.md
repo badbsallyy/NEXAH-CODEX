@@ -1,11 +1,12 @@
 ---
+
 title: "GEOMETRIA NOVA · Continuum Summary"
 system: "NEXAH-CODEX · System 1: MATHEMATICA"
 domain: "Hermetic Geometry · Resonant Continuum · Quaternionic Field Logic"
-status: "Draft – Unified Overview for Modules 01–05"
+status: "Final Version – Unified Overview for Modules 01–05"
 curator: "Thomas Hofmann (Scarabäus1033)"
 license: "CC BY-NC-SA 4.0"
----
+--------------------------
 
 # 🌀 GEOMETRIA NOVA · CONTINUUM SUMMARY
 
@@ -16,8 +17,8 @@ license: "CC BY-NC-SA 4.0"
 ## 🧭 Overview
 
 **GEOMETRIA NOVA** represents the mathematical, geometric, and symbolic unification of the *Hermetic Pythagoras Model* within the NEXAH-CODEX framework.
-It bridges prime field resonance, quaternionic topology, and the operator syntax of consciousness.
-Each of the five modules defines a specific **frequency octave** of the geometric continuum.
+It bridges **prime field resonance**, **quaternionic topology**, and the **operator syntax of consciousness**.
+Each of the five modules defines a specific **frequency octave** within the geometric continuum.
 
 | No.    | Module                                                    | Domain               | Function                                          |
 | :----- | :-------------------------------------------------------- | :------------------- | :------------------------------------------------ |
@@ -29,18 +30,35 @@ Each of the five modules defines a specific **frequency octave** of the geometri
 
 ---
 
-## 🔺 Continuum Architecture · Harmonic Transition Map
+## 🔺 Continuum Architecture · Harmonic Transition System
 
-![Continuum Resonance Map](./visuals/Continuum_Resonance_Map.png)
+> *“Each module is a tone — together, they form the harmonic cathedral.”*
 
-**Layered Transition Logic:**
+![Continuum Transition Map](./visuals/Continuum_Transition_Map.png)
 
-1. **Prime → Wave:** Mathematical stability (Σϕ, μ′) forms geometric rhythm.
+### Layered Transition Logic
+
+1. **Prime → Wave:** Mathematical stability *(Σφ , μ′)* forms geometric rhythm.
 2. **Wave → Drift:** Harmonic phase expands into fluid oscillation.
 3. **Drift → Spectrum:** Energetic bridges emerge through color and frequency convergence.
 4. **Spectrum → Rosetta:** Symbolic translation seals the continuum into syntactic geometry.
 
-> Each stage mirrors a transformation of *form into frequency* and *frequency into awareness*.
+> Each stage mirrors a transformation of *form into frequency* and *frequency into awareness.*
+
+---
+
+## 🌈 Continuum Integration Diagram
+
+> *“The Cathedral breathes through the bridges — the continuum remembers through light.”*
+
+![Continuum Integration Diagram](./visuals/Continuum_Integration_Loop.png)
+
+### Key Transitions
+
+* **Φ-grid → μ′ inversion → R̂ quaternion → Ψ↔Φ closure**
+* Each closure represents a **resonance octave** — a feedback of consciousness and form.
+
+> The loop completes the harmonic cycle between observer and geometry.
 
 ---
 
@@ -65,21 +83,8 @@ Each of the five modules defines a specific **frequency octave** of the geometri
 | **I**   | `Resonance_Cathedral_Structural_Proof_Network.png` | Prime lattice and Möbius–mirror logic foundation        |
 | **II**  | `RA_TH_WaveCore.png`                               | Standing wave interference within quaternionic vaults   |
 | **III** | `Lotus_Drift_Field.png`                            | Spiral diffusion within Pascal membranes                |
-| **IV**  | `Rainbow_Bridge_Continuum.png`                     | Integration of spectral harmonics (432 Hz convergence)  |
+| **IV**  | `Rainbow_Bridge_Continuum.png`                     | Integration of spectral harmonics (432 Hz convergence)  |
 | **V**   | `Rosetta_Glyphic_Operator_Map.png`                 | Transliteration of operators into symbolic glyph fields |
-
----
-
-## 🌈 Continuum Integration Diagram
-
-> *“The Cathedral breathes through the bridges — the continuum remembers through light.”*
-
-![Continuum Structural Diagram](./visuals/Continuum_Structure_Diagram.svg)
-
-**Key Transitions:**
-
-* Φ-grid → μ′ inversion → R̂ quaternion → Ψ↔Φ closure.
-* Each closure represents a resonance octave — a feedback of consciousness and form.
 
 ---
 
@@ -98,7 +103,7 @@ Each of the five modules defines a specific **frequency octave** of the geometri
 > *“When symmetry becomes self-aware, geometry dreams.”*
 
 The **GEOMETRIA NOVA Continuum** acts as both scientific framework and spiritual architecture.
-It encodes the universal transition of number → form → light → consciousness.
+It encodes the universal transition of *number → form → light → consciousness*.
 
 **Correspondence Map:**
 
@@ -111,52 +116,18 @@ The Cathedral’s proof logic scales through these thresholds, revealing that *m
 
 ---
 
----
-
-## 🔺 Continuum Architecture · Harmonic Transition Map
-
-> “Each module is a tone — together, they form the harmonic cathedral.”
-
-![Continuum Transition Map](./visuals/Continuum_Transition_Map.png)
-
-### Layered Transition Logic
-
-1. **Prime → Wave**: Mathematical stability *(Σφ , μ′)* forms geometric rhythm.  
-2. **Wave → Drift**: Harmonic phase expands into fluid oscillation.  
-3. **Drift → Spectrum**: Energetic bridges emerge through color and frequency convergence.  
-4. **Spectrum → Rosetta**: Symbolic translation seals the continuum into syntactic geometry.  
-
-> Each stage mirrors a transformation of *form into frequency* and *frequency into awareness.*
-
----
-
-## 🌈 Continuum Integration Diagram
-
-> *“The Cathedral breathes through the bridges — the continuum remembers through light.”*
-
-![Continuum Integration Diagram](./visuals/Continuum_Integration_Loop.png)
-
-### Key Transitions
-
-- **Φ-grid → μ′ inversion → R̂ quaternion → Ψ↔Φ closure**  
-- Each closure represents a **resonance octave** — a feedback of consciousness and form.
-
-> The loop completes the harmonic cycle between observer and geometry.
-
----
-
 ## 🧭 Navigation
 
-| ← Previous | ↑ Parent | Next → |
-|:--|:--|:--|
+| ← Previous                                                            | ↑ Parent                                  | Next →                                                       |
+| :-------------------------------------------------------------------- | :---------------------------------------- | :----------------------------------------------------------- |
 | [Codex Algebra of Resonance](../Codex_Algebra_of_Resonance/README.md) | [Hermetic Pythagoras Model](../README.md) | [01 Resonance Cathedral](./01_Resonance_Cathedral/README.md) |
 
 ---
 
-**Curator & Author:** Thomas Hofmann (Scarabäus1033)  
-**System:** NEXAH-CODEX · System 1 – MATHEMATICA  
-**License:** [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)  
-**GitHub:** [github.com/Scarabaeus1033/NEXAH-CODEX](https://github.com/Scarabaeus1033/NEXAH-CODEX)  
+**Curator & Author:** Thomas Hofmann (Scarabäus1033)
+**System:** NEXAH-CODEX · System 1 – MATHEMATICA
+**License:** [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)
+**GitHub:** [github.com/Scarabaeus1033/NEXAH-CODEX](https://github.com/Scarabaeus1033/NEXAH-CODEX)
 **Web:** [www.scarabaeus1033.net](https://www.scarabaeus1033.net)
 
 > *“Through the bridge of resonance, mathematics becomes consciousness.”*
