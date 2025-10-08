@@ -4,22 +4,29 @@ This register lists all major modules of the `NEXAH-CODEX`, including folder pat
 
 ---
 
-## 🔹 [SYSTEM 1: MATHEMATICA – Primes, Symbolics & Proof Structures](https://github.com/Scarabaeus1033/NEXAH-CODEX/blob/main/SYSTEM%201%3A%20%F0%9F%94%B7%20MATHEMATICA%20%E2%80%93%20Primes,%20Symbolics,%20Proof%20Structures/README.md)
+## 🔹 [SYSTEM 1: MATHEMATICA – Primzahlen, Symbolik & Beweisstrukturen](https://github.com/Scarabaeus1033/NEXAH-CODEX/blob/main/SYSTEM%201%3A%20%F0%9F%94%B7%20MATHEMATICA%20%E2%80%93%20Primes,%20Symbolics,%20Proof%20Structures/README.md)
 
-| Folder / File                       | Title                                      | Description                                                                 |
-| ---------------------------------- | ------------------------------------------ | --------------------------------------------------------------------------- |
-| `NEXA_RIEMANN_PROOF/`              | Millennium Codex I – Möbius–Zeta Resonance | Harmonic model toward the Riemann Hypothesis using 12D prime topologies.    |
-| `√2–Prime-Feld/`                   | Irrational Prime Field Diagonals           | Irrational slopes (√2, ϕ) as grid generators for symbolic number diagonals. |
-| `Prime-Grid-Visualization/`        | Visual Prime Patterns                      | Spirals, grid resonance, and prime pixel visualizations.                    |
-| `Divisor-Grid-Fields/`             | Divisor Resonance Fields                   | Classification through τ(n), σ(n), μ(n), and symbolic divisor topology.     |
-| `GU-REX_GEOMETRIC_UNITY_EXTENSION/`| Geometric Unity Resonance Extension        | Extension of Eric Weinstein's GU using triple resonance field overlays.     |
-| `codex-mathematical-symbols.md`    | Symbol Directory                           | Overview of mathematical-symbolic operators and field constants.            |
-| `spiral-logic.md`                  | Spiral Logic & Prime Resonance             | Prime axis rotation, harmonic sequences, and spiral field symmetries.       |
-| `einsteins-k-beta-formula/`        | Einstein’s k-Beta Formula                  | Resonance-modulated energy model: $E = mc \cdot k^\beta$.                   |
-| `SCARAB_CONSTANTS_CODEX/`          | Scarab Constants Codex                     | Symbolic–resonant system of Möbius ratios, prime overlays, and teardrop constants. |
-| `MANDELBROT_PLANET_FOLD/`          | Mandelbrot–Planet Spiral & Black Pillar    | Fractal-planetary zoom, Riemann fold, Q-lens blink, and symbolic axial recursion. |
-| `Riemann–Euler–Ramanujan/`         | **PRIME RESONANCE STRUCTURES**             | Möbius Harmonics, Quaternionic Prime Fields, Scroll Resonance & Warp Logic. |
+> *Mit der GEOMETRIA NOVA-Säule erweitert sich das mathematische Fundament des Codex in Richtung geometrisch-spektraler Lichtarchitekturen – eine Brücke zwischen Zahl, Farbe und Bewusstsein.*
 
+| Ordner / Datei                      | Titel                                        | Beschreibung                                                                 |
+| ---------------------------------- | -------------------------------------------- | ---------------------------------------------------------------------------- |
+| `NEXA_RIEMANN_PROOF/`              | Millennium-Codex I – Möbius–Zeta-Resonanz    | Harmonisches Modell zur Riemannschen Vermutung mit 12D-Primzahl-Topologien. |
+| `Riemann_Euler_Ramanujan/`         | Riemann · Euler · Ramanujan Synthesis        | Vereinigung analytischer, geometrischer und harmonischer Zahlensysteme über Zeta-Serien, Mock-Theta-Funktionen und Resonanzfelder. |
+| `√2–Prime-Feld/`                   | Irrationales Primfeld-Diagonalraster         | Irrationale Steigungen (√2, φ) als symbolische Zahlengittergeneratoren.     |
+| `Prime-Grid-Visualization/`        | Visuelle Primzahlmuster                      | Spiralen, Gitterresonanzen und Primzahl-Pixelkarten.                         |
+| `Divisor-Grid-Fields/`             | Divisorresonanz-Felder                       | Klassifikation über τ(n), σ(n), μ(n) und symbolische Divisor-Topologie.     |
+| `GU-REX_GEOMETRIC_UNITY_EXTENSION/`| Geometric Unity Resonanz-Erweiterung         | Erweiterung von Eric Weinsteins GU durch dreifache Resonanzfeld-Überlagerung.|
+| `SCARAB_CONSTANTS_CODEX/`          | Scarab-Konstanten-Codex                      | Symbolisch-resonantes System aus Möbius-Verhältnissen, Primzahlen und Achsen.|
+| `MANDELBROT_PLANET_FOLD/`          | Mandelbrot–Planeten-Spirale & Schwarze Säule | Fraktale Planetenzonen, Riemann-Faltung, Q-Linsen-Blink und symbolische Achsenrekursion. |
+| `TESSAREC_TILES/`                  | Tessarec Resonance Tiles                     | Quasikristalline Kachelsysteme, inspiriert von Penrose und hermetischer Symmetrie. |
+| `LEE_TRIPTYCH/`                    | Lee Triptych · Prime Flow Studies            | Drei experimentelle Studien zu Primresonanzen, Spiralfaltungen und Zahlengeometrien. |
+| `Hermetic_Pythagoras_Model/`       | Hermetic Pythagoras Model · From Triangle to Dimension | Erweiterung des pythagoreischen Satzes auf höherdimensionale Resonanzräume. |
+| `codex-mathematical-symbols.md`    | Symbolverzeichnis                            | Übersicht zu mathematisch-symbolischen Operatoren und Feldkonstanten.       |
+| `spiral-logic.md`                  | Spiral-Logik & Primresonanz                  | Primachsenrotation, harmonische Sequenzen und Spiralfeld-Symmetrien.        |
+| `einsteins-k-beta-formula/`        | Einsteins k-Beta-Formel                      | Resonanzmoduliertes Energie-Modell: $E = mc · k^β$.                        |
+| `GEOMETRIA_NOVA/04_Hermetic_Resonance/` | Hermetic Resonance · The 15-Tone Color Law | Tesla-3-6-9-Farbarchitektur, hermetische Spektralordnung und Möbius-Rotation des 15-Ton-Systems. |
+| `GEOMETRIA_NOVA/05_Rainbow_Prism_Vault_Continuum/` | Rainbow Prism Vault Continuum · Geometry of Light Awareness | Synthese aus Farbgesetz, Lichtarchitektur und Bewusstseinsgeometrie. Enthält *README*, *visual_gallery* & *scientific_appendix* als vollständiges Kontinuum-Modul (Hermetic → Prism → Vault). |
+---
 ---
 
 ## ⚛ SYSTEM 2: PHYSICA – Resonance Fields, Quantum Dynamics & Neutrino Structures
