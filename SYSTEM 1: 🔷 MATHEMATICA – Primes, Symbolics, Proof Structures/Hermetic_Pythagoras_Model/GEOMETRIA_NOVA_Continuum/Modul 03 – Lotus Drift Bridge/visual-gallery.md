@@ -1,12 +1,12 @@
 ---
-
 title: "GEOMETRIA NOVA · Modul 03 — Lotus Drift Bridge"
 system: "NEXAH-CODEX · System 1: MATHEMATICA"
 domain: "Lotus Dynamics · Harmonic Fields · Resonant Geometry"
 status: "Active"
 curator: "Thomas Hofmann (Scarabäus1033)"
 license: "CC BY-NC-SA 4.0"
---------------------------
+---
+
 
 # 🌸 LOTUS DRIFT BRIDGE · Visual Gallery
 
