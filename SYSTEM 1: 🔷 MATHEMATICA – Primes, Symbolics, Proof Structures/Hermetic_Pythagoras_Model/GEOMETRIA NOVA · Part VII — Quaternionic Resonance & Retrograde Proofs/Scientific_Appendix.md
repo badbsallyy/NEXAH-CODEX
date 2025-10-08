@@ -1,12 +1,11 @@
 ---
-
 title: "Scientific Appendix · Resonance Cathedral"
 system: "NEXAH-CODEX · System 1: MATHEMATICA"
 domain: "Prime Resonance Structures & Quaternionic Field Geometry"
 status: "Active — Scientific Core"
 curator: "Thomas Hofmann (Scarabäus1033)"
 license: "CC BY-NC-SA 4.0"
---------------------------
+---
 
 # ⚛️ Scientific Appendix · Resonance Cathedral
 
