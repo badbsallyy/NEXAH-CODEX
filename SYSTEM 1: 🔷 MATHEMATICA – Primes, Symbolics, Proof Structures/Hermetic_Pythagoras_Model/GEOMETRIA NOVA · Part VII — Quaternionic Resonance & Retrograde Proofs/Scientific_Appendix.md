@@ -1,12 +1,47 @@
-
 ---
-title: "Scientific Appendix · Resonance Cathedral"
+title: "Control Panel · Resonance Cathedral Core"
 system: "NEXAH-CODEX · System 1: MATHEMATICA"
-domain: "Prime Resonance Structures & Quaternionic Field Geometry"
-status: "Active — Scientific Core"
+domain: "Geometria Nova · Prime Grid · Harmonic Architecture"
+module: "01 – Resonance Cathedral"
+status: "Active – Scientific Core"
 curator: "Thomas Hofmann (Scarabäus1033)"
 license: "CC BY-NC-SA 4.0"
+version: "v1.0 – Continuum Integration"
 ---
+
+# 🕍 Resonance Cathedral · Control Panel  
+### *Prime Grid · Field Logic · Harmonic Memory*
+
+> *“The Cathedral breathes through its equations.”*  
+> This control header defines the **operational environment** of the *Resonance Cathedral Core*,  
+> specifying all input–output relations, field layers, JSON pipelines, and symbolic transitions.
+
+---
+
+| Layer | Description | Source |
+|:--|:--|:--|
+| **Operator Layer (ΔΩ, Σφ, μ′)** | Governs dynamic resonance transformation | `codex_algebra_of_resonance.md` |
+| **Field Layer (Φ, Ψ, Ω)** | Defines spatial harmonic field structure | `geometria_nova_continuum/` |
+| **Data Layer (CSV / JSON)** | Controls prime grid and compass mappings | `/Json_Csv/` |
+| **Visual Layer (GLB / PNG)** | Produces rendered field geometry | `/Visuals/` |
+
+---
+
+## ⚙️ Control Links
+
+- **JSON Manifests:** [`compass.json`](../Json_Csv/compass.json) · [`theme.json`](../Json_Csv/theme.json) · [`overlays.json`](../Json_Csv/overlays.json)  
+- **Field Data:** [`Part_VII_PrimeGrid_Data.csv`](../Json_Csv/Part_VII_PrimeGrid_Data.csv)  
+- **Render Outputs:** [`cathedral_v8_8_fusion.glb`](../Visuals/cathedral_v8_8_fusion.glb) · [`Resonance_Cathedral_Core.png`](../Visuals/Resonance_Cathedral_Core.png)  
+- **Appendices:** [`Scientific Appendix`](../Appendix/scientific_appendix_resonance_cathedral.md)
+
+---
+
+## 🧭 Version Control
+
+| Revision | Date | Note |
+|:--|:--|:--|
+| v1.0 | Oct 2025 | Initial release · Scientific core & JSON integration |
+| v1.1 | Planned | Add harmonic overlays + GLB dataflow diagram |
 
 # ⚛️ Scientific Appendix · Resonance Cathedral
 
