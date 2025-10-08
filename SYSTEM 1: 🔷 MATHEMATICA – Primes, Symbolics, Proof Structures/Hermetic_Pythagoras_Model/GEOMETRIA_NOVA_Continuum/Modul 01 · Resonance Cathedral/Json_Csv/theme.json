@@ -1,0 +1,11 @@
+{
+  "name": "Resonance Cathedral Theme",
+  "version": "1.0",
+  "base_color": "#A8C8FF",
+  "highlight_color": "#FFD25E",
+  "grid_color": "#888888",
+  "background_color": "#0B0B10",
+  "emission_intensity": 1.35,
+  "metallic": 0.12,
+  "roughness": 0.38
+}

@@ -1,0 +1,27 @@
+{
+  "overlays": [
+    {
+      "id": "grid",
+      "type": "plane",
+      "visible": true,
+      "opacity": 0.4
+    },
+    {
+      "id": "axis_labels",
+      "type": "text",
+      "visible": true
+    },
+    {
+      "id": "prime_nodes",
+      "type": "points",
+      "visible": true,
+      "color": "#FFD25E"
+    },
+    {
+      "id": "phi_spiral",
+      "type": "curve",
+      "visible": true,
+      "color": "#8EF0D8"
+    }
+  ]
+}
