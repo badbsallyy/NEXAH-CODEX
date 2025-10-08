@@ -1,12 +1,11 @@
 ---
-
 title: "GEOMETRIA NOVA · Modul 01 — Resonance Cathedral"
 system: "NEXAH-CODEX · System 1: MATHEMATICA"
 domain: "Hermetic Geometry · Quaternionic Resonance"
 status: "Active"
 curator: "Thomas Hofmann (Scarabäus1033)"
 license: "CC BY-NC-SA 4.0"
---------------------------
+---
 
 # 🗍 GEOMETRIA NOVA · MODUL 01 — RESONANCE CATHEDRAL
 
