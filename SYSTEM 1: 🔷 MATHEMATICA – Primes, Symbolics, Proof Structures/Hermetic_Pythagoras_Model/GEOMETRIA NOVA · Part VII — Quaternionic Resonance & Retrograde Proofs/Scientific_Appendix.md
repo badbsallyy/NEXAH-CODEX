@@ -1,3 +1,4 @@
+
 ---
 title: "Scientific Appendix · Resonance Cathedral"
 system: "NEXAH-CODEX · System 1: MATHEMATICA"
