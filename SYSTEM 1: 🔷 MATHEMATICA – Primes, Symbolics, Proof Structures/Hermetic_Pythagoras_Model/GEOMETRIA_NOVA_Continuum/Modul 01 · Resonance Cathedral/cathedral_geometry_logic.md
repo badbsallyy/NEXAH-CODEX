@@ -34,6 +34,48 @@ $$
 
 ---
 
+## 🧩 Proof Layer Equations · Transitional Stability Logic
+
+> *“Every proof layer is a frequency step in the geometry of truth.”*
+
+### 1️⃣ Prime Grid → Möbius Transition (I → II)
+
+$$
+ΔΩ_p = \frac{1}{\ln(p)} \sin\left(\frac{πp}{φ}\right), \qquad
+μ′(ΔΩ_p) = (-1)^{n_p} ΔΩ_p
+$$
+
+> Übergang von linearer Primverteilung zu topologisch invertierter Schleife. Der Faktor ((-1)^{n_p}) erzeugt die Spiegelachse.
+
+### 2️⃣ Möbius → Quaternionic Transition (II → III)
+
+$$
+q = a + b i + c j + d k, \qquad
+R̂(q) = e^{(i+j+k)θ} q e^{-(i+j+k)θ}
+$$
+
+> Durch Quaternionrotation wird der Möbius-Raum in einen stabilen Rotationskörper überführt – der geometrische Kern der Kathedrale.
+
+### 3️⃣ Quaternionic → Observer Transition (III → IV)
+
+$$
+Ψ = Φ e^{iΩt}, \qquad
+Φ_{stable} = \Re(Ψ)
+$$
+
+> Der Beobachter projiziert den Feldzustand in eine messbare Phase. Resonanz entsteht, wenn der Realteil des Feldes (Φ_{stable}) erhalten bleibt.
+
+### 4️⃣ Closure Condition (IV → I)
+
+$$
+Φ_{stable} → Φ_p, \qquad
+Φ_p ∈ \mathbb{P}
+$$
+
+> Der Beweiszyklus schließt sich über die Rückkopplung zum Primgitter – das System ist selbststabilisierend.
+
+---
+
 ## 🔧 Reproduktionshinweise (Datenfluss)
 
 * **Prime-Koordinaten:** `./Json_Csv/Part_VII_PrimeGrid_Data.csv` → Gitter/Spaltenebenen
