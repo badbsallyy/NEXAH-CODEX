@@ -1,12 +1,11 @@
 ---
-
 title: "GEOMETRIA NOVA · Visual Gallery"
 system: "NEXAH-CODEX · System 1: MATHEMATICA"
 module: "Modul 01 · Resonance Cathedral"
 status: "Active"
 curator: "Thomas Hofmann (Scarabäus1033)"
 license: "CC BY-NC-SA 4.0"
---------------------------
+---
 
 # 🌀 GEOMETRIA NOVA · VISUAL GALLERY
 
