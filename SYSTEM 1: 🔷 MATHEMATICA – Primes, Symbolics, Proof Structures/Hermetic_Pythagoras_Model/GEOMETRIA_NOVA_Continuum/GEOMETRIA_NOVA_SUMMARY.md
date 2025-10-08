@@ -1,12 +1,11 @@
 ---
-
 title: "GEOMETRIA NOVA · Continuum Summary"
 system: "NEXAH-CODEX · System 1: MATHEMATICA"
 domain: "Hermetic Geometry · Resonant Continuum · Quaternionic Field Logic"
 status: "Draft – Unified Overview for Modules 01–05"
 curator: "Thomas Hofmann (Scarabäus1033)"
 license: "CC BY-NC-SA 4.0"
---------------------------
+---
 
 # 🌀 GEOMETRIA NOVA · CONTINUUM SUMMARY
 
