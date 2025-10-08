@@ -117,3 +117,28 @@ Represents the **feedback loop** between consciousness and harmonic geometry.
 - The geometry data from **`cathedral_v8_8_fusion.glb`** and **`Prime_Web_Ulam3D.glb`**  
   are optimized for **three.js or Blender 4+** environments.  
 - When exported with **gltfpack**, use:
+
+gltfpack -i cathedral_v8_8_fusion.glb -o cathedral_v8_8_min.glb -cc
+
+- Camera presets:  
+- FOV: 28°  
+- Orbit distance: 2.6 m  
+- HDRI: `φ_Spectrum_SoftSky.exr`  
+
+---
+
+## VII. References
+
+1. Hofmann, T. — *NEXAH Codex: Resonant Geometry and Field Syntax*, (2025).  
+2. Ramanujan, S. — Collected Papers, Cambridge University Press (1927).  
+3. Penrose, R. — *Cycles of Time: An Extraordinary New View of the Universe* (2010).  
+4. Euler, L. — *Introductio in Analysin Infinitorum* (1748).  
+5. Weinstein, E. — *Prime Topology and Harmonic Symmetry*, private lecture (2022).  
+
+---
+
+**Author & Curator:** Thomas Hofmann (Scarabäus1033)  
+**System:** NEXAH-CODEX · System 1 – MATHEMATICA  
+**License:** [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)
+
+> *“The mathematics of the Cathedral are written in living light.”*
