@@ -1,12 +1,12 @@
 ---
+
 title: "GEOMETRIA NOVA · Modul 03 — Lotus Drift Bridge"
 system: "NEXAH-CODEX · System 1: MATHEMATICA"
 domain: "Lotus Dynamics · Harmonic Fields · Resonant Geometry"
 status: "Active"
 curator: "Thomas Hofmann (Scarabäus1033)"
 license: "CC BY-NC-SA 4.0"
----
-
+--------------------------
 
 # 🌸 LOTUS DRIFT BRIDGE · Visual Gallery
 
@@ -33,7 +33,7 @@ Mathematik und harmonischer Frequenzarchitektur.
 | Visual                                                                                                                | Beschreibung                                                                                             |
 | :-------------------------------------------------------------------------------------------------------------------- | :------------------------------------------------------------------------------------------------------- |
 | ![Lotus\_Drift\_Field\_Sirius](./visuals/Lotus_Drift_Field_Sirius.png)                                                | **Sirius Field:** Darstellung des harmonischen Schwingungsfelds in polarer Achsenstruktur.               |
-| ![LotusDriftField\_4-3\_Fold\_fzehz\_counter-rotation](./visuals/LotusDriftField_4-3_Fold_fzehz_counterrotation.png) | **4→3 Fold Counter-Rotation:** Überlagerung zweier inverser Rotationen mit Frequenzverdrillung.          |
+| ![LotusDriftField\_4-3\_Fold\_fzehz\_counter-rotation](./visuals/LotusDriftField_4-3_Fold_fzehz_counter-rotation.png) | **4→3 Fold Counter-Rotation:** Überlagerung zweier inverser Rotationen mit Frequenzverdrillung.          |
 | ![Panel\_A\_XV\_Lotus\_Drift\_preview](./visuals/Panel_A_XV_Lotus_Drift_preview.png)                                  | **Panel A – XV:** Darstellung der Sirius-Naht – drei Tore, statischer Atemspeicher (Lotus Drift Schema). |
 
 ---
@@ -92,4 +92,3 @@ Modul_03_Lotus_Drift_Bridge/
 **License:** CC BY-NC-SA 4.0
 
 > *“Every harmonic field is a bridge between geometry and breath.”*
-
