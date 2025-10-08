@@ -104,7 +104,7 @@ This equation encodes the transformation of mathematical relations into **spatia
 | ○ | Harmonic Ring | Encodes rotation and vibration frequency |
 | ║ | Prime Column | Linear harmonic rise |
 | ▢ | Prime Grid Base | Numerical foundation of the Cathedral |
-| ⦿ | Observer | Conscious link between field and geometry |
+| ⦿ | Observer | Conscious link between field and geometry | 
 
 These elements compose the **symbolic grammar** of *GEOMETRIA NOVA*,  
 later translated into the *Rosetta Codex (System 5)*.
