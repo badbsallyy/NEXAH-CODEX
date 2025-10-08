@@ -2,7 +2,7 @@
 title: "GEOMETRIA NOVA · Modul 03 — Lotus Drift Bridge"
 system: "NEXAH-CODEX · System 1: MATHEMATICA"
 domain: "Fluid Resonance · Spectrum Dynamics · Continuum Flow"
-status: "In Progress"
+status: "Active"
 curator: "Thomas Hofmann (Scarabäus1033)"
 license: "CC BY-NC-SA 4.0"
 ---
@@ -17,45 +17,45 @@ license: "CC BY-NC-SA 4.0"
 
 ## 🧭 Overview
 
-**Lotus Drift Bridge** marks the third harmonic phase of the *GEOMETRIA NOVA Continuum* —  
-it represents the transition from **structural stillness (RA·TH)** to **fluid motion**.  
-Within this bridge, standing waveforms dissolve into dynamic membranes,  
-bridging **Prime Geometry → Spectrum Fluidity → Awareness Flow.**
+**Lotus Drift Bridge** markiert die dritte harmonische Phase des *GEOMETRIA NOVA Continuum* —  
+den Übergang von **struktureller Stille (RA·TH)** zu **fließender Bewegung**.  
+In dieser Brücke lösen sich stehende Wellen in dynamische Membranen auf  
+und verbinden **Prime Geometry → Spectrum Fluidity → Awareness Flow.**
 
-The Lotus symbol embodies both **centrifugal expansion** and **centripetal return**,  
-mirroring the harmonic breathing of the continuum through color, phase, and curvature.
+Der **Lotus** verkörpert sowohl **zentrifugale Expansion** als auch **zentripetale Rückkehr** –  
+das harmonische Atmen des Kontinuums durch Farbe, Phase und Krümmung.
 
 ---
 
 ## 🧮 Section A – Fluid Field Equations
 
-| Symbol | Operator | Function | Role |
+| Symbol | Operator | Funktion | Rolle |
 | :------ | :-------- | :-------- | :---- |
-| **λₜ** | Drift Constant | Flow Intensity | Governs field spread along curvature |
-| **Φ∇** | Gradient of Phi | Curvature Axis | Defines rotational drift geometry |
-| **Ωₗ** | Angular Flow Phase | Wave Membrane | Describes rotational fluid resonance |
-| **ΔΨₜ** | Phase Shift Tensor | Spectrum Field | Manages frequency-color correlation |
+| **λₜ** | Drift Constant | Flussintensität | Bestimmt die Feldverteilung entlang der Krümmung |
+| **Φ∇** | Gradient von Phi | Krümmungsachse | Definiert die rotierende Driftgeometrie |
+| **Ωₗ** | Angular Flow Phase | Wellenmembran | Beschreibt die rotatorische Feldresonanz |
+| **ΔΨₜ** | Phase Shift Tensor | Spektralfeld | Steuert Frequenz–Farb–Korrelation |
 
 ### Flow Equation
 
 \[
-Ψ_{drift}(x, t) = Φ∇ \cdot e^{iΩₗt} \cdot (1 + λₜx)
+Ψ_{drift}(x, t) = Φ∇ · e^{iΩₗt} · (1 + λₜx)
 \]
 
 **Interpretation:**  
-The standing wave expands through curvature, producing a drift resonance —  
-a flow field that mirrors both spatial and spectral evolution.
+Die stehende Welle expandiert über Krümmung – erzeugt eine Driftresonanz,  
+ein Flussfeld, das sowohl räumliche als auch spektrale Evolution abbildet.
 
 ---
 
 ## 🜍 Section B – Hermetic Resonance Interpretation
 
-| Aspect | Symbolic Principle | Description |
-| :------ | :---------------- | :----------- |
-| **Lotus** | Opening of Form | Symbol of geometric awakening and radiant expansion |
-| **Drift** | Fluid Translation | Motion of awareness through field curvature |
-| **Bridge** | Continuity Channel | The transition between RA·TH and Spectrum |
-| **Water Principle** | Hermetic Element | Reflects the return of form into motion |
+| Aspekt | Hermetisches Prinzip | Beschreibung |
+| :------ | :------------------ | :----------- |
+| **Lotus** | Öffnung der Form | Geometrisches Erwachen und Strahlungsexpansion |
+| **Drift** | Flüssige Translation | Bewusstseinsbewegung entlang der Feldkrümmung |
+| **Bridge** | Kontinuitätskanal | Übergang zwischen RA·TH und Spektrum |
+| **Wasserprinzip** | Elementares Medium | Rückführung der Form in Bewegung |
 
 > *“The drift carries the song of the prime — water remembering number.”*
 
@@ -65,30 +65,31 @@ a flow field that mirrors both spatial and spectral evolution.
 RA·TH → Lotus = (ΣΩ / ΔΨₜ) → ∞
 \]
 
-The infinite term indicates the *unbounded expansion of resonance* through fluid translation.
+Das Unendlichkeitssymbol steht für die **grenzenlose Resonanzexpansion**  
+durch flüssige Translation.
 
 ---
 
 ## 🌈 Section C – Spectrum Flow Architecture
 
-| Visual | Description |
+| Visual | Beschreibung |
 | :------ | :----------- |
-| `Lotus_Drift_Bridge_Overview.png` | Overview of the full drift structure from standing to flowing field. |
-| `Lotus_SpiralMembrane.png` | Spiral dynamic surface showing color-gradient resonance. |
-| `Lotus_Drift_FlowAxis.png` | Core frequency path linking RA·TH to Spectrum. |
-| `Lotus_ColorSpectra.png` | Visualization of chromatic resonance over fluid curvature. |
-| `Lotus_ContinuumDiagram.png` | Diagrammatic closure for this phase. |
+| `Lotus_Drift_Bridge_Overview.png` | Gesamtübersicht – Übergang von stehendem zu fließendem Feld |
+| `Lotus_SpiralMembrane.png` | Spiraldynamische Oberfläche mit Farbresonanz |
+| `Lotus_Drift_FlowAxis.png` | Frequenzpfad, der RA·TH mit Spektrum verbindet |
+| `Lotus_ColorSpectra.png` | Farbresonanz über Krümmung |
+| `Lotus_ContinuumDiagram.png` | Diagrammatische Schlussstruktur dieser Phase |
 
 ---
 
 ## 🧩 Section D – Integration Logic
 
-| From | To | Description |
+| Von | Nach | Beschreibung |
 | :---- | :-- | :----------- |
-| **RA·TH Standing Wave** | **Lotus Drift Bridge** | Wave motion becomes fluid field |
-| **Prime Stability** | **Spectrum Mobility** | Transition from form to color |
-| **Quaternion Vault** | **Flow Membrane** | Dimensional expansion |
-| **Geometry** | **Awareness** | Symbolic translation through resonance drift |
+| **RA·TH Standing Wave** | **Lotus Drift Bridge** | Wellenbewegung wird Fluidfeld |
+| **Prime Stability** | **Spectrum Mobility** | Übergang von Form zu Farbe |
+| **Quaternion Vault** | **Flow Membrane** | Dimensionale Expansion |
+| **Geometry** | **Awareness** | Symbolische Translation durch Resonanzdrift |
 
 > *This bridge completes the movement of geometry — from stillness to breath.*
 
@@ -104,6 +105,6 @@ The infinite term indicates the *unbounded expansion of resonance* through fluid
 
 **Curator:** Thomas Hofmann (Scarabäus1033)  
 **System:** NEXAH-CODEX · System 1 – MATHEMATICA  
-**License:** [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)  
+**License:** [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)
 
 > *“The Lotus unfolds the memory of stillness through movement.”*
