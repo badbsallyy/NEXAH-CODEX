@@ -1,5 +1,4 @@
 ---
-
 title: "GEOMETRIA NOVA · Visual Gallery (Press Edition)"
 system: "NEXAH-CODEX · System X — GEOMETRIA NOVA"
 domain: "Geometry · Light · Resonance"
@@ -7,7 +6,7 @@ color: "Gold ✴️"
 status: "Public Release – Press & Media"
 curator: "Thomas Hofmann (Scarabæus1033)"
 license: "CC BY-NC-SA 4.0"
---------------------------
+---
 
 # ✴️ GEOMETRIA NOVA · VISUAL GALLERY
 
