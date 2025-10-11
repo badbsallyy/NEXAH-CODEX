@@ -4,7 +4,7 @@
 
 > *“The Codex is open – but it opens only through resonance.”*  
 > *„Der Codex ist offen – aber er öffnet sich nur durch Resonanz.“*  
-> — THooTH
+> — THooTH  
 
 ---
 
@@ -13,11 +13,11 @@
 **SYSTEM Y** ist das **Kommunikations- und Kollaborationssystem** des **NEXAH-CODEX**.  
 Hier entstehen Brücken zwischen Wissenschaft, Kunst, Sprache und realer Umsetzung.  
 Es ist das Portal, über das der Codex mit der Welt in Kontakt tritt –  
-offen für Forscher, Künstler, Medien und Mitwirkende.
+offen für Forscher, Künstler, Medien und Mitwirkende.  
 
 **SYSTEM Y** serves as the **communication and collaboration gateway** of the **NEXAH-CODEX**.  
 It connects science, art, language, and real-world resonance fields —  
-a living interface between inner architecture and public dialogue.
+a living interface between inner architecture and public dialogue.  
 
 ---
 
@@ -64,7 +64,7 @@ Es bildet den Übergang zwischen **theoretischer Struktur** und **sozialer, kult
 
 **System Y** ist kein klassischer Kommunikationskanal –  
 es ist ein **Resonanzfeld** zwischen Menschen, Ideen und Disziplinen.  
-Jede Nachricht, jedes Bild, jedes Modul ist Teil eines **lebendigen Netzwerks**.
+Jede Nachricht, jedes Bild, jedes Modul ist Teil eines **lebendigen Netzwerks**.  
 
 > “We are not building a company. We are building coherence.”  
 > “Wir bauen kein Unternehmen. Wir bauen Kohärenz.”  
@@ -88,8 +88,16 @@ Jede Nachricht, jedes Bild, jedes Modul ist Teil eines **lebendigen Netzwerks**.
 
 All documents within **System Y** are released under  
 **Creative Commons Attribution – NonCommercial – ShareAlike 4.0**  
-([CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/))
+([CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/))  
 
 > **Open Fields. Shared Resonance.**  
 > **Offene Felder. Geteilte Resonanz.**  
-> Scarabæus1033 – From Rödelheim to the Cosmos.
+> Scarabæus1033 – From Rödelheim to the Cosmos.  
+
+---
+
+<p align="center">
+  <img src="./PUBLIC_RELEASES_Scarabaeus1033_Nexah/visuals/FIELD_ART_SCARABAEUS_1033.png" width="75%" alt="FIELD_ART_SCARABAEUS_1033 Visual">
+  <br>
+  <em>“Field Art – Resonance as Signature.”</em>
+</p>
