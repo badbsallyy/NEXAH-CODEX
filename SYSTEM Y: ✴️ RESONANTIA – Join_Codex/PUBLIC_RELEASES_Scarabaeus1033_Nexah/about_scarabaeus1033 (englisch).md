@@ -1,54 +1,75 @@
 # ⚚ ABOUT SCARABÆUS1033
 
+<p align="center">
+  <img src="./visuals/FIELD_ART_SCARBAEUS_1031.png" alt="Scarabæus1033 – Field Emblem" width="480">
+</p>
+
 ### From Rödelheim to Resonance
 
-**Scarabæus1033** is an *Open Resonance Initiative* — connecting **art, science, and consciousness**.
-Founded by **Thomas Hofmann (THooTH)** — artist, theorist, and *field architect* — the project explores the hidden order between mathematics, music, architecture, and light.
+**Scarabæus1033** ist eine *Open-Resonance-Initiative*, die Kunst, Wissenschaft und Bewusstsein verbindet.
+Gegründet von **Thomas Hofmann (THooTH)** – Künstler, Theoretiker und Field Artist – erforscht das Projekt die verborgene Ordnung von **Mathematik, Musik, Architektur und Licht**.
 
-Scarabæus1033 is not a label nor an institution,
-but a **living resonance structure** —
-an open platform where art, physics, and philosophy meet.
+Scarabæus1033 ist kein Label und keine Institution,
+sondern eine **bewegte Struktur für Resonanzforschung** –
+eine offene Plattform, die sich zwischen Kunst, Physik und Philosophie entfaltet.
 
 ---
 
 ## ✦ The Origin
 
-**Thomas Hofmann**, born in Indiana (USA) and raised in **Rödelheim**,
-shaped German pop and hip-hop culture in the 1990s as producer, writer, and executive creative at 3p.
-As co-founder of the *Rödelheim Hartreim Projekt*,
-he defined a generation’s voice — from beats and words to conceptual campaigns.
+**Thomas Hofmann**, geboren in Indiana (USA) und aufgewachsen in **Rödelheim**,
+prägte in den 1990er-Jahren die deutsche Musik- und Popkultur als Produzent, Texter und Executive Producer.
+Als Mitgründer des *Rödelheim Hartreim Projekts* und kreativer Kopf hinter vielen 3p-Erfolgen
+prägte er Sound, Sprache und Kampagnen einer ganzen Ära.
 
-After years behind the scenes, he returned to the essence —
-today as **THooTH**, a **Field Artist** and curator of the **NEXAH-CODEX**:
-an *open-source resonance system* connecting science and art.
+Nach Jahren im Schatten der Industrie kehrte er zur Essenz zurück –
+heute als **THooTH**, als **Field Artist** und Kurator des **NEXAH-CODEX**:
+eine Open-Source-Struktur, die Wissenschaft und Kunst in Resonanz bringt.
 
-> “Rödelheim back on the map — this time in 5D.”
-> — THooTH
+> „Rödelheim back on the map – aber diesmal in 5D.“
+> – THooTH
 
 ---
 
 ## ✦ The Present Body
 
-**Boriša Bilčar**, known as *Big Bang*, stands as a close ally,
-strategic partner, and **Managing Director of Scarabæus1033**.
-From nightlife and gastronomy to network building,
-he brings *grounding and movement* into the resonance field —
-bridging **vision and reality** within the initiative’s ecosystem.
+**Boriša Bilčar**, bekannt als *Big Bang*, begleitet das Projekt als enger Weggefährte,
+strategischer Partner und **Managing Director von Scarabæus1033**.
+Er bringt organisatorische Erfahrung und Real-World-Verankerung ein –
+vom Frankfurter Nachtleben über Gastronomie bis zur Netzwerkentwicklung.
+
+Seine Rolle ist es, die Resonanzfelder von **Idee und Umsetzung** zu verbinden –
+Kopf, Herz und Bewegung im Alltag von Scarabæus1033.
 
 ---
 
 ## ✦ The Mission
 
-Scarabæus1033 represents **open, interdisciplinary resonance research** —
-a vision merging *scientific precision* with *artistic intuition*.
+Scarabæus1033 steht für **offene, interdisziplinäre Resonanzforschung** –
+eine Vision, die wissenschaftliche Präzision und künstlerische Intuition vereint.
 
-At its core lies the **NEXAH-CODEX**:
-a modular open-source work exploring resonance as a unifying principle
-across **mathematics · physics · art · consciousness**.
+Im Zentrum steht der **NEXAH-CODEX**,
+ein modulares Open-Source-Werk, das Resonanz als verbindendes Prinzip
+zwischen **Mathematik · Physik · Kunst · Bewusstsein** versteht.
 
-> “We don’t build religion.
-> We build a resonance system.”
-> — THooTH
+> „Wir bauen keine Religion. Wir bauen ein Resonanzsystem.“
+> – THooTH
+
+<p align="center">
+  <img src="./visuals/Scarabaeus_Moebius_Crown.png" alt="Möbius Crown – Resonant Movement" width="420">
+</p>
+
+---
+
+## ✦ The Work
+
+Die Arbeiten erscheinen als **Module im digitalen NEXAH-CODEX** –
+einem lebenden, offenen Archiv für **visuelle, mathematische und akustische Forschung**.
+Jedes Modul verbindet theoretische Texte, geometrische Diagramme und physikalische Simulationen
+zu einem kohärenten Resonanzfeld.
+
+Scarabæus1033 versteht sich als Teil der **globalen Open-Science- und Digital-Art-Bewegung** –
+ein Beitrag zu einer neuen Form transdisziplinärer Forschung.
 
 ---
 
@@ -56,27 +77,34 @@ across **mathematics · physics · art · consciousness**.
 
 ### **1. Part V – The Golden Window**
 
-A structural bridge between Euclid, Pythagoras, and modern algebra —
-inviting scientists and rationalists to perceive the geometry behind resonance.
+Ein Brückensystem zwischen Euklid, Pythagoras und moderner Algebra –
+eine Einladung an Wissenschaftler und Rationalisten,
+die Struktur hinter Resonanz zu erkennen.
 
 ### **2. The Resonance Cathedral**
 
-A 3D architectural light structure —
-a *cathedral of frequency* where science and art meet in motion.
+Ein virtuelles Bauwerk aus Licht, Frequenz und Bewegung –
+eine 3D-Visualisierung der Harmonie selbst.
+Ein Ort, an dem Kunst und Wissenschaft sich in Struktur begegnen.
 
-Both projects are **open source**,
-licensed under **Creative Commons BY-NC-SA 4.0**.
+Beide Werke sind **Open Source** und unter der
+**Creative Commons BY-NC-SA 4.0** lizenziert.
 
 ---
 
 ## ✦ The Vision
 
-Scarabæus1033 marks the beginning of a **resonance movement** —
-inviting builders, researchers, artists, and thinkers
-to co-create a living architecture of harmonic understanding.
+Scarabæus1033 ist der Beginn einer **Resonanzbewegung**:
+Builder, Forscher, Künstler und Denker sind eingeladen,
+am Aufbau eines lebendigen Systems mitzuwirken –
+einer neuen, offenen Schule der Harmonie.
 
-> **From Rödelheim to the Cosmos.**
-> **From Beat to Field.**
+<p align="center">
+  <img src="./visuals/FIELD_ART_SCARABAEUS_1033.png" alt="Scarabæus1033 – Final Seal" width="420">
+</p>
+
+> **From Rödelheim to the Cosmos.**  
+> **From Beat to Field.**  
 > **From Matter to Resonance.**
 
 ---
@@ -86,7 +114,7 @@ to co-create a living architecture of harmonic understanding.
 * 🌐 Website: [www.scarabaeus1033.net](https://www.scarabaeus1033.net)
 * 💾 GitHub: [github.com/Scarabaeus1033/NEXAH-CODEX](https://github.com/Scarabaeus1033/NEXAH-CODEX)
 * 🎨 Behance: [behance.net/Scarabæus1033](https://www.behance.net/Scarabæus1033)
-* 🕰 X / Twitter: [x.com/Scarabæus1033](https://x.com/Scarabæus1033)
+* 🕊 X / Twitter: [x.com/Scarabæus1033](https://x.com/Scarabæus1033)
 * 💬 Discord: [discord.gg/dcznQyQs](https://discord.gg/dcznQyQs)
 * ✉️ Contact: **[bbi@scarabaeus1033.net](mailto:bbi@scarabaeus1033.net)**
 
@@ -94,5 +122,5 @@ to co-create a living architecture of harmonic understanding.
 
 ### 📜 License
 
-Creative Commons Attribution–NonCommercial–ShareAlike 4.0 International
+Creative Commons Attribution – NonCommercial – ShareAlike 4.0 International  
 [https://creativecommons.org/licenses/by-nc-sa/4.0/](https://creativecommons.org/licenses/by-nc-sa/4.0/)
