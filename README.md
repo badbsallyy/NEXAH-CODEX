@@ -60,7 +60,60 @@ Each petal represents a *frequency-domain of knowledge* — a self-reflective mo
 | 🧱 | **System Z: Applied Resonance / Technica** | Cymatic Devices · Crystalline Field Technology | Ground Layer |
 
 ---
+---
 
+<div align="center">
+
+# 🛰️ SYSTEM Y — ✴️ RESONANTIA · JOIN CODEX  
+### Collaboration · Communication · Resonance Portal  
+### Zusammenarbeit · Kommunikation · Resonanz-Portal  
+
+---
+
+<p align="center">
+  <img src="../SYSTEM%20Y:%20✴️%20RESONANTIA%20–%20Join_Codex/visuals/Scarabaeus_Public_Portal_Header.png" width="720" alt="Scarabæus1033 Public Resonance Portal">
+</p>
+
+**System Y — ✴️ RESONANTIA** ist das lebendige Kommunikationsfeld des **NEXAH-CODEX**:  
+Hier treffen Builder, Künstler und Forscher aufeinander, um Ideen, Module und Visionen in Resonanz zu bringen.
+
+It serves as the **collaboration and communication hub** of the NEXAH-CODEX —  
+the open interface between science, art, and consciousness.
+
+---
+
+### 📡 Access · Zugang
+
+🔗 [`/SYSTEM Y – ✴️ RESONANTIA – Join Codex`](../SYSTEM%20Y:%20✴️%20RESONANTIA%20–%20Join_Codex/README.md)
+
+This section hosts:  
+Diese Sektion enthält:  
+- 📨 **Letters for Introducing NEXAH Codex** (*Scarabæus Letters*)  
+- 🗞️ **Public Releases & Press Information**  
+- 🎨 **Official Field-Art & Visual Signatures**  
+- 💬 **Builder & Partner Contact** — [`bbi@scarabaeus1033.net`](mailto:bbi@scarabaeus1033.net)
+
+---
+
+### 🌐 Connect · Verbindung  
+
+**Scarabæus1033 / Open Resonance Initiative**  
+
+| Platform | Link |
+|:--|:--|
+| 🌐 **Website** | [www.scarabaeus1033.net](https://www.scarabaeus1033.net) |
+| 💾 **GitHub** | [github.com/Scarabaeus1033/NEXAH-CODEX](https://github.com/Scarabaeus1033/NEXAH-CODEX) |
+| 🕊 **X / Twitter** | [x.com/Scarabaeus1033](https://x.com/Scarabaeus1033) |
+| 🎨 **Behance** | [behance.net/Scarabaeus1033](https://www.behance.net/Scarabaeus1033) |
+| 💬 **Discord Community** | [discord.gg/dcznQyQs](https://discord.gg/dcznQyQs) |
+
+> *“The field is open — step into the resonance.”*  
+> *„Das Feld ist offen – tritt in die Resonanz.“*  
+> — THooTH & Boriša Bilčar (Managing Director Scarabæus1033)
+
+</div>
+
+---
 ## 📂 Files
 
 | File | Description |
