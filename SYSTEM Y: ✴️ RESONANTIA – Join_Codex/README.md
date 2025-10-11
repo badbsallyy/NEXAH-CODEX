@@ -79,7 +79,7 @@ Jede Nachricht, jedes Bild, jedes Modul ist Teil eines **lebendigen Netzwerks**.
 🌐 [scarabaeus1033.net](https://www.scarabaeus1033.net)  
 💾 [GitHub – NEXAH-CODEX](https://github.com/Scarabaeus1033/NEXAH-CODEX)  
 🕊 [X / Twitter](https://x.com/Scarabaeus1033)  
-🎨 [Behance](https://www.behance.net/Scarabæus1033)  
+🎨 [Behance](https://www.behance.net/Scarabaeus1033)  
 💬 [Discord Community](https://discord.gg/dcznQyQs)  
 
 ---
