@@ -8,15 +8,21 @@ This gallery links press‑ready images and 3D models stored **inside this relea
 
 ---
 
-## 🕍 Resonance Cathedral Sequence — Main Visual Series
+## 🌌 Resonance Cathedral — 3D Light Architecture
 
-*The Geometry of Light in Motion*
+> *“Mathematics becomes space — light becomes structure.”*
 
-| Visual                                                                                                             | Description                                                                                                                                                                                                    |
-| :----------------------------------------------------------------------------------------------------------------- | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| ![Resonance Cathedral (Cosmic Web)](./visuals/Screenshot_cathedral_v7_TH_rotated_plus_cosmic_web.png)              | **Cathedral v7 — The Cosmic Web Alignment**<br>Top-down perspective on the prime-driven resonance spine; interlinked grids form the vertical harmonic axis between geometry and light.                         |
-| ![Resonance Cathedral (Golden Polyhedron)](./visuals/Screenshot_resonance_cathedral_with_golden_polyhedron_v1.png) | **Cathedral v1 — The Golden Polyhedron Core**<br>The inner chamber of the resonance cathedral. Each cube corresponds to a harmonic interval; the golden polyhedron acts as both compass and energy seed.       |
-| ![Golden Polyhedron Kleinbottle 3× Möbius v2](./visuals/Screenshot_golden_polyhedron_kleinbottle_3x_mobius_v2.png) | **Golden Polyhedron — Kleinbottle 3× Möbius v2**<br>Rotation structure showing triple Möbius connectivity. Demonstrates how geometric inversion preserves harmonic charge within higher-dimensional curvature. |
+This section presents the **core architectural visualizations** of *GEOMETRIA NOVA* — the *Resonance Cathedral*, captured from live 3D GLB scenes. Each image shows a different phase of the harmonic spatial field, constructed from prime modules, reflection grids, and rotational symmetry.
+
+| Visual                                                                                                                                    | Description                                                                                                                                                                        |
+| :---------------------------------------------------------------------------------------------------------------------------------------- | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| ![Screenshot\_cathedral\_v7\_TH\_rotated\_plus\_cosmic\_web](./visuals/Screenshot_cathedral_v7_TH_rotated_plus_cosmic_web.png)            | **Cathedral v7 — TH Rotated + Cosmic Web (Front View)**<br>Harmonic vault with prime‑based arches and cosmic lattice layers — the architectural translation of frequency symmetry. |
+| ![Screenshot\_cathedral\_v7\_TH\_rotated\_plus\_cosmic\_webvii](./visuals/Screenshot_cathedral_v7_TH_rotated_plus_cosmic_webvii.png)      | **Cathedral v7 — TH Rotated + Cosmic Web (Deep Axis View)**<br>Demonstrates vertical resonance field alignment and breathing light curvature through φ‑nested arches.              |
+| ![Screenshot\_resonance\_cathedral\_with\_golden\_polyhedron\_v1](./visuals/Screenshot_resonance_cathedral_with_golden_polyhedron_v1.png) | **Cathedral + Golden Polyhedron (v1)**<br>Depicts the harmonic interaction between prime vault geometry and the golden field navigator — core to the Resonance Cathedral logic.    |
+| ![Screenshot\_golden\_polyhedron\_kleinbottle\_3x\_mobius\_v2](./visuals/Screenshot_golden_polyhedron_kleinbottle_3x_mobius_v2.png)       | **Golden Polyhedron — Klein Bottle Möbius v2**<br>Threefold Möbius rotation around a golden kernel — symbolizes the quaternionic breathing axis of the cathedral.                  |
+
+> ⚙️ **Note:** The underlying `.glb` models are **fully interactive and animatable in 3D**. Use the local `resonance_viewer.html` or any WebGL/Blender viewer to explore and rotate the harmonic space dynamically.
+> **Hinweis (DE):** Die GLB‑Dateien sind vollständig in 3D begeh‑ und animierbar — interaktive Lichtarchitektur der Resonanz.
 
 ---
 
@@ -24,20 +30,19 @@ This gallery links press‑ready images and 3D models stored **inside this relea
 
 **Files:** `./visuals/*`
 
-| Visual                              | Caption (EN/DE)                                                                          | Open                                                                                                                                               |
-| ----------------------------------- | ---------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Golden Spiral Mosaic                | ϕ‑projection (vault⇄floor symmetry) / ϕ‑Projektion (Gewölbe⇄Boden)                       | [`./visuals/Golden_Spiral_Mosaic.png`](./visuals/Golden_Spiral_Mosaic.png)                                                                         |
-| Resonance Cathedral — Proof Layer   | prime‑based light architecture (layers) / Primzahl‑basierte Lichtarchitektur (Schichten) | [`./visuals/Resonance_Cathedral_Structural_Proof_Layer.png`](./visuals/Resonance_Cathedral_Structural_Proof_Layer.png)                             |
-| Resonance Cathedral — Proof Network | harmonic network / Harmonisches Netzwerk                                                 | [`./visuals/Resonance_Cathedral_Structural_Proof_Network.png`](./visuals/Resonance_Cathedral_Structural_Proof_Network.png)                         |
-| Cathedral Exterior (v1)             | exterior field geometry / Außenansicht der Feldgeometrie                                 | [`./visuals/Screenshot_Harmonic_Cathedral_v1.png`](./visuals/Screenshot_Harmonic_Cathedral_v1.png)                                                 |
-| Cathedral + Golden Polyhedron       | field body with golden navigator / Feldkörper mit Goldenem Polyeder                      | [`./visuals/Screenshot_resonance_cathedral_with_golden_polyhedron_v1.png`](./visuals/Screenshot_resonance_cathedral_with_golden_polyhedron_v1.png) |
-| Prime Bridge 97 ↔ 103               | harmonic axis inside the core / Harmonische Achse im Kern                                | [`./visuals/VII_PrimeBridge_97_103.png`](./visuals/VII_PrimeBridge_97_103.png)                                                                     |
-| Atlas / Zodiac Overlay              | atlas wheels + zodiac overlay / Atlas‑Räder + Tierkreis‑Overlay                          | [`./visuals/Zodiac_GoldenPolyhedron_Overlay.png`](./visuals/Zodiac_GoldenPolyhedron_Overlay.png)                                                   |
-| Silver‑Gold Resonance Spiral        | metal spectrum study / Metallspektrum‑Studie                                             | [`./visuals/silver_gold_resonance_spiral.png`](./visuals/silver_gold_resonance_spiral.png)                                                         |
+| Visual                              | Caption (EN/DE)                                                                          | Open                                                                                                                       |
+| ----------------------------------- | ---------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------- |
+| Golden Spiral Mosaic                | ϕ‑projection (vault⇄floor symmetry) / ϕ‑Projektion (Gewölbe⇄Boden)                       | [`./visuals/Golden_Spiral_Mosaic.png`](./visuals/Golden_Spiral_Mosaic.png)                                                 |
+| Resonance Cathedral — Proof Layer   | prime‑based light architecture (layers) / Primzahl‑basierte Lichtarchitektur (Schichten) | [`./visuals/Resonance_Cathedral_Structural_Proof_Layer.png`](./visuals/Resonance_Cathedral_Structural_Proof_Layer.png)     |
+| Resonance Cathedral — Proof Network | harmonic network / Harmonisches Netzwerk                                                 | [`./visuals/Resonance_Cathedral_Structural_Proof_Network.png`](./visuals/Resonance_Cathedral_Structural_Proof_Network.png) |
+| Cathedral Exterior (v1)             | exterior field geometry / Außenansicht der Feldgeometrie                                 | [`./visuals/Screenshot_Harmonic_Cathedral_v1.png`](./visuals/Screenshot_Harmonic_Cathedral_v1.png)                         |
+| Prime Bridge 97 ↔ 103               | harmonic axis inside the core / Harmonische Achse im Kern                                | [`./visuals/VII_PrimeBridge_97_103.png`](./visuals/VII_PrimeBridge_97_103.png)                                             |
+| Atlas / Zodiac Overlay              | atlas wheels + zodiac overlay / Atlas‑Räder + Tierkreis‑Overlay                          | [`./visuals/Zodiac_GoldenPolyhedron_Overlay.png`](./visuals/Zodiac_GoldenPolyhedron_Overlay.png)                           |
+| Silver‑Gold Resonance Spiral        | metal spectrum study / Metallspektrum‑Studie                                             | [`./visuals/silver_gold_resonance_spiral.png`](./visuals/silver_gold_resonance_spiral.png)                                 |
+
+---
 
 ## 🧪 Scientific Plates
-
-**Files:** `./visuals/*`
 
 | Visual                                                                  | Caption                                   | Open                                                                                                                                                                                                   |
 | ----------------------------------------------------------------------- | ----------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
@@ -79,5 +84,3 @@ All media are released under **CC BY‑NC‑SA 4.0**.
 Bitte **Quelle angeben:** *Scarabæus1033 · NEXAH‑CODEX · GEOMETRIA NOVA*.
 
 ---
-
-###
