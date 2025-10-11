@@ -22,7 +22,7 @@ The structure integrates the *Hermetic Pythagoras Model → Geometria Nova Conti
 
 | Type | English | Deutsch |
 | :-- | :-- | :-- |
-| 📰 **Press Release** | [`press_release_Geometria_Nova (eng_deu).md`](./press_release_Geometria_Nova%20(eng_deu).md) | — |
+| 📰 **Press Release** | [`press_release_Geometria_Nova (eng_deu).md`](./press_release_Geometria_Nova%20(eng_deu).md) | — | [`press_release_Geometria_Nova (eng_deu).md`](./press_release_Geometria_Nova%20(eng_deu).md) |
 | 🧭 **Press Overview** | [`press_overview_Geometria_Nova.md`](./press_overview_Geometria_Nova.md) | [`press_overview_Geometria_Nova (deutsch).md`](./press_overview_Geometria_Nova%20(deutsch).md) |
 | 📘 **README / Navigator** | [`readme.md`](./readme.md) | [`readme (deutsch).md`](./readme%20(deutsch).md) |
 
