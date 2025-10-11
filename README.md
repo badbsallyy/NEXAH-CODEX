@@ -84,7 +84,9 @@ the open interface between science, art, and consciousness.
 
 ### 📡 Access · Zugang
 
-🔗 [`/SYSTEM Y – ✴️ RESONANTIA – Join Codex`](../SYSTEM%20Y:%20✴️%20RESONANTIA%20–%20Join_Codex/README.md)
+🔗 <p align="center">
+  <img src="../SYSTEM%20Y:%20%E2%9C%B4%EF%B8%8F%20RESONANTIA%20%E2%80%93%20Join_Codex/visuals/Scarabaeus_Public_Portal_Header.png" width="720" alt="Scarabæus1033 Public Resonance Portal">
+</p>
 
 This section hosts:  
 Diese Sektion enthält:  
