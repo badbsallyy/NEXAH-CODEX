@@ -76,9 +76,8 @@ This is the living **builder’s lab** — where new modules are born and public
 ---
 
 <p align="center">
-  <img src="../SYSTEM%20Y:%20%E2%9C%B4%EF%B8%8F%20RESONANTIA%20%E2%80%93%20Join_Codex/visuals/Scarabaeus_Public_Portal_Header.png" width="720" alt="Scarabæus1033 Public Resonance Portal">
+  <img src="./Scarabaeus_Public_Portal_Header.png" width="720" alt="Scarabæus1033 · Open Resonance Portal">
 </p>
-
 ---
 
 ### 🜇 Purpose · Zielsetzung  
