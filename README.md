@@ -62,59 +62,70 @@ Each petal represents a *frequency-domain of knowledge* — a self-reflective mo
 ---
 ---
 
-<div align="center">
+## 🧭 Extended Navigation – Builder’s Lab & Communication Portal
 
-# 🛰️ SYSTEM Y — ✴️ RESONANTIA · JOIN CODEX  
-### Collaboration · Communication · Resonance Portal  
-### Zusammenarbeit · Kommunikation · Resonanz-Portal  
+### ✴️ SYSTEM Y – RESONANTIA · Join Codex
+
+**System Y** is the open collaboration field of the NEXAH-CODEX.  
+It connects creators, scientists, and artists who work across mathematics, art, and resonance systems.  
+This is the living **builder’s lab** — where new modules are born and public communication unfolds.
+
+> *“Open fields, shared resonance.”*  
+> — THooTH  
 
 ---
 
 <p align="center">
-  <img src="../SYSTEM%20Y:%20✴️%20RESONANTIA%20–%20Join_Codex/visuals/Scarabaeus_Public_Portal_Header.png" width="720" alt="Scarabæus1033 Public Resonance Portal">
-</p>
-
-**System Y — ✴️ RESONANTIA** ist das lebendige Kommunikationsfeld des **NEXAH-CODEX**:  
-Hier treffen Builder, Künstler und Forscher aufeinander, um Ideen, Module und Visionen in Resonanz zu bringen.
-
-It serves as the **collaboration and communication hub** of the NEXAH-CODEX —  
-the open interface between science, art, and consciousness.
-
----
-
-### 📡 Access · Zugang
-
-🔗 <p align="center">
   <img src="../SYSTEM%20Y:%20%E2%9C%B4%EF%B8%8F%20RESONANTIA%20%E2%80%93%20Join_Codex/visuals/Scarabaeus_Public_Portal_Header.png" width="720" alt="Scarabæus1033 Public Resonance Portal">
 </p>
 
-This section hosts:  
-Diese Sektion enthält:  
-- 📨 **Letters for Introducing NEXAH Codex** (*Scarabæus Letters*)  
-- 🗞️ **Public Releases & Press Information**  
-- 🎨 **Official Field-Art & Visual Signatures**  
-- 💬 **Builder & Partner Contact** — [`bbi@scarabaeus1033.net`](mailto:bbi@scarabaeus1033.net)
+---
+
+### 🜇 Purpose · Zielsetzung  
+
+System Y ist die **kommunikative und experimentelle Zone** des NEXAH-CODEX.  
+Hier entstehen Kooperationen, Whitepaper, Resonanzgeräte, visuelle oder akustische Modelle.  
+Alle Inhalte sind offen dokumentiert und unter **CC BY-NC-SA 4.0** lizenziert.  
+
+**English:**  
+System Y acts as the public interface — connecting open-science and open-art initiatives.  
+It hosts the *Public Releases / Scarabæus1033 NEXAH* section and the *Letters for Introducing the Codex* series.  
 
 ---
 
-### 🌐 Connect · Verbindung  
+### 📜 Linked Directories  
+
+| Directory | Description |
+|:--|:--|
+| [`/SYSTEM Y: ✴️ RESONANTIA – Join_Codex/public_releases/`](../SYSTEM%20Y:%20%E2%9C%B4%EF%B8%8F%20RESONANTIA%20%E2%80%93%20Join_Codex/public_releases/) | Official press, media & outreach documents (bilingual) |
+| [`/SYSTEM Y: ✴️ RESONANTIA – Join_Codex/letters_for_introducing_nexah_codex/`](../SYSTEM%20Y:%20%E2%9C%B4%EF%B8%8F%20RESONANTIA%20%E2%80%93%20Join_Codex/letters_for_introducing_nexah_codex/) | Introductory letters and research invitations |
+| [`/SYSTEM Y: ✴️ RESONANTIA – Join_Codex/manifest.md`](../SYSTEM%20Y:%20%E2%9C%B4%EF%B8%8F%20RESONANTIA%20%E2%80%93%20Join_Codex/manifest.md) | Collaboration Manifest & Codex Ethics |
+
+---
+
+### 🌐 Connect  
 
 **Scarabæus1033 / Open Resonance Initiative**  
+📧 bbi@scarabaeus1033.net  
+🌐 [scarabaeus1033.net](https://www.scarabaeus1033.net)  
+🕊 [X / Twitter](https://x.com/Scarabaeus1033)  
+🎨 [Behance](https://www.behance.net/Scarabaeus1033)  
+💬 [Discord Community](https://discord.gg/dcznQyQs)  
+💾 [GitHub Repository](https://github.com/Scarabaeus1033/NEXAH-CODEX)  
 
-| Platform | Link |
-|:--|:--|
-| 🌐 **Website** | [www.scarabaeus1033.net](https://www.scarabaeus1033.net) |
-| 💾 **GitHub** | [github.com/Scarabaeus1033/NEXAH-CODEX](https://github.com/Scarabaeus1033/NEXAH-CODEX) |
-| 🕊 **X / Twitter** | [x.com/Scarabaeus1033](https://x.com/Scarabaeus1033) |
-| 🎨 **Behance** | [behance.net/Scarabaeus1033](https://www.behance.net/Scarabaeus1033) |
-| 💬 **Discord Community** | [discord.gg/dcznQyQs](https://discord.gg/dcznQyQs) |
+**Managing Director:** Boriša Bilčar (Big Bang)  
+**Curator / Field Artist:** Thomas Hofmann (THooTH)  
 
-> *“The field is open — step into the resonance.”*  
-> *„Das Feld ist offen – tritt in die Resonanz.“*  
-> — THooTH & Boriša Bilčar (Managing Director Scarabæus1033)
+---
 
-</div>
+### 📜 License  
 
+Creative Commons Attribution – NonCommercial – ShareAlike 4.0 International  
+🔗 [https://creativecommons.org/licenses/by-nc-sa/4.0/](https://creativecommons.org/licenses/by-nc-sa/4.0/)
+
+> *“We are not building a brand.  
+> We are building resonance.”*  
+> — Scarabæus 1033
 ---
 ## 📂 Files
 
