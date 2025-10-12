@@ -5,6 +5,8 @@
 > „Wir rekrutieren nicht. Wir schwingen.“  
 > — THooTH (Thomas Hofmann)
 
+![The First Five](./visuals/Scarabaeus_the_first_five.png)
+
 ---
 
 ## 🎯 Goal · Ziel
