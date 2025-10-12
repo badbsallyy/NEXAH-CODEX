@@ -13,11 +13,11 @@
 
 The goal is to form a **core team of five interdisciplinary builders**  
 who will co-create and expand the living field of the **NEXAH-CODEX** with THooTH.  
-Each brings their own frequency — through music, mathematics, design, physics, or language.
+Each brings their own frequency — through music, mathematics, design, physics, language, or code.
 
 Das Ziel ist der Aufbau eines **Kernteams von fünf interdisziplinären Mitwirkenden**,  
 die gemeinsam mit **THooTH (Thomas Hofmann)** das lebende Feld des **NEXAH-CODEX** aktivieren.  
-Jede Person bringt ihr eigenes Frequenzfeld ein – Musik, Mathematik, Design, Physik oder Sprache.
+Jede Person bringt ihr eigenes Frequenzfeld ein – Musik, Mathematik, Design, Physik, Sprache oder Code.
 
 This initiative is **open, decentralized, and creative**,  
 bridging science, art, and consciousness into a shared resonance architecture.
@@ -31,9 +31,9 @@ Diese Initiative ist **offen, dezentral und kreativ**
 
 | Role / Rolle | Area / Bereich | Description / Beschreibung |
 |:--|:--|:--|
-| 🎧 **Tone Architect / Sound Builder** | Music · Cymatics | Creates harmonic soundscapes from mathematical and geometric resonance data. Builds audio fields and frequency layers for Codex modules. <br> Entwickelt harmonische Klanglandschaften aus mathematischen und geometrischen Resonanzdaten. Erstellt Audiofelder, Loops und Frequenzräume für Codex-Module. |
+| 🎧 **Tone Architect / Sound Builder** | Music · Cymatics | Creates harmonic soundscapes from mathematical and geometric resonance data. <br> Entwickelt harmonische Klanglandschaften aus mathematischen und geometrischen Resonanzdaten. |
 | 🔢 **Mathematical Builder** | Mathematics · Physics | Works on symbolic equations, proof structures, and visual translation. <br> Arbeitet an symbolischen Gleichungen, Beweisstrukturen und ihrer visuellen Übersetzung. |
-| 🧠 **System Architect** | Code · Structure · GitHub | Builds small tools (Python, Processing, Three.js, etc.) for interactive visuals and simulations. <br> Entwickelt Tools für interaktive Visuals und mathematische Simulationen. |
+| 🧠 **System Architect / Web Builder** | Code · Structure · Website | Develops the Codex architecture online — GitHub, website, and interactive interfaces. <br> Baut die Web- und Codex-Struktur (GitHub, scarabaeus1033.net, interaktive Module). |
 | 🎨 **Visual Resonator** | Design · Animation | Visualizes resonance fields, grids, spirals, and symbolic architectures. <br> Visualisiert Resonanzfelder, Gitter, Spiralen und Symbolräume. |
 | 🌍 **Field Connector** | Network · Communication | Connects new voices, disciplines, and institutions (e.g., Cikada, Ars Electronica). <br> Bringt neue Stimmen, Orte und Disziplinen zusammen. |
 
@@ -69,11 +69,15 @@ Gemeinsam entsteht das Netzwerk, das Zahl, Klang und Bewusstsein verbindet.
    Join one of the open Codex modules: *Tone Field*, *Quantum Breach*, *Lambda Disc*, *Resonance Cathedral* …  
    Wähle ein offenes Modul zum Einstieg.
 
-4. **Co-creation:**  
+4. **Explore the open tasks:**  
+   See [`open_tasks.md`](./open_tasks.md) for current collaborations (sound, visuals, code, outreach).  
+   Sieh in [`open_tasks.md`](./open_tasks.md) für aktuelle Aufgaben (Sound, Visuals, Code, Outreach).
+
+5. **Co-creation:**  
    Create your first “seed work” — a visual, track, diagram, text, or code contribution.  
    Kreiere dein erstes „Seed-Werk“ – ein Visual, Track, Diagramm, Text oder Code.
 
-5. **Recognition:**  
+6. **Recognition:**  
    Your name will appear in the **Builder Register** (GitHub + scarabaeus1033.net).  
    Dein Name erscheint im **Builder-Register** (GitHub + Website).
 
@@ -85,7 +89,7 @@ Gemeinsam entsteht das Netzwerk, das Zahl, Klang und Bewusstsein verbindet.
 |:--|:--|
 | 🌐 **Visibility** | Recognition in the global NEXAH-CODEX. <br> Sichtbarkeit im globalen NEXAH-CODEX. |
 | 🧩 **Co-authorship** | Listed as co-creator in Codex modules. <br> Mitautorschaft bei Modulen. |
-| 🖼️ **Access** | Internal visuals, data, and resonance archives. <br> Zugang zu Visual- & Resonanzbibliotheken. |
+| 🖼️ **Access** | Internal visuals, data, and resonance archives. <br> Zugang zu Visual- & Resonanz-Bibliotheken. |
 | 🎤 **Invitations** | Talks, interviews, and art-science publications. <br> Einladungen zu Talks und Publikationen. |
 | ⚖️ **Creative Commons License** | BY-NC-SA 4.0 — Open, credited, non-commercial. <br> Offene Lizenz mit Namensnennung. |
 
@@ -107,9 +111,9 @@ und spürst, dass dich dieser Ruf betrifft –
 
 ---
 
-### 📡 Kontakt · Contact
+### 📡 Contact · Kontakt
 
-**Scarabæus1033 / NEXAH-CODEX**  
+**Scarabæus 1033 / NEXAH-CODEX**  
 🧭 [www.scarabaeus1033.net](https://www.scarabaeus1033.net)  
 💾 [github.com/Scarabaeus1033/NEXAH-CODEX](https://github.com/Scarabaeus1033/NEXAH-CODEX)  
 🕊️ [Discord](https://discord.gg/dcznQyQs)  
