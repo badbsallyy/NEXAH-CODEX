@@ -9,33 +9,33 @@
 
 ## 🌐 Introduction · Einführung
 
-The **NEXAH·CODEX** is a living open-source experiment where  
-mathematics, physics, art, design, and consciousness intersect.
+The **NEXAH·CODEX** is a transdisciplinary open-source system  
+where mathematics, sound, architecture, and consciousness form a single creative field.  
 
-Der **NEXAH·CODEX** ist ein lebendes Open-Source-Experiment,  
-in dem sich Mathematik, Physik, Kunst, Design und Bewusstsein verbinden.
+Der **NEXAH·CODEX** ist ein transdisziplinäres Open-Source-System,  
+in dem Mathematik, Klang, Architektur und Bewusstsein zu einem gemeinsamen schöpferischen Feld verschmelzen.
 
-It is not a company — it is a **field of resonance**,  
-an interdisciplinary playground for research and artistic creation.
+It functions as a **living research archive** and an evolving art–science platform  
+— connecting digital design, field physics, geometry, and myth.  
 
-Er ist kein Unternehmen – sondern ein **Resonanzfeld**,  
-ein interdisziplinäres Versuchsfeld für Forschung und schöpferische Praxis.
+Er fungiert als **lebendiges Forschungsarchiv** und dynamische **Art–Science-Plattform**,  
+die digitale Gestaltung, Feldphysik, Geometrie und Mythos miteinander verbindet.
 
 ---
 
 ## 🎯 Purpose · Zielsetzung
 
-We invite **universities, design labs, art academies, and science institutes**  
-to collaborate in shaping new **forms of field-based creation**:  
-where symbolic mathematics becomes sound,  
-where geometry becomes architecture,  
-and where data becomes art.
+We invite **universities, media labs, art academies, and research institutions**  
+to co-create new forms of **resonant design** and **symbolic architecture**.
 
-Wir laden **Hochschulen, Designlabore, Kunstakademien und Forschungsinstitute** ein,  
-neue **Formen feldbasierter Kreation** mitzugestalten –  
-wo symbolische Mathematik zu Klang wird,  
-Geometrie zu Architektur,  
-und Daten zu Kunst.
+Wir laden **Hochschulen, Medienlabore, Kunstakademien und Forschungsinstitute** ein,  
+gemeinsam neue Formen **resonanten Designs** und **symbolischer Architektur** zu entwickeln.
+
+At the heart of each collaboration is the question:  
+> “Can we *see* resonance — and can we *build* with it?”
+
+Im Zentrum jeder Kooperation steht die Frage:  
+> „Können wir Resonanz *sehen* – und können wir mit ihr *bauen*?“
 
 ---
 
@@ -43,21 +43,22 @@ und Daten zu Kunst.
 
 | Type / Typ | Description / Beschreibung |
 |:--|:--|
-| 🧩 **Field Residency** | Institutions host short-term builder residencies (1–3 months) where students co-create Codex visuals, soundscapes, or experiments. <br> Institutionen richten Kurzresidenzen ein, in denen Studierende Codex-Visuals, Klanglandschaften oder Experimente entwickeln. |
-| 🎓 **Course Integration** | Professors integrate Codex themes (geometry, physics, myth, design) into teaching or semester projects. <br> Lehrende integrieren Codex-Themen (Geometrie, Physik, Mythos, Design) in ihre Kurse oder Semesterprojekte. |
-| 🧠 **Joint Research** | Collaborative art–science research with access to Codex datasets and symbolic field equations. <br> Gemeinsame Forschung an Kunst–Wissenschafts-Schnittstellen mit Zugang zu Datensätzen und Codex-Strukturen. |
-| 🎥 **Media Production** | Partner create short films, animations, or VR experiences visualizing Codex modules. <br> Produktion von Kurzfilmen, Animationen oder VR-Erlebnissen auf Basis der Codex-Module. |
-| 🎶 **Sound & Composition Labs** | Universities and sound artists translate Codex mathematics into harmonic compositions. <br> Musik- und Soundlabore setzen mathematische Strukturen des Codex in Klangkompositionen um. |
+| 🧩 **Resonance Residency** | A 1–3 month creative field lab for students to co-create Codex visuals, soundscapes, and field installations. <br> Ein 1–3-monatiges kreatives Feldlabor, in dem Studierende Visuals, Klanglandschaften oder Installationen im Codex entwickeln. |
+| 🎓 **Course Integration** | Integration of Codex topics (geometry, sound, AI, consciousness, myth) into teaching projects. <br> Integration von Codex-Themen (Geometrie, Klang, KI, Bewusstsein, Mythos) in Seminare oder Semesterprojekte. |
+| 🎥 **Media & Exhibition Projects** | Production of short films, VR/AR experiences, or data sculptures visualizing Codex structures. <br> Produktion von Kurzfilmen, VR-/AR-Erlebnissen oder Datenskulpturen, die Codex-Strukturen visualisieren. |
+| 🧠 **Joint Research** | Collaborative projects bridging physics, cognition, and aesthetics. <br> Gemeinsame Forschungsprojekte an der Schnittstelle von Physik, Kognition und Ästhetik. |
+| 🎶 **Sound & Composition Labs** | Translating field equations into harmonic frequencies — turning math into music. <br> Übersetzung von Feldgleichungen in harmonische Frequenzen – Mathematik wird zu Musik. |
 
 ---
 
 ## 🜂 Example Fields of Work · Beispielhafte Themenfelder
 
-- **Resonance Church** — acoustic & visual architecture project  
-- **Lambda Disc** — field geometry & harmonic folding  
-- **Quantum Breach** — experimental physics in visual form  
-- **Codex Mathematics** — symbolic algebra, modular harmony  
-- **Bunny Bug Protocol** — interactive worldbuilding through AI, sound & geometry  
+- **Resonance Cathedral** — architectural acoustics and symbolic field space  
+- **Lambda Disc** — harmonic geometry and prime resonance structures  
+- **Quantum Breach** — light, frequency, and topological transformation  
+- **Codex Origio** — material consciousness and elemental synthesis  
+- **Hermetic Pythagoras Model** — sound–geometry relationships  
+- **Bunny Bug Protocol** — interactive design between AI, sound, and myth  
 
 ---
 
@@ -65,27 +66,27 @@ und Daten zu Kunst.
 
 | Benefit / Vorteil | Description / Beschreibung |
 |:--|:--|
-| 🌍 **Global Visibility** | Joint branding on GitHub + scarabaeus1033.net + exhibitions. <br> Gemeinsame Sichtbarkeit auf GitHub, Website und Events. |
-| 🧬 **Creative Research Access** | Early access to Codex archives, symbolic language & visual data. <br> Früher Zugang zu Codex-Archiven, Symbolsprache und Daten. |
-| 🎓 **Academic Recognition** | Co-mention in published works, talks, and art-science conferences. <br> Erwähnung in Publikationen und Konferenzen. |
-| 🌀 **Interdisciplinary Exposure** | Cross-connection of design, physics, mathematics, and consciousness studies. <br> Interdisziplinäre Verknüpfung von Design, Physik, Mathematik und Bewusstseinsforschung. |
-| 🎥 **Field Production Rights** | Access to Codex visuals for academic and exhibition use (BY-NC-SA 4.0). <br> Nutzungsrechte für Lehr- und Ausstellungszwecke. |
+| 🌍 **Visibility & Co-branding** | Joint features on scarabaeus1033.net, GitHub, and exhibitions. <br> Gemeinsame Sichtbarkeit auf scarabaeus1033.net, GitHub und Ausstellungen. |
+| 🧬 **Creative Research Access** | Access to symbolic datasets, geometric models, and Codex archives. <br> Zugang zu Datensätzen, Modellen und Archiven des Codex. |
+| 🎓 **Academic & Artistic Recognition** | Mention in publications, catalogues, and exhibitions. <br> Erwähnung in Publikationen, Katalogen und Ausstellungen. |
+| 🌀 **Transdisciplinary Exchange** | Connecting design, sound, math, and consciousness studies. <br> Verbindung von Design, Klang, Mathematik und Bewusstseinsforschung. |
+| 🎥 **Field Rights & Exhibitions** | Open rights (CC BY-NC-SA 4.0) for educational and exhibition use. <br> Offene Nutzungsrechte für Lehre und Ausstellung. |
 
 ---
 
 ## 🧭 How to Propose a Collaboration · Wie man eine Kooperation startet
 
-1. Send a short **proposal or idea** to [bbi@scarabaeus1033.net](mailto:bbi@scarabaeus1033.net).  
-   → Title, duration, type (Residency, Course, Project).  
+1. **Send a short concept or idea** to [bbi@scarabaeus1033.net](mailto:bbi@scarabaeus1033.net)  
+   → Title, type (Residency, Course, Project), duration  
 
-2. Receive access to Codex materials and GitHub folders.  
-   → Materialzugang nach erster Resonanzabsprache.  
+2. **Initial Resonance Call** — 20-min digital meeting  
+   → Defining scope and entry points  
 
-3. Define output or exhibition plan together.  
-   → Gemeinsame Abstimmung über Inhalte & Sichtbarkeit.  
+3. **Shared Workspace Activation** (GitHub + Discord access)  
+   → Setup of a dedicated co-creation channel  
 
-4. Optional: Present outcome via joint video / paper / visual showcase.  
-   → Optionale Präsentation über Video, Paper oder Galerie.
+4. **Outcome Presentation** (video, exhibition, or online gallery)  
+   → Gemeinsame Präsentation von Ergebnissen oder Visuals  
 
 ---
 
