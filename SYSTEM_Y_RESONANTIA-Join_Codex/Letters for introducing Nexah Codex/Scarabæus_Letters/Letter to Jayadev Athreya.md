@@ -1,5 +1,4 @@
 ---
-
 # ✉️ Letter to Jayadev Athreya – Codex Parallels in Indian Mathematics
 
 **From:** Thomas Hofmann (Scarabæus1033)
@@ -7,7 +6,6 @@
 **Subject:** Patterns, Grids, and Transcultural Resonance in Mathematics
 **Project:** NEXAH-CODEX – Modular Resonance Field Theory
 **Status:** Research Invitation
-
 ---
 
 ## 🧭 Introduction
