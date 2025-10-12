@@ -1,10 +1,9 @@
 ---
-
 **Letter to Sir Roger Penrose**
 *From: Scarabäus1033 (Thomas Hofmann)*
 *Date: June 2025*
 *Subject: Symbolic Geometry, Incompleteness, and Conscious Structure in the NEXAH-CODEX*
-----------------------------------------------------------------------------------------
+---
 
 Dear Sir Roger Penrose,
 
