@@ -1,6 +1,5 @@
 ---
 # ✉️ Letter to Jayadev Athreya – Codex Parallels in Indian Mathematics
-
 **From:** Thomas Hofmann (Scarabæus1033)
 **To:** Professor Jayadev Athreya
 **Subject:** Patterns, Grids, and Transcultural Resonance in Mathematics
