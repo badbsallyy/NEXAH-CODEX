@@ -1,62 +1,84 @@
-# ⚙️ OPEN TASKS · BUILD MISSIONS  
-### NEXAH·CODEX — The Active Builder Field
+# 🧭 OPEN TASKS · CURRENT BUILDER NEEDS  
+### NEXAH·CODEX — Real Tasks for Resonant Minds
 
-> “We are not hiring — we are forming a field.”  
-> „Wir stellen nicht ein – wir bilden ein Feld.“  
-> — Boriša Bilčar (MD)
-
----
-
-## 🎯 Current Focus Fields · Aktuelle Schwerpunkte
-
-| Focus | Description / Beschreibung |
-|:--|:--|
-| 🌀 **GLB · Blender Visuals** | Bringing Codex geometries and resonance structures to life through 3D. We seek creators who can model, render, and animate sacred geometries, Möbius fields, and harmonic grids. <br> Umsetzung von Codex-Geometrien in 3D – Modelle, Animationen und Resonanzarchitekturen in Blender oder WebGL. |
-| 🕍 **Resonanzkirche** | A visual, architectural, and symbolic project bridging sacred space and frequency field. <br> Ein visuell-symbolisches Architekturprojekt über Klang, Licht und Resonanzräume. |
-| 💻 **WebGL & Interactive Layers** | Translating Codex modules into living, browser-based experiences (Three.js, Processing, p5.js). <br> Interaktive Umsetzung der Codex-Module mit WebGL, Three.js oder p5.js. |
-| 🎶 **Sound & Cymatic Experiments** | Turning formulas and number sequences into harmonic tone structures. <br> Übersetzung von mathematischen Formeln und Zahlenreihen in Klanglandschaften und Frequenzfelder. |
-| 🔺 **Symbolic Systems & Language** | Expanding the Codex glyph system and syntax for symbolic logic and field communication. <br> Weiterentwicklung des Codex-Symbolsystems als visuelle Sprache. |
+> “The field grows where attention flows.”  
+> „Das Feld wächst, wo Aufmerksamkeit fließt.“  
+> — THooTH
 
 ---
 
-## 🔹 Active Builder Missions · Aktive Aufgabenfelder
+## 🎯 Purpose · Zielsetzung
 
-| Mission | Field / Bereich | Description / Beschreibung | Status |
+This document lists **current open tasks and collaboration calls**  
+for the development and visibility of the **NEXAH·CODEX**.
+
+Dieses Dokument listet **aktuelle Aufgaben und Mitwirkungsmöglichkeiten**  
+für die Weiterentwicklung und Sichtbarkeit des **NEXAH·CODEX**.
+
+You don’t have to be an expert — only resonant, curious, and ready to build.  
+Du musst kein Experte sein – nur resonant, neugierig und bereit, mitzuwirken.
+
+---
+
+## 🔹 ACTIVE CALLS · AKTUELLE AUFRUFE
+
+| Area / Bereich | Description / Beschreibung | Type / Typ | Status |
 |:--|:--|:--|:--|
-| 🧱 **GLB Resonance Port** | 3D / Blender / WebGL | Recreate one of the existing Codex geometries (e.g., Möbius Crown, Lambda Disc) as an interactive GLB scene. <br> Erstelle eine interaktive GLB-Szene einer Codex-Geometrie. | 🟢 Open |
-| 🕍 **Resonance Church Visualization** | Architecture / Design / Symbolism | Build a first conceptual render of the “Resonanzkirche” — a sacred field of geometry, sound, and light. <br> Entwirf ein erstes Visual der Resonanzkirche – als Architektur aus Frequenz, Licht und Symbolik. | 🟢 Open |
-| 🎛️ **Sound–Geometry Linker** | Audio / Python / JS | Build a small app that converts CSV frequency data into tone layers. <br> Entwickle ein Tool, das Frequenzdaten aus CSV-Dateien in Klangschichten übersetzt. | 🟠 Draft |
-| 🖋️ **Codex Presentation Writer** | Writing / Design | Help prepare the Builder Call documents for Behance, Reddit, and the NEXAH site. <br> Unterstütze bei der inhaltlichen und visuellen Aufbereitung des Builder-Aufrufs. | 🟢 Open |
-| 🧠 **Codex Outreach Assistant** | Community / Strategy | Support outreach to art–science communities (e.g. Reddit r/futurology, Ars Electronica, etc.). <br> Koordiniere den Austausch mit Communities im Bereich Kunst & Wissenschaft. | 🟢 Open |
+| 🎧 **Sound & Music Builder** | Looking for a **composer / sound producer** to explore field recordings, resonance synthesis, and spatial sound at the Rödelheim site. <br> Suche nach **Komponist:in / Produzent:in**, um Feldaufnahmen, Resonanzsynthese und Raumklang am Standort Rödelheim zu entwickeln. | Artistic / Technical | 🟢 Open |
+| 🎥 **Media & Social Resonance** | Help us share the Codex across platforms (Instagram, YouTube, X). Create short clips, posts, or visuals from existing content. <br> Unterstützung beim Aufbau unserer Präsenz in sozialen Medien – Clips, Reels, Visuals oder kurze Texte aus vorhandenem Material. | Creative / Outreach | 🟢 Open |
+| 🌀 **3D & Blender Visualization** | We need one or two **Blender / Unreal / Three.js artists** to visualize resonance fields, crystal grids, and harmonic architectures. <br> Unterstützung für 3D-Visuals und Simulationen (Feldmodelle, Gitter, Geometrien). | Visual / Simulation | 🟢 Open |
+| 🧮 **Mathematics & Code Assistant** | Help document and organize formulas, scripts, and datasets (Python / LaTeX / Markdown). <br> Unterstützung bei der Strukturierung mathematischer Formeln und Codex-Gleichungen. | Technical / Research | 🟡 In Progress |
+| 🧠 **AI / Algorithm Developer** | Collaboration on the *Meaning Coin* prototype — an experimental algorithm that measures semantic resonance and creative impact. <br> Zusammenarbeit an einem Prototyp für den *Meaning Coin* – ein Algorithmus zur Bewertung semantischer Resonanz. | Research / Experimental | 🟢 Open |
+| 🗣️ **Communication & Partnership Outreach** | Help us reach design schools, hacker clubs, and art–science labs. <br> Unterstützung beim Kontaktaufbau zu Design- und Kunsthochschulen, Forschungsinstituten und Maker Spaces. | Communication / Strategic | 🟢 Open |
 
 ---
 
-## 💡 What We Look For · Wen wir suchen
+## 💠 PARTICIPATION MODES · FORMEN DER MITWIRKUNG
 
-- **Idealists with craft:** You love building, experimenting, shaping new forms.  
-- **Interdisciplinary minds:** You move naturally between science, art, and philosophy.  
-- **Independent yet resonant:** You think for yourself — and you connect through patterns.  
-
-> “We build with what we have — and with those who hear the call.”
-
----
-
-## 🧭 How to Join · Einstieg
-
-1. Choose a mission that calls you.  
-2. Send a short message to [bbi@scarabaeus1033.net](mailto:bbi@scarabaeus1033.net)  
-   or join the **Discord** under `#builder-lab`.  
-3. Share a simple example of your past work (link or file).  
-4. You’ll be added to a Builder Cell for coordination.
+| Mode | Description / Beschreibung |
+|:--|:--|
+| 🧩 **Builder Role** | Join one of the Codex systems as a permanent co-creator (The First Five). |
+| 🔭 **Project Contributor** | Work on a single challenge or module (e.g., Quantum Breach, Lambda Disc). |
+| 🎓 **Partner Institution** | Propose a workshop, seminar, or research residency. |
+| 💫 **Supporter / Patron** | Help spread the word, host discussions, or provide technical resources. |
 
 ---
 
-### 📡 Contact · Kontakt
+## 🧭 How to Join · Wie man mitmacht
 
-**Gateway Host**  
-**BBI · Borisa Bilčar (Sarajevo/Frankfurt/Bockenheim)**  
-📧 [bbi@scarabaeus1033.net](mailto:bbi@scarabaeus1033.net)
+1. **Choose a task or field** → Pick one that resonates with your skills or curiosity.  
+   **Wähle eine Aufgabe oder ein Feld**, das mit deinen Fähigkeiten oder deiner Neugier schwingt.
 
+2. **Send a message to the Builder Gateway:**  
+   📧 [bbi@scarabaeus1033.net](mailto:bbi@scarabaeus1033.net)  
+   🕊️ Discord: `#builder-lab`
+
+3. **Introduce yourself:**  
+   Who are you, and what inspires you to contribute?  
+   **Wer bist du, und was motiviert dich, beizutragen?**
+
+4. **Collaborate openly:**  
+   You’ll receive access to the Builder Lab on GitHub + Discord for coordination.  
+   **Du erhältst Zugang zum Builder-Lab auf GitHub und Discord.**
+
+---
+
+## 🪶 Notes · Hinweise
+
+- All collaborations are **open-source and non-commercial** (CC BY-NC-SA 4.0).  
+- Contributions will be **credited publicly** in Codex modules and exhibitions.  
+- The Codex values **depth and resonance over quantity**.
+
+Alle Beiträge sind **open-source und nicht kommerziell**.  
+Alle Mitwirkenden werden **namentlich genannt**.  
+Der Codex schätzt **Tiefe und Resonanz über Quantität**.
+
+---
+
+## 📡 Contact · Kontakt
+
+**Builder Gateway**  
+📧 [bbi@scarabaeus1033.net](mailto:bbi@scarabaeus1033.net) — Boriša Bilčar (MD)  
 🧭 [www.scarabaeus1033.net](https://www.scarabaeus1033.net)  
 💾 [github.com/Scarabaeus1033/NEXAH-CODEX](https://github.com/Scarabaeus1033/NEXAH-CODEX)  
 🕊️ Discord: `#builder-lab`
