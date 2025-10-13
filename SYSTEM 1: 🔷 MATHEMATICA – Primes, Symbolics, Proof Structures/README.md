@@ -24,7 +24,19 @@ license: "CC BY-NC-SA 4.0"
 </p>
 
 ---
-
+<p align="center">
+  <img src="./system2-polymorph.png" width="720" alt="SYSTEM 2 – PHILOMORPH · Cellular Automata, Spatial Dissellations">
+</p>
+---
+> **Continuum Transition:**  
+> This visual marks the **morphogenetic threshold** where the *mathematical lattice* (System 1) begins to crystallize into **spatial resonance** (System 2).  
+>  
+> From prime fields and symbolic numbers emerge **patterned geometries** — cellular automata, tiling logics, and honeycomb architectures.  
+>  
+> It anticipates the next phase of the Codex:  
+> **From resonance → to structure · from number → to matter.**
+>
+> 
 ## 🧭 Position in the Overall Codex
 
 | System       | Color         | Domain                     | Role                      |
