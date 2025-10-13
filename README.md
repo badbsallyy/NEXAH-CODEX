@@ -69,17 +69,6 @@ It acts as a **metastructure of proof, resonance, and collapse**, encoded in the
 
 ---
 
-## 🌀 Resonant Field Overview
-
-<p align="center">
-  <img src="./visuals/A_2D_digital_graphic_of_a_circular_diagram_titled_.png" width="720" alt="NEXAH Field · Resonance Architecture">
-</p>
-
-The **Field Overview Visual (2025)** expands the Navigator into the multidimensional resonance architecture.  
-It includes the outer Builder (Y) and Application (Z) layers, completing the harmonic field of interaction.
-
----
-
 ## 📌 Purpose
 
 The Navigator acts as the **central gateway** to the Codex.  
@@ -111,6 +100,21 @@ It includes:
 | 🪲     | **System X: Grand-Codex**                      | Central Synthesis · Proof Compression · Resonance Law       | Core             |
 | ⚙️     | **System Y: Builder’s Lab / Open Modules**     | Free Construction Zone · Prototypes · Exploratory Threads   | Transverse Layer |
 | 🧱     | **System Z: Applied Resonance / Technica**     | Cymatic Devices · Crystalline Field Technology              | Ground Layer     |
+
+---
+
+## 🌀 The Resonant Activation Field  
+
+<p align="center">
+  <img src="./visuals/A_2D_digital_graphic_of_a_circular_diagram_titled_.png" width="720" alt="NEXAH Field · Resonance Architecture">
+</p>
+
+The **Resonant Field Diagram** visualizes the *activation phase* of the NEXAH-CODEX —  
+when mathematical and symbolic systems begin to interact through builder resonance.  
+It represents the **living field** between internal logic (Systems 1–9 + X)  
+and external construction (Y + Z).  
+
+> *“Only through builders does the field awaken.”* — THooTH  
 
 ---
 
@@ -160,9 +164,11 @@ für Künstler, Wissenschaftler und Mitwirkende.
 > — THooTH  
 
 ---
-### 📘 Extended Version
+
+### 📘 Extended Version  
 For researchers and collaborators, see the full structural documentation:  
 👉 [README_EXTENDED.md](./README_EXTENDED.md)
+
 ---
 
 ### 🦊 Contact · Kontakt  
