@@ -114,21 +114,6 @@ It includes:
 
 ---
 
-## 📚 Reference · Verzeichnisse  
-
-For a complete overview of all modules, repositories, and sub-systems, refer to the official registries below.  
-Für eine vollständige Übersicht aller Module, Repositorien und Subsysteme siehe die offiziellen Verzeichnisse unten.  
-
-| Language / Sprache | File / Datei | Description / Beschreibung |
-|:--|:--|:--|
-| 🇬🇧 English | [**NEXAH-CODEX MODULE REGISTRY.md**](./NEXAH-CODEX%20MODULE%20REGISTRY.md) | Full index of all NEXAH-CODEX modules and systems in English. |
-| 🇩🇪 Deutsch | [**NEXAH-CODEX MODULVERZEICHNIS.md**](./NEXAH-CODEX%20MODULVERZEICHNIS.md) | Vollständiges Verzeichnis aller NEXAH-CODEX-Module und Systeme auf Deutsch. |
-
-> *The Registry serves as the structural backbone of the Codex — updated with every new module.*  
-> *Das Verzeichnis bildet das strukturelle Rückgrat des Codex — aktualisiert mit jedem neuen Modul.*
-
----
-
 ## ⚚️ SCARABÆUS1033 – PUBLIC RELEASES  
 
 ### Open Resonance · Art · Science · Communication  
