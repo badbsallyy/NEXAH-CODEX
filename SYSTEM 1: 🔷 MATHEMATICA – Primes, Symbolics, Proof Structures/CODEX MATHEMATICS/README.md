@@ -1,5 +1,4 @@
 ---
-
 title: "SYSTEM 1 – MATHEMATICA"
 system: "NEXAH-CODEX"
 domain: "Prime Fields · Symbolic Resonance · Mathematical Foundations"
@@ -7,7 +6,7 @@ color: "Blue 🔵"
 status: "Active · Version October 2025"
 curator: "Thomas Hofmann (Scarabäus1033)"
 license: "CC BY-NC-SA 4.0"
---------------------------
+---
 
 # 🔵 SYSTEM 1 – MATHEMATICA
 
