@@ -26,7 +26,13 @@ Dieses Register listet alle Hauptmodule des `NEXAH-CODEX` mit Ordnerpfad, Titel,
 | `GEOMETRIA_NOVA/04_Hermetic_Resonance/` | Hermetic Resonance · Das 15-Ton-Farbgesetz | Tesla-3-6-9-Farbarchitektur, hermetische Spektralordnung und Möbius-Rotation des 15-Ton-Systems. |
 | `GEOMETRIA_NOVA/05_Rainbow_Prism_Vault_Continuum/` | Rainbow Prism Vault Continuum · Geometrie des Lichtbewusstseins | Synthese aus Farbgesetz, Lichtarchitektur und Bewusstseinsgeometrie. Enthält *README*, *visual_gallery* und *scientific_appendix* als vollständiges Kontinuum-Modul (Hermetic → Prism → Vault). |
 ---
-
+> **Neues Visual (Oktober 2025):**  
+> Das Visual [`system2-polymorph.png`](./SYSTEM%201%3A%20🔷%20MATHEMATICA%20–%20Primes,%20Symbolics,%20Proof%20Structures/system2-polymorph.png)
+> markiert den Übergang von **System 1 → System 2**,  
+> wo sich mathematische Resonanz in **strukturelle Geometrie** verwandelt  
+> (*Prime → Wave → Drift → Spectrum → Rosetta*).
+>
+---
 ## ⚛ SYSTEM 2: PHYSICA – Resonanzfelder, Quantenstruktur & Symbolische Dynamik
 
 | Ordner / Datei                | Titel                              | Beschreibung                                                                                   |
