@@ -186,6 +186,13 @@ For researchers and collaborators, see the full structural documentation:
 
 ---
 
+> 🔬 **Related Documents**  
+> For full theoretical background, see the  
+> [✦ NEXAH MANIFEST ✦ (English)](./✦%20NEXAH%20MANIFEST%20✦%20english.md)  
+> or [✦ NEXAH-MANIFEST ✦ (Deutsch)](./✦%20NEXAH-MANIFEST%20✦%20deutsch.md)
+
+---
+
 ### 🦊 Contact · Kontakt  
 
 **Scarabæus1033 / Open Resonance Initiative**  
