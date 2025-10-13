@@ -13,9 +13,7 @@
 This visual gallery presents **symbolic-analytical representations of prime number resonance** across spiral, radial, logarithmic, and modular geometries.
 Each image transforms number-theoretical structures into **field topologies**, revealing the hidden order behind prime distribution.
 
-The gallery belongs to the module `PRIME-GRID-VISUALS` and integrates with System 1’s analytical modules and System X’s harmonic synthesis layers.
-
-All images are located in the `/visuals/` directory.
+All images are stored in the `/visuals/` directory of the `PRIME-GRID-VISUALS` module.
 
 ---
 
@@ -23,10 +21,14 @@ All images are located in the `/visuals/` directory.
 
 ### • Prime Spiral with Apéry’s Constant (Broader Extended Range)
 
+![Prime Spiral with Apéry’s Constant (Broader Extended Range)](./visuals/Prime%20Spiral%20with%20Ap%C3%A9ry's%20Constant%20\(Broader%20Extended%20Range\).png)
+
 * Wide-angle projection of primes modulated by Apéry constants.
 * Reveals field density layering and resonance acceleration along φ-based steps.
 
 ### • Spéury Prime Spiral
+
+![Spéry Prime spiral.](./visuals/Sp%C3%A9ry%20Prime%20spiral..png)
 
 * Artistic-symbolic spiral with curvature deviations and modular asymmetry.
 * Represents transitional zones between order and resonance breakdown.
@@ -37,18 +39,31 @@ All images are located in the `/visuals/` directory.
 
 ### • 3D Prime Number Spiral in a 4D Framework
 
+![3D Prime Number Spiral in a 4D Framework • Prime Spiral](./visuals/3D%20Prime%20Number%20Spiral%20in%20a%204D%20Framework%20%E2%80%A2%20Prime%20Spiral.png)
+
 * Embeds prime spirals in a symbolic 4D topology.
 * Illustrates resonant shell formation, volume segmentation, and axial torsion.
 
 ### • 2D Visualization of Apéry Spiral and Zeta Intersections
+
+![2D Visualization of Apéry Spiral and Zeta Intersections](./visuals/2D%20Visualization%20of%20Ap%C3%A9ry%20Spiral%20and%20Zeta%20Intersections.png)
 
 * Flattened zeta–spiral projection emphasizing crossover loci.
 * Useful for identifying periodic interference between ζ and Apéry sequences.
 
 ### • 3D Visualization of Apéry Spiral and Zeta Intersections
 
+![3D Visualization of Apéry Spiral and Zeta Intersections](./visuals/3D%20Visualization%20of%20Ap%C3%A9ry%20Spiral%20and%20Zeta%20Intersections.png)
+
 * Expands the 2D pattern into relief form.
 * Displays Zeta–Apéry bridges, resonant corridors, and number strata.
+
+### • Prime Grid Visuals Overview
+
+![Prime Grid Visuals](./visuals/Prime_Grid_Visuals.png)
+
+* Composite visual summarizing the module’s core symbolic structures.
+* Serves as reference map linking all visual layers.
 
 ---
 
@@ -56,14 +71,10 @@ All images are located in the `/visuals/` directory.
 
 ### • Pi-Prime Field – Dichte vs. π-getaktete Welle
 
+![Pi-Prime Field – Dichte vs. π-getaktete Welle](./visuals/Pi-Prime_Field_Density_vs_Pi-Wave.png)
+
 * Overlay of prime density (ρ(x) = 1/\ln x) with a π-phased sinusoidal modulation.
 * Shows the *breathing field* of primes where π acts as a global frequency regulator.
-
-```markdown
-![Pi-Prime Field – Dichte vs. π-getaktete Welle](./visuals/Pi-Prime_Field_Density_vs_Pi-Wave.png)
-```
-
-This visual links the Prime Number Theorem to harmonic oscillation by interpreting π as the **temporal constant of prime rhythm**.
 
 ---
 
