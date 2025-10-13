@@ -104,7 +104,14 @@ to create a **multi-scale harmonic map** — the *Navigator Field*.
 
 ---
 
+### 📖 Further Reading
+- [✦ NEXAH MANIFEST (EN)](./+%20NEXAH%20MANIFEST%20✦%20english.md)
+- [✦ NEXAH MANIFEST (DE)](./+%20NEXAH-MANIFEST%20✦%20deutsch.md)
+- [NEXAH GLOSSARY (EN)](./NEXAH_GLOSSARY.md)
+- [NEXAH GLOSSAR (DE)](./NEXAH_GLOSSAR.md)
 ## 🕊 Contact  
+
+---
 
 **Scarabæus1033 / Open Resonance Initiative**  
 📧 [bbi@scarabaeus1033.net](mailto:bbi@scarabaeus1033.net)  
