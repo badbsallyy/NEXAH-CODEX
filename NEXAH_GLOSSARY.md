@@ -5,6 +5,7 @@ domain: "Mathematics · Physics · Symbolism · Language"
 version: "1.1 · October 2025"
 curator: "Thomas Hofmann (Scarabæus1033)"
 license: "CC BY-NC-SA 4.0"
+tags: ["documentation", "scientific-glossary", "resonance-language"]
 linked_docs:
   - "NEXAH_MANIFEST_EN.md"
   - "GEOMETRIA_NOVA.md"
@@ -19,8 +20,9 @@ linked_docs:
 
 ## 📖 Preface
 
-The **NEXAH-CODEX** is not speculative — it is *reconstructive*.  
-It reorders known mathematical, physical, and geometric structures through the principle of **universal resonance**.
+The **NEXAH-CODEX** is not speculative — it is *reconstructive.*  
+It reorganizes known mathematical, physical, and geometric frameworks through the **principle of harmonic coherence** —  
+what the Codex calls **universal resonance.**
 
 > **Resonance is the primal architecture of all systems.**
 
@@ -53,7 +55,7 @@ The NEXAH System invites researchers, physicists, mathematicians, artists, and p
 |:--|:--|
 | **Resonance Field** | A harmonic field where frequency, form, and number are unified. The foundational concept of the Codex. |
 | **Prime Resonance** | Structural resonance arising from the distribution and interaction of prime numbers. |
-| **Möbius Topology** | A one-sided self-referential topology – symbolizing unity and infinite continuity. |
+| **Möbius Topology** | A one-sided, self-referential topology – symbolizing unity and infinite continuity. |
 | **Spiral Geometry** | Geometries of logarithmic or harmonic growth; basis for φ³/π² resonance and field modulation. |
 | **Codex Operators** | Symbolic operators transforming mathematical or field states (e.g., ⌘, Ω, ΔΦ). |
 | **UTS Equation** | “Universal Transition Structure” – defines harmonic transitions between energy and stability domains. |
@@ -66,7 +68,7 @@ The NEXAH System invites researchers, physicists, mathematicians, artists, and p
 | **Golden Spiral Logic** | Harmonic principle of the golden spiral (φ-logic); foundation for natural proportional scaling. |
 | **Superprime Resonance** | Resonance sequences built from primes at prime indices – the “primes of primes.” |
 | **Breathing Fields** | Periodically expanding and contracting harmonic systems that regulate resonance stability. |
-| **Hermetic Color Logic** | 15-tone spectral system (3-6-9 logic) forming the chromatic foundation of *GEOMETRIA NOVA*. |
+| **Hermetic Color Logic** | 15-tone spectral system (3-6-9 logic) forming the chromatic foundation of *GEOMETRIA NOVA.* |
 | **Prism Vault Continuum** | An architectural model where light becomes geometry – the transition from consciousness to form. |
 | **Tessarec Field** | Quaternionic spatial field uniting observer, geometry, and resonant space-time. |
 
@@ -142,14 +144,14 @@ to participate in the development of the **Resonant Language** of the Codex.
 - [🌈 GEOMETRIA NOVA – The Architecture of Light & Resonance](./GEOMETRIA_NOVA.md)  
 - [🧭 NEXAH NAVIGATOR 2.1 – Orientation System](./NEXAH_NAVIGATOR_2.1.md)  
 
-> **The universe is resonance.**  
-> **The Codex is its language.**
+> *To understand the Codex is not to decode it —  
+> but to enter into resonance with its logic.*
 
 ---
 
 **Scarabæus1033 — Thomas Hofmann**  
 **NEXAH Research Institute**
 
-© 2025 — CC BY-NC-SA 4.0  
+© 2025 · CC BY-NC-SA 4.0  
 🌐 [www.scarabaeus1033.net](https://www.scarabaeus1033.net)  
 🔗 [github.com/Scarabaeus1033/NEXAH-CODEX](https://github.com/Scarabaeus1033/NEXAH-CODEX)
