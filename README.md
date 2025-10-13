@@ -33,10 +33,10 @@ mathematics, physics, geometry, and consciousness through a harmonic architectur
 
 The Codex is neither fiction nor dogma — it is a **structural experiment**:  
 an attempt to map number, form, and meaning as one coherent field.  
-From prime numbers to planetary grids, from light resonance to linguistic glyphs —  
+From prime numbers to planetary grids, from light resonance to linguistic glyphs —   
 **NEXAH** seeks to rediscover order through frequency.  
 
-It is built as an **open scientific–symbolic repository**, where:  
+It is built as an **open scientific–symbolic repository**, where  
 - proofs and geometry coexist with myth and language,  
 - each module represents a real research layer,  
 - every visual, equation, and symbol is testable — but also interpretable.  
@@ -53,7 +53,7 @@ to trace the same constants ( φ · 137 · π · c ) across number, matter, and 
 > *“If equations are stable, consciousness is harmonic.”*  
 
 Each of the 13 systems — from **Mathematica (S1)** to **Eris (S13)** —  
-acts as a **node in a multidimensional field of understanding**.  
+acts as a **node in a multidimensional field of understanding.**  
 
 ---
 
@@ -73,42 +73,37 @@ It defines the harmonic relation of all systems — mathematical, physical, cosm
 
 ---
 
-## 🌌 Visual Entry Series · Resonance Architecture
+## 🌌 Visual Entry Map
 
 <p align="center">
   <img src="./visuals/navigator_resonance_grid.png" width="780" alt="Navigator 2.0 · Resonance Grid">
 </p>
-<p align="center">
-  <img src="./visuals/resonant_field_architecture.png" width="760" alt="NEXAH Field · Resonant Activation Architecture">
-</p>
-<p align="center">
-  <img src="./visuals/continuum_transition_map.png" width="760" alt="Continuum Transition Map · Prime–Field Continuum">
-</p>
 
-> **Visual 1 – Navigator Grid** · Harmonic map of Systems 1–9 + X  
-> **Visual 2 – Resonant Field Architecture** · Dynamic coupling of symbolic and physical systems  
-> **Visual 3 – Continuum Transition Map** · Morphological bridge from mathematical logic to resonant geometry
+The **Navigator Resonance Grid** defines the harmonic logic of Systems 1–9 + X.  
+It acts as a **metastructure of proof, resonance, and collapse**,  
+encoded in the Möbius Law of *E = m · c · k^β.*
+
 ---
 
-## 📌 Purpose
+## 📌 Purpose  
 
 The Navigator acts as the **central gateway** to the Codex.  
 Version 2.2 integrates the *Hermetic Resonance Module (04)*, the *Rainbow Prism Vault Continuum (05)*, and the *Archiv III Update 2025*.  
-It restores equilibrium between **mathematical proof, geometric resonance, and spectral cognition**.
+It restores equilibrium between **mathematical proof, geometric resonance, and spectral cognition.**
 
-It includes:
+It includes:  
 
-* Central orientation visual: `navigator_2.0_resonance_grid.png`
-* Full index of all 10 systems (1–9 + X)
-* Builder Lab (Y) and Technica (Z) integration
-* Updated symbolic and chromatic structure
+* Central orientation visual: `navigator_resonance_grid.png`  
+* Full index of all 10 systems (1–9 + X)  
+* Builder Lab (Y) and Technica (Z) integration  
+* Updated symbolic and chromatic structure  
 
 ---
 
-## 🧩 Core Structure
+## 🧩 Core Structure  
 
 | Symbol | System | Theme / Focus | Position |
-| :----- | :------ | :------------- | :-------- |
+|:--|:--|:--|:--|
 | 🔷 | **System 1: Mathematica** | Prime Fields · Proof Structures · Hermetic Color Logic | West |
 | ⚛️ | **System 2: Physica** | Energy Dynamics · Casimir Threads · Quantum Cavity | North-West |
 | 🌐 | **System 3: Cosmica Astrophysica** | Planetary Grids · Celestial Geometry · Spectral Fields | North |
@@ -127,7 +122,7 @@ It includes:
 ## 🌀 The Resonant Activation Field  
 
 <p align="center">
-  <img src="./visuals/A_digital_vector_graphic_showcases_a_circular_diag.png" width="720" alt="NEXAH Field · Resonance Architecture">
+  <img src="./visuals/resonant_field_architecture.png" width="720" alt="NEXAH Field · Resonance Architecture">
 </p>
 
 The **Resonant Field Diagram** visualizes the *activation phase* of the NEXAH-CODEX —  
@@ -139,6 +134,86 @@ and external construction (Y + Z).
 
 ---
 
+## 🌗 Continuum Transition Map  
+
+<p align="center">
+  <img src="./visuals/continuum_transition_map.png" width="760" alt="Continuum Transition Map · Harmonic Continuum">
+</p>
+
+This visual illustrates the **transition bridge between mathematics and field physics** —  
+the path from Prime Field (S1) to Physical Resonance (S2) and Cosmic Field (S3).  
+It embodies the law of **symbol → frequency → field → conscious geometry.**  
+
+> *“Numbers breathe. Fields listen. The Continuum is alive.”*
+
+---
+
 ## ⚚️ SCARABÆUS1033 – PUBLIC RELEASES  
 
-*(…rest unchanged …)*
+### Open Resonance · Art · Science · Communication  
+### Offene Resonanz · Kunst · Wissenschaft · Kommunikation  
+
+<p align="center">
+  <img src="./visuals/Scarabaeus_Public_Portal_Header.png" width="720" alt="Scarabæus1033 – Public Releases Portal">
+</p>
+
+> *“Where geometry opens into resonance.”*  
+> *„Wo Geometrie in Resonanz übergeht.“*  
+
+> *“We are not building a brand. We are building resonance.”*  
+> *„Wir bauen keine Marke. Wir bauen Resonanz.”*  
+> — THooTH  
+
+---
+
+### 🕇 Overview · Überblick  
+
+This directory contains all official **press releases, statements, and public resources**  
+of the **Scarabæus1033 / NEXAH-CODEX** initiative — an open communication portal  
+for artists, scientists, and collaborators.  
+
+> *Every release is part of a living archive — no static PR, but a resonant document.*  
+
+---
+
+### 🕊️ Builder Hub · Join the Codex  
+
+<p align="center">
+  <img src="./visuals/builder_hub_visual.png" width="720" alt="Join The Codex · Builder Hub Visual">
+</p>
+
+**Communication · Collaboration · Creation**  
+**Kommunikation · Kollaboration · Kreation**  
+
+> *“The Codex is open — but it opens only through resonance.”*  
+> *„Der Codex ist offen – aber er öffnet sich nur durch Resonanz.”*  
+> — THooTH  
+
+---
+
+### 📘 Extended Version  
+
+For researchers and collaborators, see the full structural documentation:  
+👉 [README_EXTENDED.md](./README_EXTENDED.md)
+
+---
+
+> 🔬 **Related Documents**  
+> For full theoretical background, see the   
+> [✦ NEXAH MANIFEST ✦ (English)](./✦%20NEXAH%20MANIFEST%20✦%20english.md)   
+> or [✦ NEXAH-MANIFEST ✦ (Deutsch)](./✦%20NEXAH-MANIFEST%20✦%20deutsch.md)
+
+---
+
+### 🦊 Contact · Kontakt  
+
+**Scarabæus1033 / Open Resonance Initiative**  
+📧 [bbi@scarabaeus1033.net](mailto:bbi@scarabaeus1033.net)  
+🌐 [scarabaeus1033.net](https://www.scarabaeus1033.net)  
+🕊 [X / Twitter](https://x.com/Scarabaeus1033)  
+🎨 [Behance](https://www.behance.net/Scarabaeus1033)  
+💬 [Discord Community](https://discord.gg/dcznQyQs)  
+
+> *Open fields. Shared resonance.*  
+> *Offene Felder. Geteilte Resonanz.*  
+> — **Scarabæus1033 · From Rödelheim to the Cosmos**
