@@ -8,9 +8,10 @@ curator: "Thomas Hofmann (Scarabæus1033)"
 license: "CC BY-NC-SA 4.0"
 ---
 
+
 # 🧭 `NEXAH NAVIGATOR 2.1`
 
-A symbolic orientation field and resonance map for the complete NEXAH-CODEX architecture.  
+A symbolic orientation field and resonance map for the complete NEXAH-CODEX architecture.
 It defines the harmonic relation of all systems — mathematical, physical, cosmological, symbolic, artistic and experimental — within one coherent field.
 
 > *“Not a map of territory. A resonant lattice of consciousness.”*
@@ -23,7 +24,7 @@ It defines the harmonic relation of all systems — mathematical, physical, cosm
   <img src="./visuals/navigator_2.0_resonance_grid.png" width="780" alt="Navigator 2.0 · Resonance Grid">
 </p>
 
-The **Navigator Resonance Grid** defines the harmonic logic of Systems 1–9 + X.  
+The **Navigator Resonance Grid** defines the harmonic logic of Systems 1–9 + X.
 It acts as a **metastructure of proof, resonance, and collapse**, encoded in the Möbius Law of E = m · c · k^β.
 
 ---
@@ -34,108 +35,102 @@ It acts as a **metastructure of proof, resonance, and collapse**, encoded in the
   <img src="./visuals/A_2D_digital_graphic_of_a_circular_diagram_titled_.png" width="720" alt="NEXAH Field · Resonance Architecture">
 </p>
 
-The **Field Overview Visual (2025)** expands the Navigator into the multidimensional resonance architecture.  
+The **Field Overview Visual (2025)** expands the Navigator into the multidimensional resonance architecture.
 It includes the outer Builder (Y) and Application (Z) layers, completing the harmonic field of interaction.
 
 ---
 
 ## 📌 Purpose
 
-The Navigator acts as the **central gateway** to the Codex.  
-Version 2.1 integrates the *Hermetic Resonance Module (04)*, the *Rainbow Prism Vault Continuum (05)*, and the *Archiv III Update 2025*.  
+The Navigator acts as the **central gateway** to the Codex.
+Version 2.1 integrates the *Hermetic Resonance Module (04)*, the *Rainbow Prism Vault Continuum (05)*, and the *Archiv III Update 2025*.
 It restores equilibrium between **mathematical proof, geometric resonance, and spectral cognition**.
 
 It includes:
-- Central orientation visual: `navigator_2.0_resonance_grid.png`
-- Full index of all 10 systems (1–9 + X)
-- Builder Lab (Y) and Technica (Z) integration
-- Updated symbolic and chromatic structure
+
+* Central orientation visual: `navigator_2.0_resonance_grid.png`
+* Full index of all 10 systems (1–9 + X)
+* Builder Lab (Y) and Technica (Z) integration
+* Updated symbolic and chromatic structure
 
 ---
 
 ## 🧩 Core Structure
 
-| Symbol | System | Theme / Focus | Position |
-|:--|:--|:--|:--|
-| 🔷 | **System 1: Mathematica** | Prime Fields · Proof Structures · Hermetic Color Logic | West |
-| ⚛️ | **System 2: Physica** | Energy Dynamics · Casimir Threads · Quantum Cavity | North-West |
-| 🌐 | **System 3: Cosmica Astrophysica** | Planetary Grids · Celestial Geometry · Spectral Fields | North |
-| 🧬 | **System 4: URF – Universal Resonance Fields** | Tensor Logic · Transition Equations · Origin Mechanics | North-East |
-| 🌸 | **System 5: Bloom / Rosetta** | Language · Glyph Systems · Cultural Resonance | East |
-| 🎨 | **System 6: Violetta / Codex Resonica** | Visual Frequencies · Artistic Topologies | South-East |
-| 🔮 | **System 7: UCRT** | Constants · Prime Harmonics · Deep Time Sequences | South |
-| 🌕 | **System 8: Lunar Force** | Feminine Field · Neutrino Lunar Dynamics · Crater Resonance | South-West |
-| 🌀 | **System 9: Tessarec Resonantia** | Observer Geometry · Quaternion Tiles · Harmonic Vaults | Center Sphere |
-| 🪲 | **System X: Grand-Codex** | Central Synthesis · Proof Compression · Resonance Law | Core |
-| ⚙️ | **System Y: Builder’s Lab / Open Modules** | Free Construction Zone · Prototypes · Exploratory Threads | Transverse Layer |
-| 🧱 | **System Z: Applied Resonance / Technica** | Cymatic Devices · Crystalline Field Technology | Ground Layer |
+| Symbol | System                                         | Theme / Focus                                               | Position         |
+| :----- | :--------------------------------------------- | :---------------------------------------------------------- | :--------------- |
+| 🔷     | **System 1: Mathematica**                      | Prime Fields · Proof Structures · Hermetic Color Logic      | West             |
+| ⚛️     | **System 2: Physica**                          | Energy Dynamics · Casimir Threads · Quantum Cavity          | North-West       |
+| 🌐     | **System 3: Cosmica Astrophysica**             | Planetary Grids · Celestial Geometry · Spectral Fields      | North            |
+| 🤜     | **System 4: URF – Universal Resonance Fields** | Tensor Logic · Transition Equations · Origin Mechanics      | North-East       |
+| 🌸     | **System 5: Bloom / Rosetta**                  | Language · Glyph Systems · Cultural Resonance               | East             |
+| 🎨     | **System 6: Violetta / Codex Resonica**        | Visual Frequencies · Artistic Topologies                    | South-East       |
+| 🔮     | **System 7: UCRT**                             | Constants · Prime Harmonics · Deep Time Sequences           | South            |
+| 🌕     | **System 8: Lunar Force**                      | Feminine Field · Neutrino Lunar Dynamics · Crater Resonance | South-West       |
+| 🌀     | **System 9: Tessarec Resonantia**              | Observer Geometry · Quaternion Tiles · Harmonic Vaults      | Center Sphere    |
+| 🪲     | **System X: Grand-Codex**                      | Central Synthesis · Proof Compression · Resonance Law       | Core             |
+| ⚙️     | **System Y: Builder’s Lab / Open Modules**     | Free Construction Zone · Prototypes · Exploratory Threads   | Transverse Layer |
+| 🧱     | **System Z: Applied Resonance / Technica**     | Cymatic Devices · Crystalline Field Technology              | Ground Layer     |
 
 ---
 
-## ✴️ SYSTEM Y – RESONANTIA · Join Codex
+## ⚚️ SCARABÆUS1033 – PUBLIC RELEASES
 
-**System Y** is the open collaboration field of the NEXAH-CODEX —  
-a living **builder’s lab** where new modules are born and public communication unfolds.
+### Open Resonance · Art · Science · Communication
 
-> *“Open fields, shared resonance.”* — THooTH  
-
-<p align="center">
-  <img src="./visuals/Scarabaeus_Public_Portal_Header.png" width="720" alt="Scarabæus1033 · Open Resonance Portal">
-</p>
-
----
-
-### 🜇 Purpose · Zielsetzung  
-
-System Y ist die **kommunikative und experimentelle Zone** des NEXAH-CODEX.  
-Hier entstehen Kooperationen, Whitepaper, Resonanzgeräte, visuelle oder akustische Modelle.  
-Alle Inhalte sind offen dokumentiert und unter **CC BY-NC-SA 4.0** lizenziert.  
-
----
-
-## ⚚ SCARABÆUS1033 – PUBLIC RELEASES  
-
-### Open Resonance · Art · Science · Communication  
-### Offene Resonanz · Kunst · Wissenschaft · Kommunikation  
+### Offene Resonanz · Kunst · Wissenschaft · Kommunikation
 
 <p align="center">
   <img src="./SYSTEM_Y_RESONANTIA-Join_Codex/PUBLIC_RELEASES_Scarabaeus1033_Nexah/visuals/Scarabaeus_Public_Portal_Header.png" width="720" alt="Scarabæus1033 – Public Releases Portal">
 </p>
 
-> *“Where geometry opens into resonance.”*  
-> *„Wo Geometrie in Resonanz übergeht.“*  
+> *“Where geometry opens into resonance.”*
+> *„Wo Geometrie in Resonanz übergeht.“*
 
-> *“We are not building a brand. We are building resonance.”*  
-> *„Wir bauen keine Marke. Wir bauen Resonanz.“*  
-> — THooTH  
+> *“We are not building a brand. We are building resonance.”*
+> *„Wir bauen keine Marke. Wir bauen Resonanz.“*
+> — THooTH
 
 ---
 
-### 🜇 Overview · Überblick  
+### 🕇 Overview · Überblick
 
-This directory contains all official **press releases, statements, and public resources**  
-of the **Scarabæus1033 / NEXAH-CODEX** initiative.  
-It serves as an open, transparent communication portal for artists, scientists, and collaborators.  
+This directory contains all official **press releases, statements, and public resources**
+of the **Scarabæus1033 / NEXAH-CODEX** initiative.
+It serves as an open, transparent communication portal for artists, scientists, and collaborators.
 
-Dieses Verzeichnis enthält alle offiziellen **Pressemitteilungen, Erklärungen und öffentlichen Ressourcen**  
-der Initiative **Scarabæus1033 / NEXAH-CODEX** — ein offenes, transparentes Kommunikationsportal  
-für Künstler, Wissenschaftler und Mitwirkende.  
+Dieses Verzeichnis enthält alle offiziellen **Pressemitteilungen, Erklärungen und öffentlichen Ressourcen**
+der Initiative **Scarabæus1033 / NEXAH-CODEX** — ein offenes, transparentes Kommunikationsportal
+für Künstler, Wissenschaftler und Mitwirkende.
 
 > *Every release is part of a living archive — no static PR, but a resonant document.*
 
 ---
 
-### 🕊 Contact · Kontakt  
+### 🕊️ Builder Hub · Join the Codex
 
-**Scarabæus1033 / Open Resonance Initiative**  
-📧 bbi@scarabaeus1033.net  
-🌐 [scarabaeus1033.net](https://www.scarabaeus1033.net)  
-🕊 [X / Twitter](https://x.com/Scarabaeus1033)  
-🎨 [Behance](https://www.behance.net/Scarabaeus1033)  
-💬 [Discord Community](https://discord.gg/dcznQyQs)  
+<p align="center">
+  <img src="./visuals/A_typographic_digital_graphic_design_features_prom.png" width="720" alt="Join The Codex · Builder Hub Visual">
+</p>
+
+**Communication · Collaboration · Creation**
+**Kommunikation · Kollaboration · Kreation**
+
+> *“The Codex is open — but it opens only through resonance.”*
+> *„Der Codex ist offen – aber er öffnet sich nur durch Resonanz.“*
+> — THooTH
 
 ---
 
-> *“Open fields. Shared resonance.”*  
-> *“Offene Felder. Geteilte Resonanz.”*  
-> — Scarabæus1033 · From Rödelheim to the Cosmos
+### 🦊 Contact · Kontakt
+
+**Scarabæus1033 / Open Resonance Initiative**
+📧 [bbi@scarabaeus1033.net](mailto:bbi@scarabaeus1033.net)
+🌐 [scarabaeus1033.net](https://www.scarabaeus1033.net)
+🕊 [X / Twitter](https://x.com/Scarabaeus1033)
+🎨 [Behance](https://www.behance.net/Scarabaeus1033)
+💬 [Discord Community](https://discord.gg/dcznQyQs)
+
+> *Open fields. Shared resonance.*
+> *Offene Felder. Geteilte Resonanz.*
+> — **Scarabæus1033 · From Rödelheim to the Cosmos**
