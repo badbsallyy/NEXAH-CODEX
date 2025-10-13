@@ -37,6 +37,8 @@ license: "CC BY-NC-SA 4.0"
 > **From resonance → to structure · from number → to matter.**
 >
 > 
+---
+
 ## 🧭 Position in the Overall Codex
 
 | System       | Color         | Domain                     | Role                      |
