@@ -78,6 +78,23 @@ All images are stored in the `/visuals/` directory of the `PRIME-GRID-VISUALS` m
 
 ---
 
+## ⚙️ Harmonic Operator Field – φ · θₙ · Z₆
+
+### • Prime Resonance Operator Grid – φ θₙ Z₆
+
+![Prime Resonance Operator Grid – φ θₙ Z₆](./visuals/Prime_Resonance_Operator_Grid_phi_theta_Z6.png)
+
+* Visual representation of the **Prime Resonance Equation**
+  ( P(n) = n \cdot \phi^k \cdot \cos(\theta_n) \mod Z_6 )
+* Displays the interaction between:
+
+  * **φ** – the golden modulation constant
+  * **θₙ** – angular rotation of prime phase
+  * **Z₆** – modular resonance base grid
+* Serves as a bridge between analytic equation and symbolic field logic, showing how **harmonic operators** generate the prime clusters and spiral gaps observed across the Codex field layers.
+
+---
+
 ## 🌀 Symbolic Function & Interpretation
 
 Each image encodes:
