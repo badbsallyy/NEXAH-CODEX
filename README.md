@@ -179,15 +179,21 @@ for artists, scientists, and collaborators.
 ### 🕊️ Builder Hub · Join the Codex  
 
 <p align="center">
-  <img src="./visuals/builder_hub_visual.png" width="720" alt="Join The Codex · Builder Hub Visual">
+  <img src="./visuals/Scarabaeus_the_first_five.png" width="720" alt="Scarabæus1033 · The First Five · Builder Hub Visual">
 </p>
-
-**Communication · Collaboration · Creation**  
-**Kommunikation · Kollaboration · Kreation**  
 
 > *“The Codex is open — but it opens only through resonance.”*  
 > *„Der Codex ist offen – aber er öffnet sich nur durch Resonanz.”*  
 > — THooTH  
+
+**Call for Builders — The First Five (Odyssey 2040)**  
+- 🟩 **Tech-Integrator / Codex Hacker**  
+- 🟪 **Curator / Designer / Visual Architect**  
+- 🟦 **Composer / Sound Architect**  
+- 🟨 **Storyweaver / Narrative Engineer**  
+- 🟧 **Connector / Global Strategist**
+
+> *“We are not recruiting positions — we are weaving resonance.”*
 
 ---
 
