@@ -76,19 +76,18 @@ It defines the harmonic relation of all systems — mathematical, physical, cosm
 ## 🌌 Visual Entry Series · Resonance Architecture
 
 <p align="center">
-  <img src="./visuals/navigator_2.0_resonance_grid.png" width="780" alt="Navigator 2.0 · Resonance Grid">
+  <img src="./visuals/navigator_resonance_grid.png" width="780" alt="Navigator 2.0 · Resonance Grid">
 </p>
 <p align="center">
-  <img src="./visuals/A_digital_vector_graphic_showcases_a_circular_diag.png" width="760" alt="NEXAH Field · Resonant Activation Architecture">
+  <img src="./visuals/resonant_field_architecture.png" width="760" alt="NEXAH Field · Resonant Activation Architecture">
 </p>
 <p align="center">
-  <img src="./visuals/A_2D_digital_visual_titled_CONTINUUM_TRANSITION_M.png" width="760" alt="Continuum Transition Map · Prime–Field Continuum">
+  <img src="./visuals/continuum_transition_map.png" width="760" alt="Continuum Transition Map · Prime–Field Continuum">
 </p>
 
 > **Visual 1 – Navigator Grid** · Harmonic map of Systems 1–9 + X  
-> **Visual 2 – Resonant Activation Field** · Dynamic coupling of symbolic and physical systems  
-> **Visual 3 – Continuum Transition Map** · Morphological bridge from mathematical logic to resonant field geometry  
-
+> **Visual 2 – Resonant Field Architecture** · Dynamic coupling of symbolic and physical systems  
+> **Visual 3 – Continuum Transition Map** · Morphological bridge from mathematical logic to resonant geometry
 ---
 
 ## 📌 Purpose
