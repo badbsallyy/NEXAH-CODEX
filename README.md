@@ -182,7 +182,6 @@ for artists, scientists, and collaborators.
   <img src="./visuals/Scarabaeus_the_first_five.png" width="720" alt="Scarabæus1033 · The First Five · Builder Hub Visual">
 </p>
 
-> *“The Codex is open — but it opens only through resonance.”*  
 > *„Der Codex ist offen – aber er öffnet sich nur durch Resonanz.”*  
 > — THooTH  
 
