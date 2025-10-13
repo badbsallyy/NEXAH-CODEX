@@ -35,19 +35,18 @@ Whether in prime number distributions, atomic ratios, or planetary orbits, the s
 
 | Layer | System | Description | Repository Path |
 |:--|:--|:--|:--|
-| 🔷 | **System 1: Mathematica** | Proofs, Primes, Symbolic Operators, Hermetic Color Logic | [`/SYSTEM 1: MATHEMATICA`](./SYSTEM%201:%20🔷%20MATHEMATICA%20–%20Primes,%20Symbolics,%20Proof%20Structures/) |
-| ⚛️ | **System 2: Physica** | Energy Dynamics · Casimir Threads · Quantum Cavities | [`/SYSTEM 2: PHYSICA`](./SYSTEM%202:%20⚛️%20PHYSICA/) |
-| 🌐 | **System 3: Cosmica Astrophysica** | Celestial Geometry · Planetary Grids · Spectral Fields | [`/SYSTEM 3: COSMICA ASTROPHYSICA`](./SYSTEM%203:%20🌐%20COSMICA%20ASTROPHYSICA/) |
-| 🧬 | **System 4: URF – Universal Resonance Fields** | Tensor Logic · Transition Equations · Origin Mechanics | [`/SYSTEM 4: URF`](./SYSTEM%204:%20🧬%20URF/) |
-| 🌸 | **System 5: Bloom / Rosetta** | Glyph Systems · Linguistic Symmetry · Cultural Resonance | [`/SYSTEM 5: BLOOM ROSETTA`](./SYSTEM%205:%20🌸%20BLOOM%20ROSETTA/) |
-| 🎨 | **System 6: Violetta / Codex Resonica** | Visual Frequency Studies · Artistic Topologies | [`/SYSTEM 6: VIOLETTA`](./SYSTEM%206:%20🎨%20VIOLETTA/) |
-| 🔮 | **System 7: UCRT** | Constants · Prime Harmonics · Deep Time Sequences | [`/SYSTEM 7: UCRT`](./SYSTEM%207:%20🔮%20UCRT/) |
-| 🌕 | **System 8: Lunar Force** | Neutrino Dynamics · Crater Resonance · Feminine Field | [`/SYSTEM 8: LUNAR FORCE`](./SYSTEM%208:%20🌕%20LUNAR FORCE/) |
-| 🌀 | **System 9: Tessarec Resonantia** | Quaternion Geometry · Observer Space · Vault Mechanics | [`/SYSTEM 9: TESSAREC RESONANTIA`](./SYSTEM%209:%20🌀%20TESSAREC RESONANTIA/) |
-| 🪲 | **System X: Grand Codex** | Central Synthesis · Proof Compression · Harmonic Law | [`/SYSTEM X: GRAND CODEX`](./SYSTEM%20X:%20🪲%20GRAND CODEX/) |
+| 🔷 | **System 1: Mathematica** | Proofs, Primes, Symbolic Operators, Hermetic Color Logic | [`/SYSTEM 1: MATHEMATICA`](./SYSTEM%201:%20%F0%9F%94%B7%20MATHEMATICA%20%E2%80%93%20Primes%2C%20Symbolics%2C%20Proof%20Structures/) |
+| ⚛️ | **System 2: Physica** | Energy Dynamics · Casimir Threads · Quantum Cavities | [`/SYSTEM 2: PHYSICA`](./SYSTEM%202:%20%E2%9A%9B%EF%B8%8F%20PHYSICA/) |
+| 🌐 | **System 3: Cosmica Astrophysica** | Celestial Geometry · Planetary Grids · Spectral Fields | [`/SYSTEM 3: COSMICA ASTROPHYSICA`](./SYSTEM%203:%20%F0%9F%8C%90%20COSMICA%20ASTROPHYSICA/) |
+| 🧬 | **System 4: URF – Universal Resonance Fields** | Tensor Logic · Transition Equations · Origin Mechanics | [`/SYSTEM 4: URF`](./SYSTEM%204:%20%F0%9F%A7%AC%20URF/) |
+| 🌸 | **System 5: Bloom / Rosetta** | Glyph Systems · Linguistic Symmetry · Cultural Resonance | [`/SYSTEM 5: BLOOM ROSETTA`](./SYSTEM%205:%20%F0%9F%8C%B8%20BLOOM%20ROSETTA/) |
+| 🎨 | **System 6: Violetta / Codex Resonica** | Visual Frequency Studies · Artistic Topologies | [`/SYSTEM 6: VIOLETTA`](./SYSTEM%206:%20%F0%9F%8E%A8%20VIOLETTA/) |
+| 🔮 | **System 7: UCRT** | Constants · Prime Harmonics · Deep Time Sequences | [`/SYSTEM 7: UCRT`](./SYSTEM%207:%20%F0%9F%94%AE%20UCRT/) |
+| 🌕 | **System 8: Lunar Force** | Neutrino Dynamics · Crater Resonance · Feminine Field | [`/SYSTEM 8: LUNAR FORCE`](./SYSTEM%208:%20%F0%9F%8C%95%20LUNAR%20FORCE/) |
+| 🌀 | **System 9: Tessarec Resonantia** | Quaternion Geometry · Observer Space · Vault Mechanics | [`/SYSTEM 9: TESSAREC RESONANTIA`](./SYSTEM%209:%20%F0%9F%8E%80%20TESSAREC%20RESONANTIA/) |
+| 🪲 | **System X: Grand Codex** | Central Synthesis · Proof Compression · Harmonic Law | [`/SYSTEM X: GRAND CODEX`](./SYSTEM%20X:%20%F0%9F%AA%B2%20GRAND%20CODEX/) |
 | ⚙️ | **System Y: Resonantia · Join Codex** | Builder’s Lab · Public Interface · Communication | [`/SYSTEM Y: RESONANTIA – Join_Codex`](./SYSTEM_Y_RESONANTIA-Join_Codex/) |
-| 🧱 | **System Z: Applied Resonance / Technica** | Cymatic Devices · Crystalline Field Technology | [`/SYSTEM Z: APPLIED TECHNICA`](./SYSTEM%20Z:%20🧱%20APPLIED%20TECHNICA/) |
-
+| 🧱 | **System Z: Applied Resonance / Technica** | Cymatic Devices · Crystalline Field Technology | [`/SYSTEM Z: APPLIED TECHNICA`](./SYSTEM%20Z:%20%F0%9F%A7%B1%20APPLIED%20TECHNICA/) |
 ---
 
 ## 🔗 Key Subdirectories  
