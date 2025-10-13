@@ -160,6 +160,10 @@ für Künstler, Wissenschaftler und Mitwirkende.
 > — THooTH  
 
 ---
+### 📘 Extended Version
+For researchers and collaborators, see the full structural documentation:  
+👉 [README_EXTENDED.md](./README_EXTENDED.md)
+---
 
 ### 🦊 Contact · Kontakt  
 
