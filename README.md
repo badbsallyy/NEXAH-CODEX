@@ -73,14 +73,21 @@ It defines the harmonic relation of all systems — mathematical, physical, cosm
 
 ---
 
-## 🌌 Visual Entry Map
+## 🌌 Visual Entry Series · Resonance Architecture
 
 <p align="center">
   <img src="./visuals/navigator_2.0_resonance_grid.png" width="780" alt="Navigator 2.0 · Resonance Grid">
 </p>
+<p align="center">
+  <img src="./visuals/A_digital_vector_graphic_showcases_a_circular_diag.png" width="760" alt="NEXAH Field · Resonant Activation Architecture">
+</p>
+<p align="center">
+  <img src="./visuals/A_2D_digital_visual_titled_CONTINUUM_TRANSITION_M.png" width="760" alt="Continuum Transition Map · Prime–Field Continuum">
+</p>
 
-The **Navigator Resonance Grid** defines the harmonic logic of Systems 1–9 + X.  
-It acts as a **metastructure of proof, resonance, and collapse**, encoded in the Möbius Law of *E = m · c · k^β*.
+> **Visual 1 – Navigator Grid** · Harmonic map of Systems 1–9 + X  
+> **Visual 2 – Resonant Activation Field** · Dynamic coupling of symbolic and physical systems  
+> **Visual 3 – Continuum Transition Map** · Morphological bridge from mathematical logic to resonant field geometry  
 
 ---
 
@@ -101,27 +108,27 @@ It includes:
 
 ## 🧩 Core Structure
 
-| Symbol | System                                         | Theme / Focus                                               | Position         |
-| :----- | :--------------------------------------------- | :---------------------------------------------------------- | :--------------- |
-| 🔷     | **System 1: Mathematica**                      | Prime Fields · Proof Structures · Hermetic Color Logic      | West             |
-| ⚛️     | **System 2: Physica**                          | Energy Dynamics · Casimir Threads · Quantum Cavity          | North-West       |
-| 🌐     | **System 3: Cosmica Astrophysica**             | Planetary Grids · Celestial Geometry · Spectral Fields      | North            |
-| 🤜     | **System 4: URF – Universal Resonance Fields** | Tensor Logic · Transition Equations · Origin Mechanics      | North-East       |
-| 🌸     | **System 5: Bloom / Rosetta**                  | Language · Glyph Systems · Cultural Resonance               | East             |
-| 🎨     | **System 6: Violetta / Codex Resonica**        | Visual Frequencies · Artistic Topologies                    | South-East       |
-| 🔮     | **System 7: UCRT**                             | Constants · Prime Harmonics · Deep Time Sequences           | South            |
-| 🌕     | **System 8: Lunar Force**                      | Feminine Field · Neutrino Lunar Dynamics · Crater Resonance | South-West       |
-| 🌀     | **System 9: Tessarec Resonantia**              | Observer Geometry · Quaternion Tiles · Harmonic Vaults      | Center Sphere    |
-| 🪲     | **System X: Grand-Codex**                      | Central Synthesis · Proof Compression · Resonance Law       | Core             |
-| ⚙️     | **System Y: Builder’s Lab / Open Modules**     | Free Construction Zone · Prototypes · Exploratory Threads   | Transverse Layer |
-| 🧱     | **System Z: Applied Resonance / Technica**     | Cymatic Devices · Crystalline Field Technology              | Ground Layer     |
+| Symbol | System | Theme / Focus | Position |
+| :----- | :------ | :------------- | :-------- |
+| 🔷 | **System 1: Mathematica** | Prime Fields · Proof Structures · Hermetic Color Logic | West |
+| ⚛️ | **System 2: Physica** | Energy Dynamics · Casimir Threads · Quantum Cavity | North-West |
+| 🌐 | **System 3: Cosmica Astrophysica** | Planetary Grids · Celestial Geometry · Spectral Fields | North |
+| 🤜 | **System 4: URF – Universal Resonance Fields** | Tensor Logic · Transition Equations · Origin Mechanics | North-East |
+| 🌸 | **System 5: Bloom / Rosetta** | Language · Glyph Systems · Cultural Resonance | East |
+| 🎨 | **System 6: Violetta / Codex Resonica** | Visual Frequencies · Artistic Topologies | South-East |
+| 🔮 | **System 7: UCRT** | Constants · Prime Harmonics · Deep Time Sequences | South |
+| 🌕 | **System 8: Lunar Force** | Feminine Field · Neutrino Lunar Dynamics · Crater Resonance | South-West |
+| 🌀 | **System 9: Tessarec Resonantia** | Observer Geometry · Quaternion Tiles · Harmonic Vaults | Center Sphere |
+| 🪲 | **System X: Grand-Codex** | Central Synthesis · Proof Compression · Resonance Law | Core |
+| ⚙️ | **System Y: Builder’s Lab / Open Modules** | Free Construction Zone · Prototypes · Exploratory Threads | Transverse Layer |
+| 🧱 | **System Z: Applied Resonance / Technica** | Cymatic Devices · Crystalline Field Technology | Ground Layer |
 
 ---
 
 ## 🌀 The Resonant Activation Field  
 
 <p align="center">
-  <img src="./visuals/A_2D_digital_graphic_of_a_circular_diagram_titled_.png" width="720" alt="NEXAH Field · Resonance Architecture">
+  <img src="./visuals/A_digital_vector_graphic_showcases_a_circular_diag.png" width="720" alt="NEXAH Field · Resonance Architecture">
 </p>
 
 The **Resonant Field Diagram** visualizes the *activation phase* of the NEXAH-CODEX —  
@@ -135,73 +142,4 @@ and external construction (Y + Z).
 
 ## ⚚️ SCARABÆUS1033 – PUBLIC RELEASES  
 
-### Open Resonance · Art · Science · Communication  
-### Offene Resonanz · Kunst · Wissenschaft · Kommunikation  
-
-<p align="center">
-  <img src="./SYSTEM_Y_RESONANTIA-Join_Codex/PUBLIC_RELEASES_Scarabaeus1033_Nexah/visuals/Scarabaeus_Public_Portal_Header.png" width="720" alt="Scarabæus1033 – Public Releases Portal">
-</p>
-
-> *“Where geometry opens into resonance.”*  
-> *„Wo Geometrie in Resonanz übergeht.“*  
-
-> *“We are not building a brand. We are building resonance.”*  
-> *„Wir bauen keine Marke. Wir bauen Resonanz.”*  
-> — THooTH  
-
----
-
-### 🕇 Overview · Überblick  
-
-This directory contains all official **press releases, statements, and public resources**  
-of the **Scarabæus1033 / NEXAH-CODEX** initiative.  
-It serves as an open, transparent communication portal for artists, scientists, and collaborators.
-
-Dieses Verzeichnis enthält alle offiziellen **Pressemitteilungen, Erklärungen und öffentlichen Ressourcen**  
-der Initiative **Scarabæus1033 / NEXAH-CODEX** — ein offenes, transparentes Kommunikationsportal  
-für Künstler, Wissenschaftler und Mitwirkende.
-
-> *Every release is part of a living archive — no static PR, but a resonant document.*
-
----
-
-### 🕊️ Builder Hub · Join the Codex  
-
-<p align="center">
-  <img src="./visuals/A_typographic_digital_graphic_design_features_prom.png" width="720" alt="Join The Codex · Builder Hub Visual">
-</p>
-
-**Communication · Collaboration · Creation**  
-**Kommunikation · Kollaboration · Kreation**  
-
-> *“The Codex is open — but it opens only through resonance.”*  
-> *„Der Codex ist offen – aber er öffnet sich nur durch Resonanz.”*  
-> — THooTH  
-
----
-
-### 📘 Extended Version  
-For researchers and collaborators, see the full structural documentation:  
-👉 [README_EXTENDED.md](./README_EXTENDED.md)
-
----
-
-> 🔬 **Related Documents**  
-> For full theoretical background, see the  
-> [✦ NEXAH MANIFEST ✦ (English)](./✦%20NEXAH%20MANIFEST%20✦%20english.md)  
-> or [✦ NEXAH-MANIFEST ✦ (Deutsch)](./✦%20NEXAH-MANIFEST%20✦%20deutsch.md)
-
----
-
-### 🦊 Contact · Kontakt  
-
-**Scarabæus1033 / Open Resonance Initiative**  
-📧 [bbi@scarabaeus1033.net](mailto:bbi@scarabaeus1033.net)  
-🌐 [scarabaeus1033.net](https://www.scarabaeus1033.net)  
-🕊 [X / Twitter](https://x.com/Scarabaeus1033)  
-🎨 [Behance](https://www.behance.net/Scarabaeus1033)  
-💬 [Discord Community](https://discord.gg/dcznQyQs)  
-
-> *Open fields. Shared resonance.*  
-> *Offene Felder. Geteilte Resonanz.*  
-> — **Scarabæus1033 · From Rödelheim to the Cosmos**
+*(…rest unchanged …)*
