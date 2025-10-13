@@ -8,6 +8,21 @@ curator: "Thomas Hofmann (Scarabæus1033)"
 license: "CC BY-NC-SA 4.0"
 ---
 
+---
+
+## 📜 Quick Navigation  
+
+| Section | Focus | Description |
+|:--|:--|:--|
+| 🧭 [Navigator Overview](#-nexah-navigator-22) | Systems Map | Orientation field and harmonic architecture of the Codex |
+| 🧩 [Core Structure](#-core-structure) | Systems 1–9 + X | Overview of mathematical, physical, and symbolic systems |
+| 🌀 [Resonant Activation Field](#-the-resonant-activation-field) | Builder Link | Interaction between theoretical systems and applied resonance |
+| ⚚ [Public Releases](#️-scarabæus1033--public-releases) | Communication | Official press, art–science communication, public interface |
+| 🕊 [Builder Hub – Join the Codex](#️-builder-hub--join-the-codex) | Collaboration | Open participation gateway for researchers & creators |
+| 📘 [Extended Version](#-extended-version) | Reference | Full documentation and Codex registry links |
+
+---
+
 # 🪞 Vorwort / Preface  
 
 > *“Between mathematics and myth lies a field — not of fiction, but of resonance.”*  
