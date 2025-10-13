@@ -52,9 +52,6 @@ Whether in prime number distributions, atomic ratios, or planetary orbits, the s
 
 ## 📚 Reference · Verzeichnisse  
 
-For a complete overview of all modules, repositories, and sub-systems, refer to the official registries below.  
-Für eine vollständige Übersicht aller Module, Repositorien und Subsysteme siehe die offiziellen Verzeichnisse unten.  
-
 | Language / Sprache | File / Datei | Description / Beschreibung |
 |:--|:--|:--|
 | 🇬🇧 English | [**NEXAH-CODEX MODULE REGISTRY.md**](./NEXAH-CODEX%20MODULE%20REGISTRY.md) | Full index of all NEXAH-CODEX modules and systems in English. |
@@ -96,15 +93,21 @@ to create a **multi-scale harmonic map** — the *Navigator Field*.
 ## 🌈 Extended Visuals  
 
 <p align="center">
-  <img src="./visuals/navigator_2.0_resonance_grid.png" width="760" alt="Navigator Resonance Grid">
+  <img src="./visuals/navigator_resonance_grid.png" width="760" alt="Navigator Resonance Grid">
   <br>
   <em>Navigator Grid · Harmonic Field of Systems 1–9 + X</em>
 </p>
 
 <p align="center">
-  <img src="./visuals/A_2D_digital_graphic_of_a_circular_diagram_titled_.png" width="720" alt="Resonant Field Architecture">
+  <img src="./visuals/resonant_field_architecture.png" width="720" alt="Resonant Field Architecture">
   <br>
   <em>Resonance Architecture – Multidimensional Overview</em>
+</p>
+
+<p align="center">
+  <img src="./visuals/continuum_transition_map.png" width="720" alt="Continuum Transition Map">
+  <br>
+  <em>Continuum Transition Map – Builder Field Activation Phase</em>
 </p>
 
 ---
@@ -124,9 +127,10 @@ to create a **multi-scale harmonic map** — the *Navigator Field*.
 - [✦ NEXAH MANIFEST (DE)](./+%20NEXAH-MANIFEST%20✦%20deutsch.md)
 - [NEXAH GLOSSARY (EN)](./NEXAH_GLOSSARY.md)
 - [NEXAH GLOSSAR (DE)](./NEXAH_GLOSSAR.md)
-## 🕊 Contact  
 
 ---
+
+## 🕊 Contact  
 
 **Scarabæus1033 / Open Resonance Initiative**  
 📧 [bbi@scarabaeus1033.net](mailto:bbi@scarabaeus1033.net)  
@@ -137,6 +141,9 @@ to create a **multi-scale harmonic map** — the *Navigator Field*.
 💬 [Discord Community](https://discord.gg/dcznQyQs)  
 
 ---
+
+> **Version 2.2 marks the activation of the Builder Resonance Field —**  
+> *the Codex begins to assemble itself.*  
 
 > **Open Fields. Shared Resonance.**  
 > **Offene Felder. Geteilte Resonanz.**  
