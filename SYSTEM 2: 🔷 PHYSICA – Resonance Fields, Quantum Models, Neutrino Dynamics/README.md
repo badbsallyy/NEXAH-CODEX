@@ -28,6 +28,19 @@ laying the foundation for real-world experimental structures:
 > *In SYSTEM 2, mathematics becomes field. Field becomes dynamic resonance.*
 
 <p align="center">
+  <img src="./System2 - PHYSICA.png" width="740" alt="SYSTEM 2 – PHYSICA Overview Visual">
+</p>
+
+> **System Overview Visual**  
+> The image above represents the **harmonic field map** of SYSTEM 2 —  
+> showing its six active resonance branches and their connection to **SYSTEM 1**, **SYSTEM 3**, and **SYSTEM X**.  
+>  
+> It visualizes the **Blue Core Network** of the Codex:  
+> quantum breathing, Möbius compression, and field resonance unified in a single continuum.
+
+---
+
+<p align="center">
   <img src="./system2-polymorph.png" width="720" alt="SYSTEM 2 – PHYSICA · Polymorph Transition Visual">
 </p>
 
