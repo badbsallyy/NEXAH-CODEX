@@ -230,6 +230,7 @@ For researchers and collaborators, see the full structural documentation:
 **DOI:** [10.5281/zenodo.17381811](https://doi.org/10.5281/zenodo.17381811)  
 **Zenodo Record:** [https://zenodo.org/records/17381811](https://zenodo.org/records/17381811)  
 **GitHub:** [https://github.com/Scarabaeus1033/NEXAH-CODEX](https://github.com/Scarabaeus1033/NEXAH-CODEX)
+📄 Citation metadata: [CITATION.cff](./CITATION.cff)
 
 > This project is archived and citable via Zenodo (CERN / OpenAIRE).  
 > Please reference the DOI above when citing the NEXAH-CODEX system.
