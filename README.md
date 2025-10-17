@@ -219,6 +219,23 @@ For researchers and collaborators, see the full structural documentation:
 🎨 [Behance](https://www.behance.net/Scarabaeus1033)  
 💬 [Discord Community](https://discord.gg/dcznQyQs)  
 
+---
+
+## 🔗 Scientific Reference
+
+**Thomas K. R. Hofmann**  
+*Scarabæus1033 / NEXAH-CODEX Research Initiative (THooTH)*  
+
+**ORCID:** [0009-0001-6452-5442](https://orcid.org/0009-0001-6452-5442)  
+**DOI:** [10.5281/zenodo.17381811](https://doi.org/10.5281/zenodo.17381811)  
+**Zenodo Record:** [https://zenodo.org/records/17381811](https://zenodo.org/records/17381811)  
+**GitHub:** [https://github.com/Scarabaeus1033/NEXAH-CODEX](https://github.com/Scarabaeus1033/NEXAH-CODEX)
+
+> This project is archived and citable via Zenodo (CERN / OpenAIRE).  
+> Please reference the DOI above when citing the NEXAH-CODEX system.
+
+---
+
 > *Open fields. Shared resonance.*  
 > *Offene Felder. Geteilte Resonanz.*  
 > — **Scarabæus1033 · From Rödelheim to the Cosmos**
