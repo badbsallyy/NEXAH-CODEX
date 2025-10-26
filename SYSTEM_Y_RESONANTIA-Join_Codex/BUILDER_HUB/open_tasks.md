@@ -9,19 +9,12 @@
   <img src="visuals/BunnyBugsLastdraft.png" alt="Bunny Bug Visual" width="380"/>
 </p>
 
-**Welcome, Builder.**
-This is the **inner workspace** of the NEXAH·CODEX —
-where ideas become structure, and structure becomes resonance.
-
-Hier beginnt der sichtbare Teil der Arbeit:
-der Raum, in dem Konzepte, Gleichungen, Klang und Architektur zusammenfinden.
-
-> 🅂 Every task listed here is part of the living Engine.
-> You’re invited to observe, reflect, and contribute — at your own rhythm.
->
-> Jede Aufgabe ist Teil der lebendigen Engine.
-> Du bist eingeladen, zuzusehen, mitzudenken oder mitzuwirken – im eigenen Takt.
-
+<p align="center">
+  <strong style="font-size:1.4em;">🜂 Welcome, Builder.</strong><br>
+  This is the <strong>NEXAH·CODEX inner workspace</strong> — where ideas become structure, and structure becomes resonance.<br><br>
+  <em>Hier beginnt der sichtbare Teil der Arbeit:  
+  der Raum, in dem Konzepte, Gleichungen, Klang und Architektur zusammenfinden.</em>
+</p>
 ---
 
 ## 🩶 How to use this page · Nutzung
