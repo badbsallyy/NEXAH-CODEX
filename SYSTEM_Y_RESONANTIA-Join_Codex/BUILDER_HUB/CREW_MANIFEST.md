@@ -18,7 +18,7 @@ It is not a hierarchy — it is a resonance field where each archetype sustains 
 
 Das **Crew-Manifest** beschreibt die lebende Architektur der Codex-Baumeister.  
 Es ist keine Hierarchie – sondern ein Resonanzfeld, in dem jede Rolle Gleichgewicht, Rhythmus und Entwicklung trägt.
-
+ 
 ---
 
 ## 🔹 The Five Archetypes · Die Fünf Archetypen
