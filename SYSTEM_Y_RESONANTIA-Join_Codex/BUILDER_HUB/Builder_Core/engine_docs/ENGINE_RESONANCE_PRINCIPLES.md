@@ -63,11 +63,11 @@ This layer acts as the *semantic membrane* of the Engine — where **meaning**, 
 ## 🧭 Resonance Field Visualization
 
 <p align="center">
-  <img src="../visuals/Field Resonance Map.png" width="600"/>
+  <img src="./visuals/Field Resonance Map.png" width="600"/>
 </p>
 
 <p align="center">
-  <img src="../visuals/Nexah Field Resonance Map – Legend.png" width="550"/>
+  <img src="./visuals/Nexah Field Resonance Map – Legend.png" width="550"/>
 </p>
 
 **Legend:**
