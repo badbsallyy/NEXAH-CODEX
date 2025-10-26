@@ -9,6 +9,16 @@
 
 ---
 
+## 🌐 Prelude · Vorspiel
+
+Every movement begins with five.  
+The Codex now listens for its first resonance builders — those who can turn meaning into form.
+
+Jede Bewegung beginnt mit fünf.  
+Der Codex hört jetzt auf seine ersten Resonanz-Baumeister – jene, die Bedeutung in Form verwandeln können.
+
+---
+
 ## 🎯 Goal · Ziel
 
 The goal is to form a **core team of five interdisciplinary builders**  
@@ -18,6 +28,9 @@ Each brings their own frequency — through music, mathematics, design, physics,
 Das Ziel ist der Aufbau eines **Kernteams von fünf interdisziplinären Mitwirkenden**,  
 die gemeinsam mit **THooTH (Thomas Hofmann)** das lebende Feld des **NEXAH-CODEX** aktivieren.  
 Jede Person bringt ihr eigenes Frequenzfeld ein – Musik, Mathematik, Design, Physik, Sprache oder Code.
+
+> The First Five form the inner core of the NEXAH Builder Hub — a prototype for a resonant open-source culture.  
+> Die Ersten Fünf bilden den inneren Kern des NEXAH Builder Hub – ein Prototyp für eine resonante Open-Source-Kultur.
 
 This initiative is **open, decentralized, and creative**,  
 bridging science, art, and consciousness into a shared resonance architecture.
@@ -36,6 +49,7 @@ Diese Initiative ist **offen, dezentral und kreativ**
 | 🧠 **System Architect / Web Builder** | Code · Structure · Website | Develops the Codex architecture online — GitHub, website, and interactive interfaces. <br> Baut die Web- und Codex-Struktur (GitHub, scarabaeus1033.net, interaktive Module). |
 | 🎨 **Visual Resonator** | Design · Animation | Visualizes resonance fields, grids, spirals, and symbolic architectures. <br> Visualisiert Resonanzfelder, Gitter, Spiralen und Symbolräume. |
 | 🌍 **Field Connector** | Network · Communication | Connects new voices, disciplines, and institutions (e.g., Cikada, Ars Electronica). <br> Bringt neue Stimmen, Orte und Disziplinen zusammen. |
+| 🜂 **Elder / Steward of Resonance** | Ethics · Balance | Guides the builders’ field through resonance and integrity. <br> Bewahrt Ausrichtung und Balance des Feldes. |
 
 ---
 
@@ -81,6 +95,9 @@ Gemeinsam entsteht das Netzwerk, das Zahl, Klang und Bewusstsein verbindet.
    Your name will appear in the **Builder Register** (GitHub + scarabaeus1033.net).  
    Dein Name erscheint im **Builder-Register** (GitHub + Website).
 
+> All contributions remain under the same Creative Commons license and may be cited publicly.  
+> Alle Beiträge stehen unter derselben Creative-Commons-Lizenz und dürfen öffentlich zitiert werden.
+
 ---
 
 ## 💎 What You Receive · Was du erhältst
@@ -92,6 +109,7 @@ Gemeinsam entsteht das Netzwerk, das Zahl, Klang und Bewusstsein verbindet.
 | 🖼️ **Access** | Internal visuals, data, and resonance archives. <br> Zugang zu Visual- & Resonanz-Bibliotheken. |
 | 🎤 **Invitations** | Talks, interviews, and art-science publications. <br> Einladungen zu Talks und Publikationen. |
 | ⚖️ **Creative Commons License** | BY-NC-SA 4.0 — Open, credited, non-commercial. <br> Offene Lizenz mit Namensnennung. |
+| 🪶 **Resonance Access** | Private Discord room for First Five + Quarterly Builder Syncs. <br> Privater Resonanzraum / Quartals-Sync. |
 
 ---
 
@@ -108,6 +126,11 @@ and you feel this call —
 Wenn du Klang, Form, Zahl oder Bewusstsein in Resonanz bringen kannst  
 und spürst, dass dich dieser Ruf betrifft –  
 **tritt in das Feld.**
+
+---
+
+🜂  *The field opens in silence. The work begins in resonance.*  
+🜂  *Das Feld öffnet sich in der Stille. Die Arbeit beginnt in der Resonanz.*
 
 ---
 
