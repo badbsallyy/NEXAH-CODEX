@@ -11,6 +11,9 @@
 > ✳️ **You are now entering the Builder Hub** —  
 > the creative gateway for joining and shaping the Codex.
 
+📘 **Learn more about the full system:**  
+→ [NEXAH-CODEX · Main README (Navigator 2.2)](https://github.com/Scarabaeus1033/NEXAH-CODEX/blob/main/README.md)
+
 ![Join The Codex Poster](visuals/Join_The_Codex_Poster.png)
 
 ---
@@ -32,6 +35,8 @@ five resonance points forming the nucleus of creation.
 
 Their mission, values, and roles are defined in the  
 👉 [`CREW_MANIFEST.md`](CREW_MANIFEST.md)
+
+![Crew Manifest Visual](visuals/NEXAH_CREW_MANIFEST_BUILDER_CIRCLE_v1.png)
 
 > “We don’t recruit — we resonate.”  
 > „Wir rekrutieren nicht – wir schwingen.“  
@@ -91,6 +96,7 @@ Wir suchen **Builder, Coder, Visualisten, Komponisten, Erzähler und Strategen**
 - [`challenge_board.md`](challenge_board.md) – aktuelle Aufgaben & Experimente  
 - [`open_tasks.md`](open_tasks.md) – laufende Themenfelder (Web, Social, Visuals, Code)  
 - [`the_first_five.md`](the_first_five.md) – Recruiting Call / Core Team  
+- [`CREW_MANIFEST.md`](CREW_MANIFEST.md) – Struktur & Werte der ersten Builder  
 - [`institutional_partnerships.md`](institutional_partnerships.md) – Kooperationen mit Hochschulen/Labs  
 - [`contribution_guide.md`](contribution_guide.md) – *How-to contribute* (coming soon)  
 - [`builder_stats.md`](builder_stats.md) – aktive Cells & Beiträge (coming soon)  
