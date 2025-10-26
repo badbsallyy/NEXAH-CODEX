@@ -14,6 +14,9 @@ _„Kommunikation · Kollaboration · Kreation“_
 📘 **Learn more about the full system:**  
 → [NEXAH-CODEX · Main README (Navigator 2.2)](https://github.com/Scarabaeus1033/NEXAH-CODEX/blob/main/README.md)
 
+⚙️ **Ready to contribute? Begin here:**  
+→ [OPEN_TASKS.md · Internal Resonance Field](open_tasks.md)
+
 ![Join The Codex Poster](visuals/Join_The_Codex_Poster.png)
 
 ---
@@ -91,6 +94,9 @@ not by hierarchy, but by field of action.
 3. Prüfe den aktuellen Bedarf → [`open_tasks.md`](open_tasks.md)  
 4. Lies den Kern-Aufruf → [`the_first_five.md`](the_first_five.md)  
 5. Beitrag per Pull Request oder Kontakt an **bbi@scarabaeus1033.net**
+
+> 🧭 *For active builders, the OPEN_TASKS.md serves as the operational field map.*  
+> *Für aktive Builder ist die Datei OPEN_TASKS.md die operative Feldkarte.*
 
 ---
 
