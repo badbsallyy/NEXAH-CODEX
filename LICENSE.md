@@ -58,7 +58,7 @@ Commercial or institutional use of any part of this work — including, but not 
 requires **explicit written permission** from the author.
 
 For licensing or permission inquiries, please contact:
-👉 [bbi@scarabaeus1033.net](mailto:bbi@scarabaeus1033.net) 
+👉 [bbi@scarabaeus1033.net](mailto:bbi@scarabaeus1033.net)
 (Official project page: [https://scarabaeus1033.de](https://scarabaeus1033.de))
 
 ---
