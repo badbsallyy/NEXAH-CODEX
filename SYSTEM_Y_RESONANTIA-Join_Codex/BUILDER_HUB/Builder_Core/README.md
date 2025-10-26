@@ -32,7 +32,6 @@ from *structure → motion → calibration.*
 | :-- | :-- | :-- |
 | ⚙️ **ENGINE_DOCS** | Inner technical and symbolic documentation of the Engine. | [./engine_docs/README.md](./engine_docs/README.md) |
 | 👥 **BUILDER_HUB** | Collective communication layer for Builder initiatives. | [../](../) |
-| 🌐 **VISUALS** | Unified visual assets used across the Engine docs. | [../visuals/](../visuals/) |
 | 🧱 **CORE MANIFESTS** | Crew, open tasks, and institutional relations. | [../CREW_MANIFEST.md](../CREW_MANIFEST.md) |
 
 ---
