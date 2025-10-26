@@ -1,4 +1,22 @@
+---
+title: "SYSTEM Y – RESONANTIA · Join Codex"
+system: "NEXAH-CODEX"
+domain: "Communication · Collaboration · Creation"
+status: "Active · October 2025"
+license: "CC BY-NC-SA 4.0"
+---
+
+> Part of the **NEXAH-CODEX** architecture — a living research system connecting mathematics, physics, art and consciousness through resonance.  
+> **System Y – Resonantia** serves as the gateway between inner structure and outer communication.
+
+📘 **Learn more about the full Codex:**  
+→ [NEXAH-CODEX · Main README (Navigator 2.2)](https://github.com/Scarabaeus1033/NEXAH-CODEX/blob/main/README.md)
+
+---
+
 # ✴️ SYSTEM Y – RESONANTIA · Join Codex  
+### Communication · Collaboration · Creation  
+### Kommunikation · Kollaboration · Kreation# ✴️ SYSTEM Y – RESONANTIA · Join Codex  
 ### Communication · Collaboration · Creation  
 ### Kommunikation · Kollaboration · Kreation  
 
