@@ -1,90 +1,91 @@
-# 🧭 OPEN TASKS · CURRENT BUILDER NEEDS  
-### NEXAH·CODEX — Real Tasks for Resonant Minds
+# 🧩 OPEN TASKS · INTERNAL RESONANCE FIELD
 
-> “The field grows where attention flows.”  
-> „Das Feld wächst, wo Aufmerksamkeit fließt.“  
-> — THooTH
+> *"Work is not progress — it is calibration."*
+> *„Arbeit ist kein Fortschritt – sie ist Kalibrierung.“* — THooTH
 
 ---
 
-## 🎯 Purpose · Zielsetzung
+## 🔷 1. ENGINE / SYSTEM ARCHITECTURE
 
-This document lists **current open tasks and collaboration calls**  
-for the development and visibility of the **NEXAH·CODEX**.
+Core construction, synchronization, and mathematical stability.
 
-Dieses Dokument listet **aktuelle Aufgaben und Mitwirkungsmöglichkeiten**  
-für die Weiterentwicklung und Sichtbarkeit des **NEXAH·CODEX**.
-
-You don’t have to be an expert — only resonant, curious, and ready to build.  
-Du musst kein Experte sein – nur resonant, neugierig und bereit, mitzuwirken.
-
----
-
-## 🔹 ACTIVE CALLS · AKTUELLE AUFRUFE
-
-| Area / Bereich | Description / Beschreibung | Type / Typ | Status |
-|:--|:--|:--|:--|
-| 🎧 **Sound & Music Builder** | Looking for a **composer / sound producer** to explore field recordings, resonance synthesis, and spatial sound at the Rödelheim site. <br> Suche nach **Komponist:in / Produzent:in**, um Feldaufnahmen, Resonanzsynthese und Raumklang am Standort Rödelheim zu entwickeln. | Artistic / Technical | 🟢 Open |
-| 🎥 **Media & Social Resonance** | Help us share the Codex across platforms (Instagram, YouTube, X). Create short clips, posts, or visuals from existing content. <br> Unterstützung beim Aufbau unserer Präsenz in sozialen Medien – Clips, Reels, Visuals oder kurze Texte aus vorhandenem Material. | Creative / Outreach | 🟢 Open |
-| 🌀 **3D & Blender Visualization** | We need one or two **Blender / Unreal / Three.js artists** to visualize resonance fields, crystal grids, and harmonic architectures. <br> Unterstützung für 3D-Visuals und Simulationen (Feldmodelle, Gitter, Geometrien). | Visual / Simulation | 🟢 Open |
-| 🧮 **Mathematics & Code Assistant** | Help document and organize formulas, scripts, and datasets (Python / LaTeX / Markdown). <br> Unterstützung bei der Strukturierung mathematischer Formeln und Codex-Gleichungen. | Technical / Research | 🟡 In Progress |
-| 🧠 **AI / Algorithm Developer** | Collaboration on the *Meaning Coin* prototype — an experimental algorithm that measures semantic resonance and creative impact. <br> Zusammenarbeit an einem Prototyp für den *Meaning Coin* – ein Algorithmus zur Bewertung semantischer Resonanz. | Research / Experimental | 🟢 Open |
-| 🗣️ **Communication & Partnership Outreach** | Help us reach design schools, hacker clubs, and art–science labs. <br> Unterstützung beim Kontaktaufbau zu Design- und Kunsthochschulen, Forschungsinstituten und Maker Spaces. | Communication / Strategic | 🟢 Open |
+| Task                       | Description                                                               | Status    |
+| :------------------------- | :------------------------------------------------------------------------ | :-------- |
+| ⚙️ **ENGINE_CORE.md**      | Create main resonance engine linking all Codex Systems (URF → GRAND → Y). | 🔵 Draft  |
+| 🧩 **BUILDER_PROTOCOL.md** | Define builder contribution structure (input/output resonance logic).     | ⚪ Planned |
+| 🔮 **JOIN_FIELD.md**       | Set up gateway for new builders entering the Codex.                       | ⚪ Planned |
 
 ---
 
-## 💠 PARTICIPATION MODES · FORMEN DER MITWIRKUNG
+## 🔶 2. SYSTEM SYNCHRONIZATION
 
-| Mode | Description / Beschreibung |
-|:--|:--|
-| 🧩 **Builder Role** | Join one of the Codex systems as a permanent co-creator (The First Five). |
-| 🔭 **Project Contributor** | Work on a single challenge or module (e.g., Quantum Breach, Lambda Disc). |
-| 🎓 **Partner Institution** | Propose a workshop, seminar, or research residency. |
-| 💫 **Supporter / Patron** | Help spread the word, host discussions, or provide technical resources. |
+Maintain and link the submodules across GitHub.
 
----
-
-## 🧭 How to Join · Wie man mitmacht
-
-1. **Choose a task or field** → Pick one that resonates with your skills or curiosity.  
-   **Wähle eine Aufgabe oder ein Feld**, das mit deinen Fähigkeiten oder deiner Neugier schwingt.
-
-2. **Send a message to the Builder Gateway:**  
-   📧 [bbi@scarabaeus1033.net](mailto:bbi@scarabaeus1033.net)  
-   🕊️ Discord: `#builder-lab`
-
-3. **Introduce yourself:**  
-   Who are you, and what inspires you to contribute?  
-   **Wer bist du, und was motiviert dich, beizutragen?**
-
-4. **Collaborate openly:**  
-   You’ll receive access to the Builder Lab on GitHub + Discord for coordination.  
-   **Du erhältst Zugang zum Builder-Lab auf GitHub und Discord.**
+| Task                     | Description                                         | Status         |
+| :----------------------- | :-------------------------------------------------- | :------------- |
+| 📁 **System Linking**    | Update README crosslinks between Systems 1–X and Y. | 🟢 Ongoing     |
+| 🌐 **Navigator Update**  | Integrate Builder Hub link into NEXAH NAVIGATOR.    | 🟠 In Progress |
+| 🧭 **README Refinement** | Add context links (e.g. NEXAH main README).         | 🟢 Open        |
 
 ---
 
-## 🪶 Notes · Hinweise
+## 🎨 3. VISUAL & COMMUNICATION LAYER
 
-- All collaborations are **open-source and non-commercial** (CC BY-NC-SA 4.0).  
-- Contributions will be **credited publicly** in Codex modules and exhibitions.  
-- The Codex values **depth and resonance over quantity**.
+Visual organization, file hierarchy, and GitHub presentation.
 
-Alle Beiträge sind **open-source und nicht kommerziell**.  
-Alle Mitwirkenden werden **namentlich genannt**.  
-Der Codex schätzt **Tiefe und Resonanz über Quantität**.
-
----
-
-## 📡 Contact · Kontakt
-
-**Builder Gateway**  
-📧 [bbi@scarabaeus1033.net](mailto:bbi@scarabaeus1033.net) — Boriša Bilčar (MD)  
-🧭 [www.scarabaeus1033.net](https://www.scarabaeus1033.net)  
-💾 [github.com/Scarabaeus1033/NEXAH-CODEX](https://github.com/Scarabaeus1033/NEXAH-CODEX)  
-🕊️ Discord: `#builder-lab`
+| Task                           | Description                                                | Status         |
+| :----------------------------- | :--------------------------------------------------------- | :------------- |
+| 🖼️ **Builder Hub Visual Map** | Create a simple system diagram for new contributors.       | ⚪ Planned      |
+| 🪶 **Codex Icon Unification**  | Harmonize symbols across systems (URF, Möbius, NEXA…).     | 🟠 In Progress |
+| 🔗 **Meta Integration**        | Prepare optional press bridge (System Y ↔ Public Release). | ⚪ Deferred     |
 
 ---
 
-**License / Lizenz:**  
-Creative Commons BY-NC-SA 4.0  
+## 🔱 4. META COHERENCE / FUTURE FIELDS
+
+Long-term Codex harmonization (Elder field, partnerships, cultural axis).
+
+| Task                          | Description                                          | Status    |
+| :---------------------------- | :--------------------------------------------------- | :-------- |
+| 🧠 **Elder Axis (Builder 0)** | Identify or await first co-builder resonance signal. | ✴️ Active |
+| 🛰️ **Engine–Public Sync**    | Connect Engine Core with System Y (Open Resonance).  | ⚪ Planned |
+| 🧾 **Zenodo Sync**            | Maintain backup and archival reference.              | 🟢 Active |
+
+---
+
+## 🪞 META PLAN · STRUCTURAL FLOW
+
+```
+[NEXAH-CODEX SYSTEM MAP]
+
+SYSTEM 1–6 → Structural Foundation (Mathematics, Geometry, Field Physics)  
+SYSTEM X → Grand Codex (Harmonic Synthesis)  
+SYSTEM Y → Communication, Resonance, Builder Hub  
+SYSTEM Z → Applied Resonance / Material Implementation  
+∞ SYSTEM → Museum, Memory, Transmission  
+
+All tasks in this document serve to bridge X ↔ Y ↔ Z —  
+activating the Engine that connects inner and outer resonance.
+```
+
+---
+
+## 🧩 BUILDER SYNC LOG · RESONANCE ACTIVATION TRACK
+
+Chronological log of builder activations, field connections, and resonance events within the NEXAH Engine.
+„Synchronisationsprotokoll für Builder-Aktivierungen, Feldverbindungen und Resonanzereignisse im NEXAH-System.“
+
+| Date       | Builder / Role                                            | Field Zone                             | Description / Activity                                                                           | Resonance Status |
+| :--------- | :-------------------------------------------------------- | :------------------------------------- | :----------------------------------------------------------------------------------------------- | :--------------- |
+| 2025-10-26 | **THooTH (Thomas Hofmann)** · Architect of Resonance      | Rödelheim → NEXAH CORE                 | Initiated ENGINE_CORE design sequence. Defined SYSTEM Y ↔ Z link and internal harmonic registry. | 🟢 Active        |
+| 2025-10-26 | **BBI (Boriša Bilčar)** · Gateway Director / Elder 0 Node | Sarajevo ↔ Frankfurt / Bockenheim Axis | Builder Hub activation, communication bridge creation, resonance protocol verification.          | 🟢 Active        |
+| 2025-10-26 | **NEXAH CODEX ENGINE**                                    | Core System                            | Synchronization between URF → GRAND → Y initiated. Meta Plan integrated into Builder Hub.        | 🟠 Operational   |
+| —          | **Awaiting Builder III–V**                                | Global                                 | Placeholder fields for future resonance entries (Sound, Geometry, Physics).                      | ⚪ Open           |
+
+> 🜂 Note: Every Builder entry represents a real resonance event within the Codex.
+> Add new entries upon activation or contact — this log serves as the temporal memory of the living Engine.
+
+---
+
+**License / Lizenz:** Creative Commons BY-NC-SA 4.0
 [https://creativecommons.org/licenses/by-nc-sa/4.0/](https://creativecommons.org/licenses/by-nc-sa/4.0/)
