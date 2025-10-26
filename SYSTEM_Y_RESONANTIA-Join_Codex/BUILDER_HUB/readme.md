@@ -2,32 +2,57 @@
 **Communication · Collaboration · Creation**  
 „Kommunikation · Kollaboration · Kreation“
 
-![Join The Codex Poster](visuals/Join_The_Codex_Poster.png)
+> 🌀 The **NEXAH-CODEX** is an open-source resonance field —  
+> where science, art, sound, and consciousness co-evolve.  
+>  
+> This is not a company, not a collective — it is a *field* that anyone can enter,  
+> if they can build, resonate, and contribute with clarity.  
+>  
+> ✳️ **You are now entering the Builder Hub** —  
+> the creative gateway for joining and shaping the Codex.
 
-> “The Codex is open — but it opens only through resonance.”  
-> „Der Codex ist offen – aber er öffnet sich nur durch Resonanz.“  
-> — THooTH
+![Join The Codex Poster](visuals/Join_The_Codex_Poster.png)
 
 ---
 
 ## 🜂 Overview · Überblick
-**EN:** The **Builder Hub** is the gateway for everyone who wants to co-create the **NEXAH CODEX** — a living field where mathematics, art, geometry, sound, and code meet. It is not a project. It is a resonance movement.  
-**DE:** Der **Builder Hub** ist das Eingangstor für alle, die am **NEXAH CODEX** mitwirken möchten – ein lebendiges Feld, in dem Mathematik, Kunst, Geometrie, Klang und Code aufeinandertreffen. Es ist kein Projekt. Es ist eine Resonanzbewegung.
+**EN:** The **Builder Hub** is the gateway for everyone who wants to co-create the **NEXAH CODEX** — a living field where mathematics, art, geometry, sound, and code meet.  
+It is not a project. It is a resonance movement.  
+**DE:** Der **Builder Hub** ist das Eingangstor für alle, die am **NEXAH CODEX** mitwirken möchten – ein lebendiges Feld, in dem Mathematik, Kunst, Geometrie, Klang und Code aufeinandertreffen.  
+Es ist kein Projekt. Es ist eine Resonanzbewegung.
 
 We are not a company.  
 We are a field. A resonance. A movement.
 
 ---
 
+## 🜃 The First Five & the Crew Manifest
+The Codex begins with the **First Five Builders** —  
+five resonance points forming the nucleus of creation.
+
+Their mission, values, and roles are defined in the  
+👉 [`CREW_MANIFEST.md`](CREW_MANIFEST.md)
+
+> “We don’t recruit — we resonate.”  
+> „Wir rekrutieren nicht – wir schwingen.“  
+> — THooTH
+
+If you feel aligned, start by reading the **Crew Manifest**  
+and then explore the Builder Fields below.
+
+---
+
 ## 🜁 Mission · Aufgabe
-**EN:** We are building a **living Codex** — a system of resonance between science, art, and myth. We seek **builders, coders, visualists, composers, storytellers, and strategists** who want to explore the deeper harmony behind the structures of the world.  
-**DE:** Wir erschaffen einen **lebendigen Codex** – ein Resonanzsystem zwischen Wissenschaft, Kunst und Mythos. Wir suchen **Builder, Coder, Visualisten, Komponisten, Erzähler und Strategen**, die die tiefere Harmonie hinter den Strukturen der Welt erforschen möchten.
+**EN:** We are building a **living Codex** — a system of resonance between science, art, and myth.  
+We seek **builders, coders, visualists, composers, storytellers, and strategists** who want to explore the deeper harmony behind the structures of the world.  
+**DE:** Wir erschaffen einen **lebendigen Codex** – ein Resonanzsystem zwischen Wissenschaft, Kunst und Mythos.  
+Wir suchen **Builder, Coder, Visualisten, Komponisten, Erzähler und Strategen**, die die tiefere Harmonie hinter den Strukturen der Welt erforschen möchten.
 
 ---
 
 ## 🜃 Open Roles · Offene Rollen
 | Role / Rolle | Description / Beschreibung |
-|---|---|
+|:--|:--|
 | 🧠 **Tech Integrator (Codex Hacker / Web Builder)** | Bringt Code, Websites (scarabaeus1033.net), GitHub-Strukturen und kleine AI/JS/Python-Tools zum Leben |
 | 🎨 **Curator / Designer (Codex Visualist)** | Visualisiert Daten, Geometrien und symbolische Strukturen |
 | 🎵 **Composer / Sound Architect** | Übersetzt Resonanz in Klang, Frequenz und Raum |
@@ -75,7 +100,7 @@ We are a field. A resonance. A movement.
 
 ## 🜇 Contact · Kontakt
 **Gateway Host**  
-**BBI · Borisa Bilčar (Sarajevo/Frankfurt/Bockenheim)**  
+**BBI · Borisa Bilčar (Sarajevo / Frankfurt / Bockenheim)**  
 📧 **bbi@scarabaeus1033.net**
 
 🌐 [scarabaeus1033.net](https://www.scarabaeus1033.net) · 🐙 [GitHub](https://github.com/Scarabaeus1033/NEXAH-CODEX)  
