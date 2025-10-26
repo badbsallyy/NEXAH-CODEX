@@ -5,7 +5,7 @@
 
 ---
 
-![Resonance Engine Visual](visuals/NEXAH_BUILDER_ENGINE_GATE_v1.png)
+![Bunny Bug Visual](visuals/BunnyBugsLastdraft.png)
 
 **Welcome, Builder.**
 This is the **inner workspace** of the NEXAH·CODEX —
@@ -113,9 +113,6 @@ activating the Engine that connects inner and outer resonance.
 
 ## 🧩 BUILDER SYNC LOG · RESONANCE ACTIVATION TRACK
 
-Chronological log of builder activations, field connections, and resonance events within the NEXAH Engine.
-„Synchronisationsprotokoll für Builder-Aktivitäten, Feldverbindungen und Resonanzereignisse im NEXAH-System.“
-
 | Date       | Builder / Role                                            | Field Zone                             | Description / Activity                                                                           | Resonance Status |
 | :--------- | :-------------------------------------------------------- | :------------------------------------- | :----------------------------------------------------------------------------------------------- | :--------------- |
 | 2025-10-26 | **THooTH (Thomas Hofmann)** · Architect of Resonance      | Rödelheim → NEXAH CORE                 | Initiated ENGINE_CORE design sequence. Defined SYSTEM Y ↔ Z link and internal harmonic registry. | 🟢 Active        |
@@ -123,8 +120,12 @@ Chronological log of builder activations, field connections, and resonance event
 | 2025-10-26 | **NEXAH CODEX ENGINE**                                    | Core System                            | Synchronization between URF → GRAND → Y initiated. Meta Plan integrated into Builder Hub.        | 🟠 Operational   |
 | —          | **Awaiting Builder III–V**                                | Global                                 | Placeholder fields for future resonance entries (Sound, Geometry, Physics).                      | ⚪ Open           |
 
-> 🅂 Note: Every Builder entry represents a real resonance event within the Codex.
+> 🅂 Every Builder entry represents a real resonance event within the Codex.
 > Add new entries upon activation or contact — this log serves as the temporal memory of the living Engine.
+
+---
+
+![Cicada Call Visual](visuals/Cikada_Call.png)
 
 ---
 
