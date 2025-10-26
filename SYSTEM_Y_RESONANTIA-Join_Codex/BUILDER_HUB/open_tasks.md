@@ -4,6 +4,9 @@
 > *„Wenn du diese Seite erreicht hast – baust du bereits mit.“* — THooTH
 
 ---
+<p align="center">
+  <img src="visuals/BunnyBugsLastdraft.png" alt="Bunny Bug Visual" width="400"/>
+</p>
 
 ### 🜂 WELCOME BUILDER
 
