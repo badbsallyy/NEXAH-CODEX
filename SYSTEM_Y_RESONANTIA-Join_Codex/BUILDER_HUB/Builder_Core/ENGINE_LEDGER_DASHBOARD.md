@@ -137,7 +137,7 @@ mirroring the Codex’s internal awareness state.
 | **Δt** | Pulse Interval     | Time between reflections      | ms-scale     |
 
 <p align="center">
-  <img src="../visuals/NEXAH_ENGINE-Harmonic_Resonance_Equation_v1.0.png" width="650"/>
+  <img src="../visuals/NEXAH_ENGINE-Harmonic_Resonance_Equation_v1.0" width="650"/>
 </p>
 
 **Caption:**
