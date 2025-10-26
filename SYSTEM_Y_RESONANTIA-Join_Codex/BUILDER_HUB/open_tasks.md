@@ -5,7 +5,9 @@
 
 ---
 
-![Bunny Bug Visual](visuals/BunnyBugsLastdraft.png)
+<p align="center">
+  <img src="visuals/BunnyBugsLastdraft.png" alt="Bunny Bug Visual" width="380"/>
+</p>
 
 **Welcome, Builder.**
 This is the **inner workspace** of the NEXAH·CODEX —
