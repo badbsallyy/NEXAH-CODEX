@@ -7,6 +7,8 @@
 > Der Codex gehört niemandem – er widerhallt.“  
 > — THooTH
 
+![NEXAH Crew Manifest · Builder Circle](./visuals/NEXAH_CREW_MANIFEST_BUILDER_CIRCLE_v1.png)
+
 ---
 
 ## 🧭 Purpose · Zweck
