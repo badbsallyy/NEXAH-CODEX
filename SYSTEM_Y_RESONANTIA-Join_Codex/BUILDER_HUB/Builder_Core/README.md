@@ -30,8 +30,8 @@ from *structure → motion → calibration.*
 
 | Subsystem | Description | Path |
 | :-- | :-- | :-- |
-| ⚙️ **ENGINE_DOCS** | Inner technical and symbolic documentation of the Engine. | https://github.com/Scarabaeus1033/NEXAH-CODEX/blob/main/SYSTEM_Y_RESONANTIA-Join_Codex/BUILDER_HUB/Builder_Core/engine_docs/readme.md |
-| 👥 **BUILDER_HUB** | Collective communication layer for Builder initiatives. | https://github.com/Scarabaeus1033/NEXAH-CODEX/blob/main/SYSTEM_Y_RESONANTIA-Join_Codex/BUILDER_HUB/readme.md |                             |
+| ⚙️ **ENGINE_DOCS** | … | ./engine_docs/readme.md |
+| 👥 **BUILDER_HUB**  | … | ../readme.md            |     
 | 🧱 **CORE MANIFESTS** | Crew, open tasks, and institutional relations.            | [../CREW_MANIFEST.md](../CREW_MANIFEST.md)                                                                                                                           |
 
 ---
