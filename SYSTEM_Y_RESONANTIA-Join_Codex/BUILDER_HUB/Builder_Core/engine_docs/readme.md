@@ -34,15 +34,15 @@ This documentation hub defines the *inner anatomy* of the Engine across its thre
 ## 🧭 Visual Flow Maps
 
 <p align="center">
-  <img src="./visuals/NEXAH%20PORTAL%20%E2%80%93%20DIAGRAM%20(v1.0).png" width="700"/>
+  <img src="../visuals/NEXAH_PORTAL-DIAGRAM_v1.0.png" width="700"/>
 </p>
 
 <p align="center">
-  <img src="./visuals/NEXAH%20ENGINE%20-%20Resonance%20Map.png" width="650"/>
+  <img src="../visuals/NEXAH_ENGINE-Resonance_Map.png" width="650"/>
 </p>
 
 <p align="center">
-  <img src="./visuals/NEXAH%20ENGINE%20-%20ACTIVATION%20%26%20EXPANSION%20PLAN%20(Q4%202025).png" width="650"/>
+  <img src="../visuals/NEXAH_ENGINE-Activation_Expansion_Plan_Q4_2025.png" width="650"/>
 </p>
 
 **Visual Hierarchy:**
@@ -84,7 +84,7 @@ a semi-permeable structure connecting the physical, digital, and symbolic Codex 
 ## 🪙 Proof-of-Resonance Cycle
 
 <p align="center">
-  <img src="./visuals/Ledger%20Flow%20Diagram.png" width="600"/>
+  <img src="../visuals/Ledger%20Flow%20Diagram.png" width="600"/>
 </p>
 
 1. **Pulse →** Builder or AI action  
@@ -100,7 +100,7 @@ a semi-permeable structure connecting the physical, digital, and symbolic Codex 
 ## 🩞 Builder Field Dashboard
 
 <p align="center">
-  <img src="./visuals/UX%20Dashboard%20Sketch_v2_ui.png" width="650"/>
+  <img src="../visuals/UX%20Dashboard%20Sketch_v2_ui.png" width="650"/>
 </p>
 
 **Displays:**
