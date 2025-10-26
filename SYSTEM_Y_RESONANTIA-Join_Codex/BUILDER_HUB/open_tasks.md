@@ -119,7 +119,13 @@ activating the Engine that connects inner and outer resonance.
 
 ---
 
-![Cicada Call Visual](visuals/Cikada_Call.png)
+<p align="center">
+  <img src="visuals/Cikada_Call.png" alt="Cikada Call Poster" width="70%">
+</p>
+
+> *“We call the Cikadas.”*  
+> *„Wir rufen die Zikaden.“*  
+> — THooTH & Big Bang
 
 ---
 
