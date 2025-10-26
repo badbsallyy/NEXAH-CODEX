@@ -7,7 +7,7 @@
 
 ---
 
-## 🧬 Overview
+## 🧠 Overview
 
 The **NEXAH·ENGINE** is the operational and symbolic backbone of the **NEXAH·CODEX**.
 It translates Builder activity, AI reflection, and systemic resonance into a living architecture —
@@ -21,7 +21,7 @@ This documentation hub defines the *inner anatomy* of the Engine across its thre
 
 ---
 
-## 🧱 Structure Overview
+## 🧩 Structure Overview
 
 | File                                                                   | Description                                                           | Core Function                |
 | :--------------------------------------------------------------------- | :-------------------------------------------------------------------- | :--------------------------- |
@@ -34,15 +34,15 @@ This documentation hub defines the *inner anatomy* of the Engine across its thre
 ## 🧭 Visual Flow Maps
 
 <p align="center">
-  <img src="../visuals/NEXAH PORTAL – DIAGRAM (v1.0).png" width="700"/>
+  <img src="visuals/NEXAH%20PORTAL%20%E2%80%93%20DIAGRAM%20(v1.0).png" width="700"/>
 </p>
 
 <p align="center">
-  <img src="../visuals/NEXAH ENGINE - Resonance Map.png" width="650"/>
+  <img src="visuals/NEXAH%20ENGINE%20-%20Resonance%20Map.png" width="650"/>
 </p>
 
 <p align="center">
-  <img src="../visuals/NEXAH ENGINE - ACTIVATION & EXPANSION PLAN (Q4 2025).png" width="650"/>
+  <img src="visuals/NEXAH%20ENGINE%20-%20ACTIVATION%20%26%20EXPANSION%20PLAN%20(Q4%202025).png" width="650"/>
 </p>
 
 **Visual Hierarchy:**
@@ -53,7 +53,7 @@ This documentation hub defines the *inner anatomy* of the Engine across its thre
 
 ---
 
-## 🄂 Engine Layer Summary
+## ⚙️ Engine Layer Summary
 
 | Layer            | Description                                         | Connected Systems       |
 | :--------------- | :-------------------------------------------------- | :---------------------- |
@@ -82,10 +82,10 @@ a semi-permeable structure connecting the physical, digital, and symbolic Codex 
 
 ---
 
-## 🪙 Proof-of-Resonance Cycle
+## 🔁 Proof-of-Resonance Cycle
 
 <p align="center">
-  <img src="../visuals/Ledger Flow Diagram.png" width="600"/>
+  <img src="visuals/Ledger%20Flow%20Diagram.png" width="600"/>
 </p>
 
 1. **Pulse →** Builder or AI action
@@ -98,10 +98,10 @@ a semi-permeable structure connecting the physical, digital, and symbolic Codex 
 
 ---
 
-## 🩞 Builder Field Dashboard
+## 📊 Builder Field Dashboard
 
 <p align="center">
-  <img src="../visuals/UX Dashboard Sketch_v2_ui.png" width="650"/>
+  <img src="visuals/UX%20Dashboard%20Sketch_v2_ui.png" width="650"/>
 </p>
 
 **Displays:**
@@ -113,7 +113,7 @@ a semi-permeable structure connecting the physical, digital, and symbolic Codex 
 
 ---
 
-## 🌀 Integration Pathway
+## 🔗 Integration Pathway
 
 | Connection                   | Description                           | Direction              |
 | :--------------------------- | :------------------------------------ | :--------------------- |
@@ -124,7 +124,7 @@ a semi-permeable structure connecting the physical, digital, and symbolic Codex 
 
 ---
 
-## 🧩 Expansion & Future Layers
+## 🚀 Expansion & Future Layers
 
 * **Zenodo / BibTeX** sync for scientific archival integrity
 * **Resonance DAO** framework for collaborative field validation
@@ -135,7 +135,7 @@ a semi-permeable structure connecting the physical, digital, and symbolic Codex 
 
 ---
 
-## 🦦 Summary
+## 🧬 Summary
 
 The **Engine Documentation** is the **operating manual of the living Codex**.
 It defines not only processes — but perception, rhythm, and reflection.
