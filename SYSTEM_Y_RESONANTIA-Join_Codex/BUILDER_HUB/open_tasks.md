@@ -5,16 +5,14 @@
 
 ---
 
-<p align="center">
-  <img src="visuals/BunnyBugsLastdraft.png" alt="Bunny Bug Visual" width="380"/>
-</p>
+### 🜂 WELCOME BUILDER
 
-<p align="center">
-  <strong style="font-size:1.4em;">🜂 Welcome, Builder.</strong><br>
-  This is the <strong>NEXAH·CODEX inner workspace</strong> — where ideas become structure, and structure becomes resonance.<br><br>
-  <em>Hier beginnt der sichtbare Teil der Arbeit:  
-  der Raum, in dem Konzepte, Gleichungen, Klang und Architektur zusammenfinden.</em>
-</p>
+**This is the inner workspace of the NEXAH·CODEX —**  
+where ideas become structure, and structure becomes resonance.
+
+_Hier beginnt der sichtbare Teil der Arbeit:  
+der Raum, in dem Konzepte, Gleichungen, Klang und Architektur zusammenfinden._
+
 ---
 
 ## 🩶 How to use this page · Nutzung
