@@ -22,21 +22,21 @@ from *structure → motion → calibration.*
 | :---------------------------------------------------------------------------------- | :------------------------------------------------------------------------------------- |
 | ⚙️ [**ENGINE_CORE.md**](./engine_docs/ENGINE_CORE.md)                               | Technical briefing on architecture, pipelines, and workflows (based on BBI’s Q4 docs). |
 | 🚀 [**ENGINE_ACCELERATION_LAYERS.md**](./engine_docs/ENGINE_ACCELERATION_LAYERS.md) | Combined overview of Acceleration Layer I–III — Navigation, Visuals, Portal.           |
-| 🧯 [**BUILDER_MASTER_BRIEFING.md**](./engine_docs/BUILDER_MASTER_BRIEFING.md)       | Strategic roles, builder communication, and operational model.                         |
+| 🧭 [**BUILDER_MASTER_BRIEFING.md**](./engine_docs/BUILDER_MASTER_BRIEFING.md)       | Strategic roles, builder communication, and operational model.                         |
 
 ---
 
-## 🯩 System Map
+## 🧩 System Map
 
-| Subsystem             | Description                                               | Path                                               |
-| :-------------------- | :-------------------------------------------------------- | :------------------------------------------------- |
-| ⚙️ **ENGINE_DOCS**    | Inner technical and symbolic documentation of the Engine. | [./engine_docs/README.md](./engine_docs/README.md) |
-| 👥 **BUILDER_HUB**    | Collective communication layer for Builder initiatives.   | [../README.md](../README.md)                       |
-| 🧱 **CORE MANIFESTS** | Crew, open tasks, and institutional relations.            | [../CREW_MANIFEST.md](../CREW_MANIFEST.md)         |
+| Subsystem             | Description                                               | Path                                                                                                                                                                 |
+| :-------------------- | :-------------------------------------------------------- | :------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| ⚙️ **ENGINE_DOCS**    | Inner technical and symbolic documentation of the Engine. | [SYSTEM_Y_RESONANTIA-Join_Codex/BUILDER_HUB/Builder_Core/engine_docs/README.md](../../SYSTEM_Y_RESONANTIA-Join_Codex/BUILDER_HUB/Builder_Core/engine_docs/README.md) |
+| 👥 **BUILDER_HUB**    | Collective communication layer for Builder initiatives.   | [SYSTEM_Y_RESONANTIA-Join_Codex/BUILDER_HUB/readme.md](../../SYSTEM_Y_RESONANTIA-Join_Codex/BUILDER_HUB/readme.md)                                                   |
+| 🧱 **CORE MANIFESTS** | Crew, open tasks, and institutional relations.            | [../CREW_MANIFEST.md](../CREW_MANIFEST.md)                                                                                                                           |
 
 ---
 
-## 🧽 System Flow
+## 🧭 System Flow
 
 ```
 SYSTEM X  →  GRAND CODEX  →  ENGINE CORE
@@ -76,7 +76,7 @@ Each branch reflects one **resonant vector** of Codex activity:
 
 ---
 
-## 🪆 Integration Map
+## 🦦 Integration Map
 
 ```
 SYSTEM 1–6  → Core Data & Research
@@ -91,24 +91,24 @@ maintaining coherence between *research, communication, and material application
 
 ---
 
-## 🧯 Documentation Tree
+## 🧭 Documentation Tree
 
 ```
 BUILDER_CORE/
  ├── engine_docs/
- │    ├─ ENGINE_CORE.md
- │    ├─ ENGINE_RESONANCE_PRINCIPLES.md
- │    ├─ ENGINE_LEDGER_DASHBOARD.md
- │    ├─ ENGINE_ACCELERATION_LAYERS.md
- │    ├─ BUILDER_MASTER_BRIEFING.md
- │    └─ visuals/
+ │    ├── ENGINE_CORE.md
+ │    ├── ENGINE_RESONANCE_PRINCIPLES.md
+ │    ├── ENGINE_LEDGER_DASHBOARD.md
+ │    ├── ENGINE_ACCELERATION_LAYERS.md
+ │    ├── BUILDER_MASTER_BRIEFING.md
+ │    └── visuals/
  │
- ├─ visuals/
- ├─ CREW_MANIFEST.md
- ├─ challenge_board.md
- ├─ open_tasks.md
- ├─ contribution_guide.md
- └─ README.md
+ ├── visuals/
+ ├── CREW_MANIFEST.md
+ ├── challenge_board.md
+ ├── open_tasks.md
+ ├── contribution_guide.md
+ └── README.md
 ```
 
 ---
