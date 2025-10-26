@@ -12,10 +12,6 @@ where ideas become structure, and structure becomes resonance.
 _Hier beginnt der sichtbare Teil der Arbeit:  
 der Raum, in dem Konzepte, Gleichungen, Klang und Architektur zusammenfinden._
 
-<p align="center">
-  <img src="visuals/BunnyBugsLastdraft.png" alt="Bunny Bug Visual" width="400"/>
-</p>
-
 ---
 
 ## 🩶 How to use this page · Nutzung
