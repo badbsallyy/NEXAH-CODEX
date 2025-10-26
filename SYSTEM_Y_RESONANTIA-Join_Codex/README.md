@@ -6,17 +6,16 @@ status: "Active · October 2025"
 license: "CC BY-NC-SA 4.0"
 ---
 
-> Part of the **NEXAH-CODEX** architecture — a living research system connecting mathematics, physics, art and consciousness through resonance.  
-> **System Y – Resonantia** serves as the gateway between inner structure and outer communication.
+> Part of the **NEXAH-CODEX** architecture — a living research framework connecting mathematics, physics, art, and consciousness through resonance.  
+> **System Y – Resonantia** serves as the bridge between inner structure and outer communication —  
+> linking research, dialogue, and the human field of coherence.
 
-📘 **Learn more about the full Codex:**  
+📘 **Learn more about the full system:**  
 → [NEXAH-CODEX · Main README (Navigator 2.2)](https://github.com/Scarabaeus1033/NEXAH-CODEX/blob/main/README.md)
 
 ---
 
 # ✴️ SYSTEM Y – RESONANTIA · Join Codex  
-### Communication · Collaboration · Creation  
-### Kommunikation · Kollaboration · Kreation# ✴️ SYSTEM Y – RESONANTIA · Join Codex  
 ### Communication · Collaboration · Creation  
 ### Kommunikation · Kollaboration · Kreation  
 
@@ -92,7 +91,7 @@ Jede Nachricht, jedes Bild, jedes Modul ist Teil eines **lebendigen Netzwerks**.
 ## 📡 Contact · Kontakt  
 
 **Scarabæus1033 / Open Resonance Initiative**  
-**Managing Director:** *Boriša Bilčar (Big Bang)*  
+**Gateway Host:** *Boriša Bilčar (Big Bang)*  
 📧 [bbi@scarabaeus1033.net](mailto:bbi@scarabaeus1033.net)  
 🌐 [scarabaeus1033.net](https://www.scarabaeus1033.net)  
 💾 [GitHub – NEXAH-CODEX](https://github.com/Scarabaeus1033/NEXAH-CODEX)  
