@@ -38,7 +38,14 @@ ein kleines Feld, in dem Wissenschaft, Kunst und Vorstellungskraft zusammenkomme
    → Dein Beitrag wird dem Codex-Archiv hinzugefügt und mit deinem Namen verknüpft.  
 
 ---
-
+> 🜂 **Note:** The following challenges represent *active resonance fields*,  
+> waiting for builder interaction. Each task is a symbolic placeholder —  
+> ready to be activated when a new Builder joins the Codex.  
+>  
+> 🜂 **Hinweis:** Die folgenden Challenges sind *aktive Resonanzfelder*,  
+> die auf Builder-Interaktion warten. Jede Aufgabe ist ein symbolischer Platzhalter –  
+> bereit, aktiviert zu werden, sobald ein neuer Builder in den Codex eintritt.
+> 
 ## 🔹 CURRENT CHALLENGES · AKTUELLE AUFGABEN
 
 | Challenge | Type / Typ | Description / Beschreibung | Status |
