@@ -16,7 +16,6 @@ der Raum, in dem Konzepte, Gleichungen, Klang und Architektur zusammenfinden._
   <img src="visuals/BunnyBugsLastdraft.png" alt="Bunny Bug Visual" width="400"/>
 </p>
 ---
-
 ## 🩶 How to use this page · Nutzung
 
 **EN:** Each task here represents a resonance point — not a deadline.
