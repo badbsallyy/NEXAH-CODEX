@@ -46,7 +46,7 @@ Even logic is folding in on itself.
 What if we could feel before we think?  
 What if we could learn with the whole body?  
 What if we could remember what was never written?
-🌍
+
 
 ---
 
