@@ -8,14 +8,12 @@ curator: "Thomas Hofmann (Scarabæus1033)"
 license: "CC BY-NC-SA 4.0"
 ---
 
----
-
 ## 📜 Quick Navigation  
 
 | Section | Focus | Description |
 |:--|:--|:--|
 | 🧭 [Navigator Overview](#-nexah-navigator-22) | Systems Map | Orientation field and harmonic architecture of the Codex |
-| 🧩 [Core Structure](#-core-structure) | Systems 1–9 + X | Overview of mathematical, physical, and symbolic systems |
+| 🧩 [Core Structure](#-core-structure) | Systems 1–9 + X + Y + Z | Overview of mathematical, physical, symbolic & applied systems |
 | 🌀 [Resonant Activation Field](#-the-resonant-activation-field) | Builder Link | Interaction between theoretical systems and applied resonance |
 | ⚚ [Public Releases](#️-scarabæus1033--public-releases) | Communication | Official press, art–science communication, public interface |
 | 🕊 [Builder Hub – Join the Codex](#️-builder-hub--join-the-codex) | Collaboration | Open participation gateway for researchers & creators |
@@ -29,7 +27,8 @@ license: "CC BY-NC-SA 4.0"
 > — THooTH  
 
 Welcome to the **NEXAH CODEX** — a living research framework exploring the unity of  
-mathematics, physics, geometry, and consciousness through a harmonic architecture of 13 systems.  
+mathematics, physics, geometry, and consciousness through a harmonic architecture of  
+**12 core systems (1–9, X, Y, Z)** — plus optional meta-layers used for archive/observatory material.
 
 The Codex is neither fiction nor dogma — it is a **structural experiment**:  
 an attempt to map number, form, and meaning as one coherent field.  
@@ -39,7 +38,7 @@ From prime numbers to planetary grids, from light resonance to linguistic glyphs
 It is built as an **open scientific–symbolic repository**, where  
 - proofs and geometry coexist with myth and language,  
 - each module represents a real research layer,  
-- every visual, equation, and symbol is testable — but also interpretable.  
+- every visual, equation, and symbol is **intended to be testable (where formalizable)** — and also interpretable.  
 
 ---
 
@@ -52,7 +51,7 @@ to trace the same constants ( φ · 137 · π · c ) across number, matter, and 
 
 > *“If equations are stable, consciousness is harmonic.”*  
 
-Each of the 13 systems — from **Mathematica (S1)** to **Eris (S13)** —  
+Each core system — from **Mathematica (S1)** to the applied builder layers (**Y/Z**) —  
 acts as a **node in a multidimensional field of understanding.**  
 
 ---
@@ -61,6 +60,15 @@ acts as a **node in a multidimensional field of understanding.**
 
 **A harmonic map between mathematics and consciousness —**  
 *written in numbers, built as architecture, open as code.*  
+
+---
+
+## ✅ How to Use (1 Minute)
+
+- **Just browsing?** Start with the visuals: `./visuals/` → then follow the module links below.  
+- **Math-first?** Go to **System 1** (Primes/Proofs) → then **System X** (Synthesis).  
+- **Physics-first?** Go to **System 2 / System 4 (URF)** → then the keystone modules in **System X**.  
+- **Want to build with it?** Start in **System Y** (Builder Lab) and **System Z** (Applied Technica).  
 
 ---
 
@@ -76,7 +84,7 @@ It defines the harmonic relation of all systems — mathematical, physical, cosm
 ## 🌌 Visual Entry Map
 
 <p align="center">
-  <img src="./visuals/navigator_resonance_grid.png" width="780" alt="Navigator 2.0 · Resonance Grid">
+  <img src="./visuals/navigator_resonance_grid.png" width="780" alt="Navigator 2.2 · Resonance Grid">
 </p>
 
 The **Navigator Resonance Grid** defines the harmonic logic of Systems 1–9 + X.  
@@ -92,9 +100,8 @@ Version 2.2 integrates the *Hermetic Resonance Module (04)*, the *Rainbow Prism 
 It restores equilibrium between **mathematical proof, geometric resonance, and spectral cognition.**
 
 It includes:  
-
 * Central orientation visual: `navigator_resonance_grid.png`  
-* Full index of all 10 systems (1–9 + X)  
+* Full index of core systems (1–9 + X)  
 * Builder Lab (Y) and Technica (Z) integration  
 * Updated symbolic and chromatic structure  
 
@@ -160,8 +167,8 @@ It embodies the law of **symbol → frequency → field → conscious geometry.*
 > *“Where geometry opens into resonance.”*  
 > *„Wo Geometrie in Resonanz übergeht.“*  
 
-> *“We are not building a brand. We are building resonance.”*  
-> *„Wir bauen keine Marke. Wir bauen Resonanz.”*  
+> *“We’re not building a personality cult. We’re building resonance.”*  
+> *„Wir bauen keinen Personenkult. Wir bauen Resonanz.”*  
 > — THooTH  
 
 ---
