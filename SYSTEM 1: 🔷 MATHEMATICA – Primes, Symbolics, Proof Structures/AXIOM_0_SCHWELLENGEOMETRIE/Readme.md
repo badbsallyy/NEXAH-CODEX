@@ -37,9 +37,9 @@ Es **begrenzt ihn formal und explizit**.
 
 ## 🖼️ Das Referenz-Visual
 
-<p align="center">
-  <img src="./visuals/axiom_diagram.png" width="720" alt="AXIOM 0 – Schwellengeometrie · Basisdiagramm">
-</p>
+<img src="./visuals/axiom_geodesic_loop_vs_line.png"
+     width="720"
+     alt="Geodäte vs. Gerade · Übergang von Maß zu Struktur">
 
 **Kanonisches Referenzdiagramm** von AXIOM 0.  
 Es zeigt eine **Tri-Torus-Struktur (Genus 3)** als visuelle Entsprechung der Schwelle  
