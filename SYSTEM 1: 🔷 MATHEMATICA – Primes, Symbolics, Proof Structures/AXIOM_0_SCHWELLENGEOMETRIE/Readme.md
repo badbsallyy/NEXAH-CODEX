@@ -38,7 +38,7 @@ Es **begrenzt ihn formal und explizit**.
 ## 🖼️ Das Referenz-Visual
 
 <p align="center">
-  <img src="./visuals/AXIOM-0-Diagramm.png" width="720" alt="AXIOM 0 – Schwellengeometrie · Basisdiagramm">
+  <img src="./visuals/axiom0_diagram.png" width="720" alt="AXIOM 0 – Schwellengeometrie · Basisdiagramm">
 </p>
 
 **Kanonisches Referenzdiagramm** von AXIOM 0.  
@@ -119,7 +119,7 @@ Eine „Gerade“ ist:
 ## 🌈 Codex-Farblegende (kanonisch)
 
 <p align="center">
-  <img src="./visuals/AXIOM-0-Diagramm_Legende_als_overlay_v2.png" width="720" alt="AXIOM 0 – Farblegende (Overlay)">
+  <img src="./visuals/axiom0_diagram_overlay_v2.png" width="720" alt="AXIOM 0 – Farblegende (Overlay)">
 </p>
 
 ### 🟢 Grün / Türkis — *Local Linearity*
