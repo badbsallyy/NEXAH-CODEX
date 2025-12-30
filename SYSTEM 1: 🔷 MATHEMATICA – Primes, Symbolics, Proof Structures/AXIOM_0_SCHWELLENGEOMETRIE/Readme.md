@@ -162,16 +162,27 @@ werden **ersetzt**, nicht interpretiert.
 ## 📂 Modulstruktur
 
 AXIOM_0_SCHWELLENGEOMETRIE/
+
 ├── README.md
+
 ├── visual_gallery.md
+
 ├── axiom0_to_axiom_I_II_III.md
+
 ├── axiomIII_to_torus_mobius.md
+
 ├── axiom_0_bis_V_kurzfassung.md
+
 └── visuals/
+
 ├── AXIOM-0-Diagramm.png
+
 ├── axiom_layers_0_to_V.png
+
 ├── axiom0_geodesic_loop_vs_line.png
+
 ├── axiom_IV_V_orientation_flip.png
+
 └── AXIOM-0-Diagramm_Legende_als_overlay_v2.png
 
 ---
