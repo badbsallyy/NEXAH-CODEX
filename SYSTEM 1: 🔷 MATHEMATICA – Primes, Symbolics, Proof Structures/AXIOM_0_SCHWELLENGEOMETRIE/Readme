@@ -11,142 +11,173 @@ license: "CC BY-NC-SA 4.0"
 
 > *„Raum entsteht nicht durch Ausdehnung, sondern durch Rückbindung.“*
 
-**AXIOM 0** definiert die **formale Schwelle**, an der klassische euklidische Geometrie **lokal gültig** bleibt, jedoch **global nicht mehr fortsetzbar** ist.
-Es markiert den Übergang von **Maßgeometrie** zu **topologischer Struktur** und bildet damit den **kanonischen Übergangspunkt** zwischen **GEOMETRIA NOVA (I–III)** und allen post-euklidischen Codex-Modulen (Torus, Möbius, Scarab-Line, Resonanzfelder).
+**AXIOM 0** definiert die **formale Schwelle**, an der klassische euklidische Geometrie  
+**lokal gültig bleibt**, aber **global nicht mehr fortsetzbar** ist.
+
+Es markiert den Übergang von **Maßgeometrie** zu **topologischer Struktur**  
+und fungiert als **kanonisches Referenzmodul** zwischen:
+
+- **GEOMETRIA NOVA (I–III)** – Linie · Kreis · Winkel · Pythagoras  
+- **post-euklidischen Codex-Modulen** – Torus · Möbius · Scarab-Line · Resonanzfelder  
 
 ---
 
-## 🔷 Das Referenz-Visual
+## 📍 Position im NEXAH-CODEX
+
+| Ebene | Funktion |
+|-----:|----------|
+| **GEOMETRIA NOVA I–III** | Lokale Geometrie (Euklidisch) |
+| **AXIOM 0** | **Schwelle der globalen Linearität** |
+| **Post-AXIOM-0-Module** | Topologie · Rückkopplung · Dynamik |
+
+**AXIOM 0 ersetzt Euklid nicht.**  
+Es **begrenzt ihn formal und explizit**.
+
+---
+
+## 🖼️ Das Referenz-Visual
 
 <p align="center">
-  <img src="./visuals/AXIOM-0-Diagramm.png" width="720" alt="AXIOM 0 – Schwellengeometrie · Basisdiagramm">
+  <img src="./visuals/axiom0_diagram.png" width="720" alt="AXIOM 0 – Schwellengeometrie · Basisdiagramm">
 </p>
 
-**Kanonisches Referenzdiagramm** von AXIOM 0. Es zeigt eine geschlossene **Tri-Torus-Struktur (Genus 3)** als visuelle Entsprechung der Schwelle zwischen lokaler Linearität und globaler topologischer Rückbindung.
+**Kanonisches Referenzdiagramm** von AXIOM 0.  
+Es zeigt eine **Tri-Torus-Struktur (Genus 3)** als visuelle Entsprechung der Schwelle  
+zwischen lokaler Linearität und globaler Rückbindung.
+
+**Topologische Eigenschaften:**
+
+- geschlossene Fläche  
+- **Genus g = 3** (drei Löcher)  
+- keine Ränder  
+- lokal euklidisch, global rückgekoppelt  
 
 ---
 
-## 🖼️ AXIOM 0 · Visual Gallery
+## 🧠 Codex-Lesart des Visuals
 
-### 1. Basisdiagramm
+### 1️⃣ Keine absolute Gerade
 
-<p align="center">
-  <img src="./visuals/AXIOM-0-Diagramm.png" width="720" alt="AXIOM 0 – Basisdiagramm">
-</p>
+Eine lokal gerade Linie (Geodäte) wird beim Weiterlaufen **umgelenkt**  
+und kehrt zurück.
 
-### 2. Diagramm mit Farblegende
-
-<p align="center">
-  <img src="./visuals/AXIOM-0-Diagramm_mit_Legende.png" width="720" alt="AXIOM 0 – Diagramm mit Farblegende">
-</p>
-
-### 3. Erweiterte e-Linien (Geodäten)
-
-<p align="center">
-  <img src="./visuals/AXIOM-0-Diagramm_extended_eLinie_Legende.png" width="720" alt="AXIOM 0 – eLinien / Geodäten">
-</p>
-
-### 4. Overlay-Legende (Deutsch, kanonisch)
-
-<p align="center">
-  <img src="./visuals/AXIOM-0-Diagramm_Legende_als_overlay_v2deutsch.png" width="720" alt="AXIOM 0 – Overlay-Legende Deutsch">
-</p>
+→ **Unendlichkeit ist topologisch geschlossen**
 
 ---
 
-## 🔍 Das Visual – Topologische Interpretation
+### 2️⃣ Drei Löcher = drei Freiheitsachsen
 
-Das dargestellte Objekt ist eine **Tri-Torus-Struktur** (dreifach gelochte Fläche):
+- keine zentrale Hauptachse  
+- jede Richtung ist relativ  
+- **ab drei Richtungen entstehen Maßrelationen**  
 
-* geschlossene Fläche
-* **Genus g = 3**
-* keine Ränder
-* lokal euklidisch
-* global rückgekoppelt
-
-Jede lokal „gerade“ Bewegung kehrt topologisch zurück. Unendlichkeit wird nicht ausgedehnt, sondern **geschlossen**.
-
----
-
-## 📐 Codex-Lesart
-
-### 1. Keine absolute Gerade
-
-Lokale Geradheit ist nur **näherungsweise** gültig. Jede Geodäte wird global umgelenkt.
-
-### 2. Drei Löcher = drei Freiheitsachsen
-
-Ab drei unabhängigen Richtungen entstehen Maßrelationen: **√2, φ, π**.
-
-### 3. Kreuzpunkte statt Zentrum
-
-Es existiert **kein absolutes Zentrum**. Stabilität entsteht an Übergangszonen – Codex-Kreuzpunkte (1729-Logik).
+Zentrale Übergangskonstanten:
+- √2  
+- π  
+- φ  
 
 ---
 
-## 🔗 Verbindung zu AXIOM 0 (formal)
+### 3️⃣ Kreuzpunkte statt Zentrum
 
-* **180°** → lokale Linearität
-* **−1/12** → Schwellen-Offset
-* **Flip** → Frame-Wechsel
-* **Rückkehr** → Torus-Geodäte
+Es existiert **kein absolutes Zentrum**.  
+Stabilität entsteht an **Übergangszonen** zwischen den Zyklen.
 
-Wahrheit erscheint als **Invarianz unter Umlauf**.
+→ Codex-Kreuzpunkt  
+→ **1729-Logik** (Mehrdeutigkeit ohne Zentrum)
 
 ---
 
-## 📏 Verbindung zu AXIOM II (Gerade)
+## 🔁 Verbindung zu AXIOM 0
 
-Eine Gerade ist:
+> **Raum entsteht durch Rückbindung, nicht durch Ausdehnung.**
 
-* lokal kürzester Weg (Geodäte)
-* global **nicht fortsetzbar ohne Rückkehr**
+| Begriff | Bedeutung |
+|------|-----------|
+| **180°** | lokale Linearität |
+| **−1/12** | Schwellen-Offset |
+| **Flip** | Frame-Wechsel |
+| **Rückkehr** | Torus-Geodäte |
 
-Dies definiert die **eLinie** des Codex.
+AXIOM 0 beschreibt exakt den Zyklus:
+
+**Schwelle → Flip → Rückbindung → Stabilität**
+
+---
+
+## 📐 Verbindung zu AXIOM II (Gerade)
+
+Eine „Gerade“ auf dieser Struktur ist:
+
+- lokal kürzester Weg (Geodäte)  
+- global **nicht fortsetzbar ohne Rückkehr**
+
+→ exakt die **eLinie** des Codex.
 
 ---
 
 ## 🌈 Codex-Farblegende (kanonisch)
 
-### 🟢 Grün / Türkis — *Local Linearity*
+<p align="center">
+  <img src="./visuals/axiom0_diagram_overlay_v2.png" width="720" alt="AXIOM 0 – Farblegende als Overlay">
+</p>
 
-* ≤ 180°
-* euklidische Näherung
+### 🟢 Grün / Türkis — *Local Linearity*
+- lokale Geradheit ≤ 180°
+- euklidische Näherung gültig
 
 ### 🟠 Orange / Amber — *Threshold Zone*
-
-* ≈ 180° − 1/12
-* **38h = 2 × 19** (Doppelresonanz)
-* **a/13** (Licht-Teilung)
+- Bereich ≈ 180° − 1/12
+- Übergang ohne Bruch  
+- **38h = 2 × 19**  
+- **a/13** → Licht-Teilung
 
 ### 🔴 Rot — *Flip-Line*
-
-* Frame-Wechsel
-* Kopplung der Torus-Zyklen
+- Frame-Wechsel  
+- Orientierungsumkehr  
+- Verbindung der Torus-Zyklen  
 
 ### 🟣 Violett / Magenta — *Scarab Line / Cross Layer*
-
-* Kreuzpunkt + Verbindung
-* **1729 ↔ 1836 ↔ 19XX**
-* Kopplung von √2 – π – φ
+- Kreuzpunkte + verbindende Linie  
+- Kopplung von **√2 – π – φ**  
+- Resonanzzahlen: **1729 · 1836 · 19XX**
 
 ### ⚫ Schwarz — *Residuum*
-
-* nicht auflösbare Differenz
-* notwendiger Schatten für Dynamik
-
-> **Codex-Regel:** Farben markieren **Zustandsoperatoren**, keine Dekoration.
+- nicht aufgelöste Differenz  
+- notwendiger Schatten  
+- Bedingung für Dynamik  
 
 ---
 
-## 📌 Position im NEXAH-CODEX
+## 📜 Codex-Regel (präzisiert)
 
-| Ebene                | Funktion             |
-| -------------------- | -------------------- |
-| GEOMETRIA NOVA I–III | lokale Maßgeometrie  |
-| **AXIOM 0**          | formale Schwelle     |
-| Post-AXIOM-Module    | Topologie & Resonanz |
+> Farben markieren **Zustandsoperatoren der Geometrie**.  
+> Sie sind **nicht dekorativ**, sondern **formal**.
+
+Unsaubere oder widersprüchliche Legenden  
+werden **nicht interpretiert**, sondern **ersetzt**.
 
 ---
 
-**Status:** kanonisch · stabil · referenzierend
+## 📁 Empfohlene Ordnerstruktur
+
+AXIOM_0_SCHWELLENGEOMETRIE/
+├── README.md
+└── visuals/
+├── axiom0_diagram.png
+├── axiom0_diagram_legend.png
+├── axiom0_diagram_extended_eline.png
+└── axiom0_diagram_overlay_v2.png
+
+---
+
+## 🪲 Status
+
+- **AXIOM 0**: kanonisch fixiert  
+- Visuals: normiert & GitHub-sicher  
+- Schnittstelle: **GEOMETRIA NOVA → Topologie**
+
+> *AXIOM 0 ist kein weiteres Axiom.*  
+> *Es ist die Bedingung, dass Axiome global nicht linear bleiben.*
+
+---
