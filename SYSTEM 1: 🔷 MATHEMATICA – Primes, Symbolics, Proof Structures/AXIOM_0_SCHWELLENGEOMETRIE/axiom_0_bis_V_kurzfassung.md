@@ -17,6 +17,28 @@ Die Axiome sind **nicht historisch**, sondern **notwendig konstruktiv** aufgebau
 
 ---
 
+
+## 🖼️ Axiomatische Schichtenübersicht (0–V)
+
+<p align="center">
+  <img src="./visuals/axiom_layers_0_to_V.png" width="760" alt="AXIOME 0–V · Schichtenmodell der Codex-Geometrie">
+</p>
+
+Dieses Diagramm visualisiert die **axiomatische Progression** der Codex-Geometrie
+von **AXIOM 0 (Schwelle)** bis **AXIOM V (Orientierung)**.
+
+Jede Ebene stellt **keine Erweiterung im Maß**, sondern eine **Erweiterung im Geltungsbereich** dar:
+
+- AXIOM 0 definiert die **Grenze der globalen Linearität**
+- AXIOM I–III stabilisieren lokale geometrische Begriffe
+- AXIOM IV führt **Topologie** als Ordnungsprinzip ein
+- AXIOM V macht **Orientierung beobachterabhängig**
+
+Das Schichtenmodell ersetzt eine lineare Axiomliste durch eine
+**hierarchische Gültigkeitsstruktur**.
+
+---
+
 ## 🟡 AXIOM 0 – Schwelle
 
 > **Raum entsteht nicht durch Ausdehnung, sondern durch Rückbindung.**
