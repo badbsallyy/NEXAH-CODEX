@@ -25,8 +25,8 @@ und fungiert als **kanonisches Referenzmodul** zwischen:
 ## 📍 Position im NEXAH-CODEX
 
 | Ebene | Funktion |
-|-----:|----------|
-| **GEOMETRIA NOVA I–III** | Lokale Geometrie (Euklidisch) |
+|------:|----------|
+| **GEOMETRIA NOVA I–III** | Lokale Geometrie (euklidisch) |
 | **AXIOM 0** | **Schwelle der globalen Linearität** |
 | **Post-AXIOM-0-Module** | Topologie · Rückkopplung · Dynamik |
 
@@ -38,7 +38,7 @@ Es **begrenzt ihn formal und explizit**.
 ## 🖼️ Das Referenz-Visual
 
 <p align="center">
-  <img src="./visuals/axiom0_diagram.png" width="720" alt="AXIOM 0 – Schwellengeometrie · Basisdiagramm">
+  <img src="./visuals/AXIOM-0-Diagramm.png" width="720" alt="AXIOM 0 – Schwellengeometrie · Basisdiagramm">
 </p>
 
 **Kanonisches Referenzdiagramm** von AXIOM 0.  
@@ -69,7 +69,7 @@ und kehrt zurück.
 
 - keine zentrale Hauptachse  
 - jede Richtung ist relativ  
-- **ab drei Richtungen entstehen Maßrelationen**  
+- **ab drei Richtungen entstehen Maßrelationen**
 
 Zentrale Übergangskonstanten:
 - √2  
@@ -88,7 +88,7 @@ Stabilität entsteht an **Übergangszonen** zwischen den Zyklen.
 
 ---
 
-## 🔁 Verbindung zu AXIOM 0
+## 🔁 Formale Struktur von AXIOM 0
 
 > **Raum entsteht durch Rückbindung, nicht durch Ausdehnung.**
 
@@ -99,7 +99,7 @@ Stabilität entsteht an **Übergangszonen** zwischen den Zyklen.
 | **Flip** | Frame-Wechsel |
 | **Rückkehr** | Torus-Geodäte |
 
-AXIOM 0 beschreibt exakt den Zyklus:
+AXIOM 0 beschreibt den Zyklus:
 
 **Schwelle → Flip → Rückbindung → Stabilität**
 
@@ -107,27 +107,27 @@ AXIOM 0 beschreibt exakt den Zyklus:
 
 ## 📐 Verbindung zu AXIOM II (Gerade)
 
-Eine „Gerade“ auf dieser Struktur ist:
+Eine „Gerade“ ist:
 
 - lokal kürzester Weg (Geodäte)  
 - global **nicht fortsetzbar ohne Rückkehr**
 
-→ exakt die **eLinie** des Codex.
+→ Definition der **eLinie** im Codex.
 
 ---
 
 ## 🌈 Codex-Farblegende (kanonisch)
 
 <p align="center">
-  <img src="./visuals/axiom0_diagram_overlay_v2.png" width="720" alt="AXIOM 0 – Farblegende als Overlay">
+  <img src="./visuals/AXIOM-0-Diagramm_Legende_als_overlay_v2.png" width="720" alt="AXIOM 0 – Farblegende (Overlay)">
 </p>
 
 ### 🟢 Grün / Türkis — *Local Linearity*
 - lokale Geradheit ≤ 180°
-- euklidische Näherung gültig
+- euklidische Näherung
 
 ### 🟠 Orange / Amber — *Threshold Zone*
-- Bereich ≈ 180° − 1/12
+- Bereich ≈ 180° − 1/12  
 - Übergang ohne Bruch  
 - **38h = 2 × 19**  
 - **a/13** → Licht-Teilung
@@ -143,41 +143,52 @@ Eine „Gerade“ auf dieser Struktur ist:
 - Resonanzzahlen: **1729 · 1836 · 19XX**
 
 ### ⚫ Schwarz — *Residuum*
-- nicht aufgelöste Differenz  
+- nicht auflösbare Differenz  
 - notwendiger Schatten  
 - Bedingung für Dynamik  
 
 ---
 
-## 📜 Codex-Regel (präzisiert)
+## 📜 Codex-Regel
 
 > Farben markieren **Zustandsoperatoren der Geometrie**.  
-> Sie sind **nicht dekorativ**, sondern **formal**.
+> Sie sind **formal**, nicht dekorativ.
 
-Unsaubere oder widersprüchliche Legenden  
-werden **nicht interpretiert**, sondern **ersetzt**.
+Unklare oder widersprüchliche Legenden  
+werden **ersetzt**, nicht interpretiert.
 
 ---
 
-## 📁 Empfohlene Ordnerstruktur
+## 📂 Modulstruktur
 
 AXIOM_0_SCHWELLENGEOMETRIE/
 ├── README.md
+├── visual_gallery.md
+├── axiom0_to_axiom_I_II_III.md
+├── axiomIII_to_torus_mobius.md
+├── axiom_0_bis_V_kurzfassung.md
 └── visuals/
-├── axiom0_diagram.png
-├── axiom0_diagram_legend.png
-├── axiom0_diagram_extended_eline.png
-└── axiom0_diagram_overlay_v2.png
+├── AXIOM-0-Diagramm.png
+├── axiom_layers_0_to_V.png
+├── axiom0_geodesic_loop_vs_line.png
+├── axiom_IV_V_orientation_flip.png
+└── AXIOM-0-Diagramm_Legende_als_overlay_v2.png
+
+---
+
+## 🔗 Weiterführung
+
+- → **visual_gallery.md** – vollständige Visualübersicht  
+- → **SYSTEM 1 – MATHEMATICA (README)**  
+- → **SYSTEM 2 – PHYSICA** *(Übergang: Topologie → Feld)*
 
 ---
 
 ## 🪲 Status
 
-- **AXIOM 0**: kanonisch fixiert  
-- Visuals: normiert & GitHub-sicher  
-- Schnittstelle: **GEOMETRIA NOVA → Topologie**
+- **AXIOM 0:** kanonisch fixiert  
+- **Funktion:** formale Schwelle  
+- **Rolle:** Abschluss der euklidischen Geometrie im Codex  
 
 > *AXIOM 0 ist kein weiteres Axiom.*  
 > *Es ist die Bedingung, dass Axiome global nicht linear bleiben.*
-
----
