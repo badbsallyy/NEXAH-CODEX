@@ -105,7 +105,7 @@ but a **necessity**.
 
 ## 🖼️ Visual Reference (canonical)
 
-![Geodesic loop vs. straight line](./visuals/axiom0_geodesic_loop_vs_line.png)
+![Geodesic loop vs. straight line](./visual-gallery/axiom0_geodesic_loop_vs_line.png)
 
 **Reading guide:**
 
