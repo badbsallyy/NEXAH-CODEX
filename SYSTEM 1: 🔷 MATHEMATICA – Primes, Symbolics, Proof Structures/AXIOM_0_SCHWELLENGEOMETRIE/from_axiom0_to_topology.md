@@ -54,7 +54,9 @@ entstehen Eigenschaften, die **nicht mehr metrisch**, sondern **strukturell** si
 
 ## 🖼️ Übergangs-Visual (kanonisch) 
 
-![Geodäte vs. Gerade · Übergang von Maß zu Struktur](./visuals/axiom_geodesic_loop_vs_line.png)
+<img src="./visuals/axiom_geodesic_loop_vs_line.png"
+     width="720"
+     alt="Geodaete vs. Gerade · Übergang von Maß zu Struktur">
 
 ### Lesart des Visuals
 
