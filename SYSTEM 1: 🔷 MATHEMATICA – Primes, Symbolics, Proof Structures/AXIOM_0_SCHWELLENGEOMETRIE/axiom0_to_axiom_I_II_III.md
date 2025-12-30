@@ -106,3 +106,43 @@ Ein Kreis ist die Menge aller Punkte mit gleichem Abstand zu einem Zentrum.
 ---
 
 ## 🔁 Zusammenspiel der Axiome
+
+AXIOM 0
+↓ begrenzt
+AXIOM I   (Punkt – lokal)
+↓ verbindet
+AXIOM II  (eLinie – lokal gerade)
+↓ schließt
+AXIOM III (Kreis – Rückbindung)
+
+**Merksatz (Codex):**
+
+> Der Punkt markiert.  
+> Die Linie verbindet.  
+> Der Kreis stabilisiert.  
+> **AXIOM 0 begrenzt alles.**
+
+---
+
+## 📌 Was AXIOM 0 nicht tut
+
+- ❌ Es widerlegt Euklid nicht  
+- ❌ Es ersetzt klassische Axiome nicht  
+- ❌ Es behauptet keine neue Maßgeometrie  
+
+✅ Es definiert **den Gültigkeitsraum**, in dem Euklid sinnvoll ist.
+
+---
+
+## 🔗 Rückverweise
+
+- → [`README.md`](./README.md) – AXIOM 0 (Theorie & Schwelle)
+- → [`visual_gallery.md`](./visual_gallery.md) – Referenz-Visuals
+- → `GEOMETRIA NOVA I–III` – lokale Maßgeometrie
+- → Post-AXIOM-Module – Topologie & Resonanz
+
+---
+
+**Status:** kanonisch · stabil · referenzfähig
+
+
