@@ -1,97 +1,145 @@
 ---
-title: "AXIOM 0 – Visual Gallery"
+title: "AXIOM 0 · Visual Gallery"
 system: "NEXAH-CODEX · System 1: MATHEMATICA"
-domain: "Threshold Geometry · Topological Reference"
-status: "Kanonisch · Visual Referenz"
+domain: "Schwellengeometrie · Visuelle Referenzen"
+status: "Kanonisch · Referenz-Galerie"
 curator: "Thomas Hofmann (Scarabäus1033)"
 license: "CC BY-NC-SA 4.0"
 ---
 
-# 🖼️ AXIOM 0 – Visual Gallery
+# 🖼️ AXIOM 0 · Visual Gallery
 
-> *Diese Galerie dokumentiert das kanonische Bildmaterial zu **AXIOM 0 – Schwellengeometrie**.  
-Alle Visuals sind **formale Referenzen**, keine Illustrationen.*
+Diese Galerie sammelt **alle kanonischen Visuals** zu **AXIOM 0 – Schwellengeometrie**.  
+Sie dient als **visuelle Referenzbasis** für den Übergang von **euklidischer Maßgeometrie**
+zu **topologischer Rückbindung**.
 
----
-
-## 1️⃣ Basisdiagramm – Tri-Torus (Genus 3)
-
-<p align="center">
-  <img src="./visuals/axiom0_diagram.png" width="720" alt="AXIOM 0 – Basisdiagramm">
-</p>
-
-**Funktion:**  
-Kanonisches Referenzbild von AXIOM 0.  
-Darstellung einer geschlossenen **Tri-Torus-Struktur (Genus 3)** als formale Schwelle zwischen lokaler Linearität und globaler Rückbindung.
-
-**Eigenschaften:**
-- geschlossene Fläche  
-- drei Löcher  
-- keine Ränder  
-- lokal euklidisch, global topologisch  
+> **Hinweis:**  
+> Die Visuals sind **keine Illustrationen**, sondern **formale Diagramme**.  
+> Jedes Bild repräsentiert eine **strukturelle Aussage**.
 
 ---
 
-## 2️⃣ Diagramm mit Farblegende
+## 🔷 V0 · Referenzdiagramm (Tri-Torus)
 
-<p align="center">
-  <img src="./visuals/axiom0_diagram_legend.png" width="720" alt="AXIOM 0 – Diagramm mit Farblegende">
-</p>
+![AXIOM 0 – Referenzdiagramm](./visuals/axiom0_diagram.png)
 
-**Funktion:**  
-Zuordnung der geometrischen Zustandsbereiche:
-- lokale Linearität  
-- Schwellenzonen  
-- Flip-Linien  
-- Kreuzpunkte  
+**Bedeutung**
+- Geschlossene Fläche
+- **Genus 3 (Tri-Torus)**
+- Lokale Euklidizität
+- Globale Rückkopplung
 
-Dient als **erste visuelle Interpretationsebene**.
+→ **Visuelle Grundform von AXIOM 0**
 
 ---
 
-## 3️⃣ Erweiterte e-Linien (Geodäten)
+## 🌈 V1 · Diagramm mit Farblegende
 
-<p align="center">
-  <img src="./visuals/axiom0_diagram_extended_eline.png" width="720" alt="AXIOM 0 – Erweiterte e-Linien">
-</p>
+![AXIOM 0 – Farblegende](./visuals/axiom0_diagram_legend.png)
 
-**Funktion:**  
-Darstellung von **eLinien** (lokal kürzeste Wege),  
-die global nicht fortsetzbar sind, sondern topologisch zurückkehren.
+**Zweck**
+- Einführung der Codex-Farbcodierung
+- Trennung von Linearität, Schwelle, Flip und Kreuzpunkt
 
-→ Visuelle Definition der **Codex-Geraden**.
+→ Vorbereitung der Zustandsoperatoren
 
 ---
 
-## 4️⃣ Overlay-Legende (kanonisch, bereinigt)
+## 🧭 V2 · Overlay-Legende (kanonisch)
 
-<p align="center">
-  <img src="./visuals/axiom0_diagram_overlay_v2.png" width="720" alt="AXIOM 0 – Overlay-Legende">
-</p>
+![AXIOM 0 – Overlay-Legende](./visuals/axiom0_diagram_overlay_v2.png)
 
-**Funktion:**  
-Verbindliche, bereinigte Farblegende des Codex.
+**Kanonische Farblegende**
 
-**Status:**  
-Diese Overlay-Version **ersetzt alle früheren Legenden**  
-und ist **kanonisch gültig** für den gesamten NEXAH-CODEX.
+- 🟢 Local Linearity  
+- 🟠 Threshold Zone  
+- 🔴 Flip-Line  
+- 🟣 Scarab Line / Cross Layer  
+- ⚫ Residuum  
 
----
-
-## 📌 Hinweis zur Verwendung
-
-- Alle Visuals sind **Referenzbilder**
-- Skalierung, Farben und Struktur sind **inhaltlich relevant**
-- Keine Umfärbung, kein Cropping ohne Codex-Hinweis
+→ **Diese Version ersetzt alle früheren Legenden**
 
 ---
 
-## 🔗 Rückverweise
+## ➿ V3 · Erweiterte e-Linien (Geodäten)
 
-- → [`README.md`](./README.md) – AXIOM 0 Theorie & Definition  
-- → `GEOMETRIA NOVA I–III` – lokale Maßgeometrie  
-- → Post-AXIOM-Module – Torus, Möbius, Scarab-Line, Resonanzfelder  
+![AXIOM 0 – e-Linien](./visuals/axiom0_diagram_extended_eline.png)
+
+**Lesart**
+- Geodäten sind lokal gerade
+- global jedoch rückgeführt
+- keine unbegrenzte Fortsetzung
+
+→ **Definition der eLinie**
 
 ---
 
-**Status:** vollständig · kanonisch · stabil
+## 🔁 V4 · Übergangs-Visual (Maß → Struktur)
+
+![Geodäte vs. Gerade](./visuals/axiom0_geodesic_loop_vs_line.png)
+
+**Vergleich**
+
+| Klassisch | Nach AXIOM 0 |
+|---------|--------------|
+| Gerade Linie | Geodäte |
+| unbegrenzt | geschlossen |
+| Maß dominiert | Struktur dominiert |
+
+→ **Schlüsselvisual für den Übergang zur Topologie**
+
+---
+
+## 🧭 V5 · Orientierung & Flip (AXIOM IV–V)
+
+![Orientierungs-Flip](./visuals/axiom_IV_V_orientation_flip.png)
+
+**Aussage**
+- Orientierung ist nicht invariant
+- Umlauf kann Frame wechseln
+- Beobachterabhängigkeit entsteht
+
+→ Vorbereitung von Möbius- und Nicht-Orientierbarkeit
+
+---
+
+## 🧱 V6 · Axiom-Layer 0–V (Übersicht)
+
+![Axiom-Layer](./visuals/axiom_layers_0_to_V.png)
+
+**Struktur**
+- AXIOM 0 als Schwelle
+- Progression bis Orientierung
+- Fundament für Systemübergang
+
+→ **Brücke zwischen System 1 und System 2**
+
+---
+
+## 📌 Navigationshinweis
+
+Empfohlene Leserichtung:
+
+1. `README.md` – formale Definition von AXIOM 0  
+2. **Visual Gallery** (dieses Dokument)  
+3. `axiom_0_bis_V_kurzfassung.md`  
+4. Übergang: `from_axiom0_to_topology.md`  
+
+---
+
+## 🧭 Ausblick
+
+> **Nach AXIOM 0 ist Geometrie nicht mehr linear.**
+
+Die nächsten Module behandeln:
+- Torus
+- Möbius
+- Orientierung
+- Rückkopplung
+- Topologische Invarianzen
+
+→ **System 2: PHYSICA / TOPOLOGICA**
+
+---
+
+**Status:** vollständig · kanonisch · topologie-bereit
