@@ -1,0 +1,162 @@
+---
+title: "AXIOM 0 – Schwellengeometrie"
+system: "NEXAH-CODEX · System 1: MATHEMATICA"
+domain: "Geometric Foundations · Threshold Topology"
+status: "Kanonisch · Referenzmodul"
+curator: "Thomas Hofmann (Scarabäus1033)"
+license: "CC BY-NC-SA 4.0"
+---
+
+# 🔺 AXIOM 0 – Schwellengeometrie
+
+> *„Raum entsteht nicht durch Ausdehnung, sondern durch Rückbindung.“*
+
+**AXIOM 0** definiert die **formale Schwelle**, an der klassische euklidische Geometrie
+lokal gültig bleibt, jedoch **global nicht mehr fortsetzbar** ist.
+Es markiert den Übergang von **Maßgeometrie** zu **topologischer Struktur**.
+
+Dieses Axiom steht **zwischen**  
+**GEOMETRIA NOVA (Euklid / Maß)** und den **post-euklidischen Codex-Modulen**  
+(Torus, Möbius, Scarab-Line, Resonanzfelder).
+
+---
+
+## 🧭 Position im NEXAH-CODEX
+
+| Ebene | Funktion |
+|-----:|----------|
+| **GEOMETRIA NOVA I–III** | Lokale Geometrie (Linie, Kreis, Winkel, Pythagoras) |
+| **AXIOM 0** | **Schwelle**: Ende globaler Linearität |
+| **Post-AXIOM-0 Module** | Topologie, Rückkopplung, Dynamik |
+
+**AXIOM 0 ersetzt Euklid nicht.**  
+Es begrenzt ihn **formal und explizit**.
+
+---
+
+## 🔷 Das Referenz-Visual
+
+### Was ist dargestellt?
+
+Das zentrale Diagramm zeigt eine **Tri-Torus-Struktur**  
+(= geschlossene Fläche mit **Genus 3**, drei Durchgängen).
+
+**Formal-topologisch:**
+- Geschlossene Fläche
+- Keine Ränder
+- Genus g = 3
+- Lokale Euklidizität
+- Globale Rückkopplung
+
+Dieses Objekt ist die **kanonische visuelle Entsprechung von AXIOM 0**  [oai_citation:1‡Axiom 0 Schwellen Geometrie.pdf](sediment://file_0000000040f47246a30c4a553865e0cc).
+
+---
+
+## 📐 Zentrale Aussagen von AXIOM 0
+
+### 1. Keine absolute Gerade
+- Jede lokal gerade Linie (Geodäte) wird bei Fortsetzung **umgelenkt**
+- Global kehrt sie zurück
+- **Unendlichkeit wird topologisch geschlossen**
+
+### 2. Drei Löcher = drei Freiheitsachsen
+- Keine Hauptachse
+- Jede Richtung ist relativ
+- Ab drei Freiheitsrichtungen entstehen Maßrelationen:
+  **√2 · π · φ**
+
+### 3. Kreuzpunkte statt Zentrum
+- Kein absolutes Zentrum
+- Stabilität entsteht an **Übergangszonen**
+- Entspricht der **Codex-Kreuzpunkt-Logik (1729)**
+
+---
+
+## 🔁 Schwellenlogik
+
+| Begriff | Bedeutung |
+|------|----------|
+| **180°** | Maximale lokale Linearität |
+| **−1/12** | Schwellen-Offset |
+| **Flip** | Wechsel des lokalen Frames |
+| **Rückkehr** | Torus-Geodäte |
+
+Wahrheit ist hier **Invarianz unter Umlauf**, nicht lineare Fortsetzung.
+
+---
+
+## 📏 Verbindung zu AXIOM II (Gerade)
+
+Eine „Gerade“ ist:
+- lokal: kürzester Weg
+- global: **nicht fortsetzbar ohne Rückkehr**
+
+Diese Codex-Gerade wird als **eLinie** bezeichnet.
+
+---
+
+## 🎨 Codex-Farblegende (kanonisch)
+
+Farben sind **Operatoren**, keine Dekoration.
+
+### 🟢 Grün / Türkis — Local Linearity
+- ≤ 180°
+- lokal euklidisch gültig
+
+### 🟠 Orange / Amber — Threshold Zone
+- ≈ 180° − 1/12
+- Übergang, kein Bruch
+- **38h = 2 × 19**
+- **a/13 = Licht-Dezimierung**
+
+### 🔴 Rot — Flip-Line
+- Frame-Wechsel
+- Codex-Name: *Enki-Flip*
+- globale Orientierung kippt
+
+### 🟣 Violett / Magenta — Scarab Line / Cross Layer
+- Kreuzpunkt + verbindende Linie
+- koppelt **√2 · π · φ**
+- Zahlenachsen: **1729 · 1836 · 19XX**
+- kein Zentrum, sondern transversale Verbindung
+
+### ⚫ Schwarzer Rest — Residuum
+- nicht aufgelöste Differenz
+- notwendiger Informationsrest
+- Bedingung für Dynamik
+
+---
+
+## 🖼️ Visual Gallery · AXIOM 0
+
+Alle Visuals sind **Codex-konform** und quellenfrei.
+
+| Datei | Funktion |
+|-----|---------|
+| `AXIOM-0-Diagramm.png` | Basisdiagramm |
+| `AXIOM-0-Diagramm_mit_Legende.png` | Diagramm + Farblogik |
+| `AXIOM-0-Diagramm_extended_eLinie_Legende.png` | Geodäten (eLinien) |
+| `AXIOM-0-Diagramm_Legende_als_overlay.png` | Overlay-Legende |
+| `AXIOM-0-Diagramm_Legende_als_overlay_v2deutsch.png` | Kanonische deutsche Version |
+
+---
+
+## 🔗 Abgrenzung & Weiterführung
+
+- **GEOMETRIA NOVA** endet **vor AXIOM 0**
+- **Topologie-Module** beginnen **nach AXIOM 0**
+- **Dynamik (Loops, Elevator, Zeit)** ist **separat** zu behandeln
+
+AXIOM 0 ist **keine Theorie**, sondern eine **formale Grenze**.
+
+---
+
+## 🪲 Credits
+
+**Kurator:** Thomas Hofmann (Scarabäus1033)  
+**System:** NEXAH-CODEX · System 1 – MATHEMATICA  
+**Repository:** https://github.com/Scarabaeus1033/NEXAH-CODEX  
+**Lizenz:** CC BY-NC-SA 4.0
+
+> *„AXIOM 0 schließt die Linie,  
+damit Raum entstehen kann.“*
