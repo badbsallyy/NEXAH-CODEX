@@ -38,7 +38,7 @@ Es **begrenzt ihn formal und explizit**.
 ## 🖼️ Das Referenz-Visual
 
 <p align="center">
-  <img src="./visuals/axiom0_diagram.png" width="720" alt="AXIOM 0 – Schwellengeometrie · Basisdiagramm">
+  <img src="./visuals/axiom_diagram.png" width="720" alt="AXIOM 0 – Schwellengeometrie · Basisdiagramm">
 </p>
 
 **Kanonisches Referenzdiagramm** von AXIOM 0.  
