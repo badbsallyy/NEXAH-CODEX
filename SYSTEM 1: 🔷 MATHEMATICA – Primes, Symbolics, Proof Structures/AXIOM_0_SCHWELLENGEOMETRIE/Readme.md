@@ -37,7 +37,7 @@ Es **begrenzt ihn formal und explizit**.
 
 ## 🖼️ Das Referenz-Visual
 
-<img src="./visuals/axiom_geodesic_loop_vs_line.png"
+<img src="./visuals/axiom0_geodesic_loop_vs_line.png"
      width="720"
      alt="Geodäte vs. Gerade · Übergang von Maß zu Struktur">
 
