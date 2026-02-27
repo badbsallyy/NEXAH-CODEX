@@ -1,3 +1,24 @@
+# SYSTEM Y – RESONANTIA
+## Communication Layer of the Scarabæus Phase (Archived 2025)
+
+> ⚠️ This module belongs to the archived exploratory phase of the NEXAH-CODEX.
+
+SYSTEM Y documented the communication, collaboration and outreach efforts
+during the Scarabæus exploration period.
+
+It served as:
+
+- Public interface
+- Correspondence archive
+- Press and visual releases
+- Builder invitation layer
+
+As of 2025, SYSTEM Y is no longer active as a live collaboration gateway.
+
+The current Nexah direction continues separately in a structurally reduced framework.
+
+This module remains preserved as documentation of the communication phase.
+
 ---
 title: "SYSTEM Y – RESONANTIA · Join Codex"
 system: "NEXAH-CODEX"
