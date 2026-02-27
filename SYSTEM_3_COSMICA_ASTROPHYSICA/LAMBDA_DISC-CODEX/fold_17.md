@@ -1,5 +1,4 @@
 ---
-
 title: "Fold 17 – Lilith Counterrotation"
 category: "LAMBDA\_DISC-CODEX"
 system: "SYSTEM 3: COSMICA ASTROPHYSICA"
