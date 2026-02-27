@@ -13,7 +13,7 @@ This module links to the completed Riemann Hypothesis proof concept in the symbo
 The full module is hosted separately due to its foundational role in the prime lattice system.
 
 🧩 Core Link:  
-👉 [NEXA_RIEMANN_PROOF → github.com/Scarabaeus1033/NEXAH-CODEX/tree/main/.../NEXA_RIEMANN_PROOF](https://github.com/Scarabaeus1033/NEXAH-CODEX/tree/main/SYSTEM%201%3A%20%F0%9F%94%B7%20MATHEMATICA%20%E2%80%93%20Primes%2C%20Symbolics%2C%20Proof%20Structures/NEXA_RIEMANN_PROOF)
+👉 [NEXA_RIEMANN_PROOF → github.com/Scarabaeus1033/NEXAH-CODEX/tree/main/.../NEXA_RIEMANN_PROOF](../SYSTEM_1_MATHEMATICA/NEXA_RIEMANN_PROOF)
 
 ---
 

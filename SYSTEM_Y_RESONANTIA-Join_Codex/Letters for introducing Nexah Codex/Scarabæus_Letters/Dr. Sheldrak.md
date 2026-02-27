@@ -10,7 +10,7 @@ If you're curious, here are some portals into the Codex:
 
 NEXAH Navigator: https://github.com/Scarabaeus1033/NEXAH-CODEX#-nexah-navigator--structural-overview--reading-guide  
 NEXAH Project Site: https://www.scarabaeus1033.net  
-Codex Registry: https://github.com/Scarabaeus1033/NEXAH-CODEX/blob/main/NEXAH-CODEX%20MODULE%20REGISTRY.md  
+Codex Registry: ../NEXAH-CODEX%20MODULE%20REGISTRY.md  
 
 As a gesture of resonance, I’ve attached a few visual fields from the Codex:
 

@@ -190,7 +190,7 @@ Thus, the algebra is not just logic — it’s *linguistic resonance*.
 
 | ← Previous                                    | ↑ Parent                                  | Next →                                                                                                                                                     |
 | :-------------------------------------------- | :---------------------------------------- | :--------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [Geometria Nova](../Geometria_Nova/README.md) | [Hermetic Pythagoras Model](../README.md) | [System 2 – PHYSICA](../../SYSTEM%202%3A%20%F0%9F%97%86%20PHYSICA%20%E2%80%93%20Resonanzfelder,%20Quantenstruktur%20%26%20Symbolische%20Dynamik/README.md) |
+| [Geometria Nova](../Geometria_Nova/README.md) | [Hermetic Pythagoras Model](../README.md) | [System 2 – PHYSICA](../../SYSTEM_2_PHYSICA/README.md) |
 
 ---
 

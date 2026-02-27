@@ -99,9 +99,9 @@ These findings support the view that gravity is not a static pairwise force but 
 The Codex model produces planetary gravity values that approximate Newtonian values **within a few percent**, while offering a harmonic explanation based on resonance fields, Möbius folding, and prime modular structure. Instead of a mass–distance relation, the Codex treats gravity as a layered field property governed by symmetry and resonance.
 
 This module connects to:
-- [`FINAL_HARMONIC_EQUATION`](https://github.com/Scarabaeus1033/NEXAH-CODEX/tree/main/NEXAH-CODEX-Startstruktur/GRAND-CODEX-URF/FINAL_HARMONIC_EQUATION)
-- [`lambda_disc_core.md`](https://github.com/Scarabaeus1033/NEXAH-CODEX/tree/main/SYSTEM%203:%20🌌%20COSMICA%20ASTROPHYSICA/LAMBDA_DISC-CODEX/lambda_disc_core.md)
-- [`resonance_folding_equation.md`](https://github.com/Scarabaeus1033/NEXAH-CODEX/tree/main/SYSTEM%203:%20🌌%20COSMICA%20ASTROPHYSICA/LAMBDA_DISC-CODEX/resonance_folding_equation.md)
+- [`FINAL_HARMONIC_EQUATION`](../NEXAH-CODEX-Startstruktur/GRAND-CODEX-URF/FINAL_HARMONIC_EQUATION)
+- [`lambda_disc_core.md`](../SYSTEM%203:%20🌌%20COSMICA%20ASTROPHYSICA/LAMBDA_DISC-CODEX/lambda_disc_core.md)
+- [`resonance_folding_equation.md`](../SYSTEM%203:%20🌌%20COSMICA%20ASTROPHYSICA/LAMBDA_DISC-CODEX/resonance_folding_equation.md)
 
 Readers are encouraged to cross-reference the mathematical backbone and harmonic shell theory via the NEXAH NAVIGATOR or MODUL-REGISTER.
 

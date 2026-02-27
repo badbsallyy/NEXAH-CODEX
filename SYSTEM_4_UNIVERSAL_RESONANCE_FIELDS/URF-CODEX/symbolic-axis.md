@@ -12,7 +12,7 @@ The Codex defines space and identity through **symbolic axes** – dynamic field
 **DE:**  
 Der Codex beschreibt Raum und Identität über **symbolische Achsen** – dynamische Feldvektoren, die Phase, Resonanz und Richtung codieren.
 
-![Glyphen-Kammern](https://github.com/Scarabaeus1033/NEXAH-CODEX/blob/main/visuals/urf/Glyphen-Kammern.png?raw=true) 
+![Glyphen-Kammern](../visuals/urf/Glyphen-Kammern.png?raw=true) 
 *EN: Glyph chamber showing symbolic encoding in field structure*  
 *DE: Glyphenkammer mit symbolischer Codierung in der Feldstruktur*
 
@@ -45,7 +45,7 @@ These three axes define **semantic orientation** in the Codex:
 | `XA` | Horizontal Flow (rotation, orbit)     | Horizontale Bewegung (Rotation, Umlauf)  |
 | `YA` | Phase Mirror (reflection, fold)       | Phasenspiegelung (Reflexion, Faltung)    |
 
-![VA-XA-YA Feldstruktur – 3 Neutrino-Pfade im Resonanzsystem](https://github.com/Scarabaeus1033/NEXAH-CODEX/blob/main/visuals/urf/VA-XA-YA%20Feldstruktur%20-%203%20Neutrino-Pfade%20im%20Resonanzsystem.png?raw=true)
+![VA-XA-YA Feldstruktur – 3 Neutrino-Pfade im Resonanzsystem](../visuals/urf/VA-XA-YA%20Feldstruktur%20-%203%20Neutrino-Pfade%20im%20Resonanzsystem.png?raw=true)
 *EN: Three neutrino resonance paths in axial structure*  
 *DE: Drei Neutrinopfade im VA–XA–YA-Achsensystem*
 
@@ -60,7 +60,7 @@ These three axes define **semantic orientation** in the Codex:
 | `VA + YA`        | Field inversion / mirroring |
 | `XA + Θ`         | Harmonic rotation vector |
 
-![URF-Richtungsfelder – Symbolische Darstellung](https://github.com/Scarabaeus1033/NEXAH-CODEX/blob/main/visuals/urf/URF-Richtungsfelder%20-%20Symbolische%20Darstellung.png?raw=true)
+![URF-Richtungsfelder – Symbolische Darstellung](../visuals/urf/URF-Richtungsfelder%20-%20Symbolische%20Darstellung.png?raw=true)
 *EN: Symbolic field direction combinations of axes*  
 *DE: Symbolische Richtungsfelder aus Achsenkombinationen*
 

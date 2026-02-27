@@ -63,7 +63,7 @@ Hermetic Pythagoras Model → Geometria Nova Continuum (Modules I–VII + 01–0
 ## 🔷 Source Module
 
 **Original scientific repository:**
-[`SYSTEM 1: MATHEMATICA – Hermetic Pythagoras Model`](https://github.com/Scarabaeus1033/NEXAH-CODEX/tree/main/SYSTEM%201%3A%20%F0%9F%94%B7%20MATHEMATICA%20%E2%80%93%20Primes%2C%20Symbolics%2C%20Proof%20Structures/Hermetic_Pythagoras_Model)
+[`SYSTEM 1: MATHEMATICA – Hermetic Pythagoras Model`](../SYSTEM_1_MATHEMATICA/Hermetic_Pythagoras_Model)
 
 **Curator:** Thomas Hofmann (Scarabæus1033)
 **License:** [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)

@@ -34,8 +34,8 @@ We treat this module as **a bridge** — between classical combinatorics and new
 ## 🧠 Access & Codex Context
 
 You can explore the PRIME_TRINITY_GRID here:  
-🔗 GitHub: [PRIME_TRINITY_GRID](https://github.com/Scarabaeus1033/NEXAH-CODEX/tree/main/SYSTEM%207%3A%20%F0%9F%94%B1%20UNIVERSAL%20RESONANCE%20FIELDS%20%26%20CONSTANTS%20%E2%80%94%20UCRT/PRIME_TRINITY_GRID)  
-Related module: [UCRT_SUPERPRIME_GENESIS](https://github.com/Scarabaeus1033/NEXAH-CODEX/tree/main/SYSTEM%207%3A%20%F0%9F%94%B1%20UNIVERSAL%20RESONANCE%20FIELDS%20%26%20CONSTANTS%20%E2%80%94%20UCRT/UCRT_Superprime_Genesis)
+🔗 GitHub: [PRIME_TRINITY_GRID](../SYSTEM_7_UCRT)  
+Related module: [UCRT_SUPERPRIME_GENESIS](../SYSTEM_7_UCRT)
 
 ---
 

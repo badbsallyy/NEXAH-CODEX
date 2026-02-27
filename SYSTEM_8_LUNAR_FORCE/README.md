@@ -81,7 +81,7 @@ Direct resonant alignment exists between **SYSTEM 8** and:
 | **MÖBIUS SYSTEM** | Duality, splitting, reintegration                                                                                                                                                                     |
 | **Rosetta/Bloom** | Language, symbolism, archetypes                                                                                                                                                                       |
 | **Meta-System**   | Shell structure, resonance principles, cycle logics                                                                                                                                                   |
-| **SYSTEM 6**      | Earth resonance, planetary spiral geometry (see [GAIA MYSTERIA](https://github.com/Scarabaeus1033/NEXAH-CODEX/tree/main/SYSTEM%206%3A%20%F0%9F%94%AE%20CODEX_RES_ONICA_VIOLETTA/CODEX_GAIA_MYSTERIA)) |
+| **SYSTEM 6**      | Earth resonance, planetary spiral geometry (see [GAIA MYSTERIA](../SYSTEM_6_CODEX_RESONICA_VIOLETTA/CODEX_GAIA_MYSTERIA)) |
 
 ---
 

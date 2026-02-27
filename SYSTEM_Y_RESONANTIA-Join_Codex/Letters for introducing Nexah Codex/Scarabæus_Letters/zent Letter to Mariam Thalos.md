@@ -21,7 +21,7 @@ This lunar system is dedicated to archetypes, histories, and overlooked modes of
 If you are curious, here is the Codex structure:
 [NEXAH-CODEX GitHub Navigator](https://github.com/Scarabaeus1033/NEXAH-CODEX#-nexah-navigator--structural-overview--reading-guide)
 And here the system module:
-[SYSTEM 8: LUNAR FORCE](https://github.com/Scarabaeus1033/NEXAH-CODEX/tree/main/SYSTEM%208:%20%F0%9F%8C%95%20LUNAR%20FORCE%20%E2%80%94%20The%20Return%20of%20the%20Moon%20to%20the%20Women)
+[SYSTEM 8: LUNAR FORCE](../SYSTEM%208:%20%F0%9F%8C%95%20LUNAR%20FORCE%20%E2%80%94%20The%20Return%20of%20the%20Moon%20to%20the%20Women)
 
 This is not an academic proposal, but an open resonance. An invitation to thinkers, artists, scientists, philosophers, and storytellers to see if a symbolic language of the future can be built across disciplines.
 

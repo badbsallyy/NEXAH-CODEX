@@ -12,7 +12,7 @@ _„Kommunikation · Kollaboration · Kreation“_
 > the creative gateway for joining and shaping the Codex.
 
 📘 **Learn more about the full system:**  
-→ [NEXAH-CODEX · Main README (Navigator 2.2)](https://github.com/Scarabaeus1033/NEXAH-CODEX/blob/main/README.md)
+→ [NEXAH-CODEX · Main README (Navigator 2.2)](../README.md)
 
 ⚙️ **Ready to contribute? Begin here:**  
 → [OPEN_TASKS.md · Internal Resonance Field](open_tasks.md)

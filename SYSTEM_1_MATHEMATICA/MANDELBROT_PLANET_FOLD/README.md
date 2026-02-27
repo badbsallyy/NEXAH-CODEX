@@ -97,4 +97,4 @@ The image sequence includes:
 
 ---
 
-[Return to SYSTEM 1 Registry](https://github.com/Scarabaeus1033/NEXAH-CODEX/blob/main/SYSTEM%201%3A%20%F0%9F%94%B5%20MATHEMATICA%20%E2%80%93%20Primes%2C%20Symbolics%2C%20Proof%20Structures/README.md)
+[Return to SYSTEM 1 Registry](../SYSTEM_1_MATHEMATICA/README.md)

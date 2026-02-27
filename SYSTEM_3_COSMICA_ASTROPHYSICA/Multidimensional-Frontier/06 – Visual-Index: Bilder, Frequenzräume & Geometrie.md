@@ -6,7 +6,7 @@
 
 Die nachfolgenden Visualisierungen sind integraler Bestandteil des Moduls **Multidimensional Frontier**. Sie illustrieren Konzepte, geometrische Strukturen und symbolische Felder, die in den Kapiteln erläutert werden. Jedes Bild ist über den Visual-Ordner im GitHub-Repository zugänglich:
 
-📁 [`/Multidimensional-Frontier/Visuals`](https://github.com/Scarabaeus1033/NEXAH-CODEX/tree/main/NEXAH-CODEX-Startstruktur/Multidimensional-Frontier/Visuals)
+📁 [`/Multidimensional-Frontier/Visuals`](../NEXAH-CODEX-Startstruktur/Multidimensional-Frontier/Visuals)
 
 ---
 

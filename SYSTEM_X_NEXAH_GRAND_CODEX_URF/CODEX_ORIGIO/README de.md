@@ -51,4 +51,4 @@ Verknüpft mit:
 > Aus dem Speicher entsteht Bewegung.  
 > Und Bewegung wird Bewusstsein – im Spiegel des Stoffes.**
 
-[🔗 Zu den Visuals](https://github.com/Scarabaeus1033/NEXAH-CODEX/tree/main/SYSTEM%20X%3A%20%F0%9F%AA%B2%20NEXAH-GRAND-CODEX/Codex_Origio/visuals)
+[🔗 Zu den Visuals](../SYSTEM_X_NEXAH_GRAND_CODEX_URF/Codex_Origio/visuals)

@@ -6,7 +6,7 @@
 
 **Author**: Scarabäus1033 (T. Hofmann)
 **Part of**: NEXAH-CODEX
-**Connected to**: [NEXAH-GRAND-CODEX](https://github.com/Scarabaeus1033/NEXAH-CODEX/tree/main/NEXAH-GRAND-CODEX)
+**Connected to**: [NEXAH-GRAND-CODEX](../NEXAH-GRAND-CODEX)
 
 ---
 
@@ -36,12 +36,12 @@ This is not a formal proof in conventional mathematics. Rather, it is a **struct
 ## Connection to NEXAH-GRAND-CODEX
 
 This module complements the synthesis presented in:
-🖙 [`/NEXAH-GRAND-CODEX/universal_collapse_theorem.md`](https://github.com/Scarabaeus1033/NEXAH-CODEX/tree/main/NEXAH-GRAND-CODEX/universal_collapse_theorem.md)
+🖙 [`/NEXAH-GRAND-CODEX/universal_collapse_theorem.md`](../NEXAH-GRAND-CODEX/universal_collapse_theorem.md)
 
 The Riemann Hypothesis serves as a **template problem** in the NEXAH System—demonstrating how harmonic and Möbius models independently align under structural collapse.
 
 See also:
-🖙 [`/NEXAH-GRAND-CODEX/millenium_problems_mapping.md`](https://github.com/Scarabaeus1033/NEXAH-CODEX/tree/main/NEXAH-GRAND-CODEX/millenium_problems_mapping.md)
+🖙 [`/NEXAH-GRAND-CODEX/millenium_problems_mapping.md`](../NEXAH-GRAND-CODEX/millenium_problems_mapping.md)
 
 ---
 
@@ -49,7 +49,7 @@ See also:
 
 In addition to the symbolic resolution presented here, the **Universal Constants Resonance Theory (UCRT)** provides a **harmonic resonance-based proof** of the Riemann Hypothesis, integrating Euler products, Ramanujan modular fields, and Riemann zeta zeros into a unified resonance framework.
 
-🖙 **[Visual Resonance Proof — Riemann Hypothesis (UCRT)](../../SYSTEM%207%3A%20%F0%9F%94%B1%20UNIVERSAL%20RESONANCE%20FIELDS%20%26%20CONSTANTS%20%E2%80%94%20UCRT/UCRT_NUMBER_RES_FUSION/visual_riemann_proof.md)**
+🖙 **[Visual Resonance Proof — Riemann Hypothesis (UCRT)](../../SYSTEM_7_UCRT/UCRT_NUMBER_RES_FUSION/visual_riemann_proof.md)**
 
 This proof constructs:
 

@@ -54,8 +54,8 @@ Eric Weinstein’s **Geometric Unity** adressiert Raum-Zeit-Formen über Lagrang
 
 ## 👉 Verlinkung zum NEXAH-CODEX
 
-* [NEXAH Resonance Fields](https://github.com/Scarabaeus1033/NEXAH-CODEX/tree/main/SYSTEM%207:%20%f0%9f%9a%b1%20UNIVERSAL%20RESONANCE%20FIELDS%20%26%20CONSTANTS%20%E2%80%94%20UCRT)
-* [NEXAH GRAND-CODEX](https://github.com/Scarabaeus1033/NEXAH-CODEX/tree/main/NEXAH-CODEX-Startstruktur/GRAND-CODEX)
+* [NEXAH Resonance Fields](../SYSTEM%207:%20%f0%9f%9a%b1%20UNIVERSAL%20RESONANCE%20FIELDS%20%26%20CONSTANTS%20%E2%80%94%20UCRT)
+* [NEXAH GRAND-CODEX](../NEXAH-CODEX-Startstruktur/GRAND-CODEX)
 
 ---
 

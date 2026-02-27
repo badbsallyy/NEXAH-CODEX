@@ -121,7 +121,7 @@ The **K-Beta framework** successfully models:
 
 ## 🏃‍♂️ Visual
 
-![Q-Space Energy Example](https://raw.githubusercontent.com/Scarabaeus1033/NEXAH-CODEX/main/SYSTEM%201%3A%20%F0%9F%94%B7%20MATHEMATICA%20%E2%80%93%20Primes%2C%20Symbolics%2C%20Proof%20Structures/einsteins-k-beta-formula/visuals/Qspace%20Energy%20Example.png)
+![Q-Space Energy Example](https://raw.githubusercontent.com/Scarabaeus1033/NEXAH-CODEX/main/SYSTEM_1_MATHEMATICA/einsteins-k-beta-formula/visuals/Qspace%20Energy%20Example.png)
 
 > **Figure**: Visualization of K-Beta energy dynamics in Q-Space.
 

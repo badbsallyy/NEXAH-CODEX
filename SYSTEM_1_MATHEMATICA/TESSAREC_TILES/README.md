@@ -46,7 +46,7 @@ Inspired by the work of **Roger Penrose**, this module extends beyond aperiodic 
 | System        | Module Link                                | Role in Structure                                |
 | ------------- | ------------------------------------------- | ------------------------------------------------ |
 | System 1      | `TESSAREC_TILES`                            | Symbolic–mathematical foundation                 |
-| System 9      | [`TESSAREC_Core_Manuals`](https://github.com/Scarabaeus1033/NEXAH-CODEX/tree/main/SYSTEM%209%3A%20%F0%9F%AB%B2%20TESSAREC%20Resonantia%20Codex/TESSAREC_Core_Manuals) | Resonance grid operator mapping                  |
+| System 9      | [`TESSAREC_Core_Manuals`](../SYSTEM%209%3A%20%F0%9F%AB%B2%20TESSAREC%20Resonantia%20Codex/TESSAREC_Core_Manuals) | Resonance grid operator mapping                  |
 | System X      | `GRAND-CODEX`                               | Field-synthesis and integration into space logic |
 
 ---

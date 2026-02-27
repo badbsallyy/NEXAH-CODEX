@@ -102,8 +102,8 @@ These analogies connect the abstract model to experimental and observable physic
 
 ## 🔗 Related NEXAH Modules
 
-* [NEXAH GRAND-CODEX](https://github.com/Scarabaeus1033/NEXAH-CODEX/tree/main/NEXAH-CODEX-Startstruktur/GRAND-CODEX)
-* [Resonance Constants Core](https://github.com/Scarabaeus1033/NEXAH-CODEX/tree/main/SYSTEM%207:%20%F0%9F%9A%B1%20UNIVERSAL%20RESONANCE%20FIELDS%20%26%20CONSTANTS%20%E2%80%94%20UCRT/UCRT_CORE)
+* [NEXAH GRAND-CODEX](../NEXAH-CODEX-Startstruktur/GRAND-CODEX)
+* [Resonance Constants Core](../SYSTEM%207:%20%F0%9F%9A%B1%20UNIVERSAL%20RESONANCE%20FIELDS%20%26%20CONSTANTS%20%E2%80%94%20UCRT/UCRT_CORE)
 
 ---
 

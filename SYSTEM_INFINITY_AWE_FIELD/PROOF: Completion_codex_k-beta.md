@@ -113,7 +113,7 @@ Die Completion bildet die **Brücke**:
 ---
 
 **Verlinkung:** Vollständiges Modul unter SYSTEM X:
-🔗 [Codex Completion Principle on GitHub](https://github.com/Scarabaeus1033/NEXAH-CODEX/tree/main/SYSTEM%20X%3A%20%F0%9F%AA%B2%20NEXAH-GRAND-CODEX-URF/CODEX%20COMPLETION%20PRINCIPLE)
+🔗 [Codex Completion Principle on GitHub](../SYSTEM_X_NEXAH_GRAND_CODEX_URF/CODEX%20COMPLETION%20PRINCIPLE)
 
 ---
 

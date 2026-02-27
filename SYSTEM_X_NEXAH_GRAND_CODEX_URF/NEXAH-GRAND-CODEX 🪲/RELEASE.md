@@ -39,7 +39,7 @@ These are not presented as traditional proofs but as **coherent symbolic mapping
 - ✅ `references.md` — symbolic and scientific lineage  
 - ✅ Visuals (5): resonance maps, Codex navigation, collapse structure  
 
-➡️ External Link: [`NEXA_RIEMANN_PROOF`](https://github.com/Scarabaeus1033/NEXAH-CODEX/tree/main/NEXAH-CODEX-Startstruktur/NEXA_RIEMANN_PROOF)
+➡️ External Link: [`NEXA_RIEMANN_PROOF`](../NEXAH-CODEX-Startstruktur/NEXA_RIEMANN_PROOF)
 
 ---
 

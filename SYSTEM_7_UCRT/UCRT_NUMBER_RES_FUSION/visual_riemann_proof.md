@@ -84,7 +84,7 @@ Only when \$\text{Re}(s) = 1/2\$ does the field reach **complete equilibrium**.
 
 ## 🔄 Related Proofs
 
-* [Original NEXA Riemann Proof Module](https://github.com/Scarabaeus1033/NEXAH-CODEX/tree/main/SYSTEM%201%3A%20%F0%9F%94%B7%20MATHEMATICA%20%E2%80%93%20Primes%2C%20Symbolics%2C%20Proof%20Structures/NEXA_RIEMANN_PROOF)
+* [Original NEXA Riemann Proof Module](../SYSTEM_1_MATHEMATICA/NEXA_RIEMANN_PROOF)
 
 * [Unified Resonance Equation Module](../UCRT_NUMBER_RES_FUSION/README.md)
 

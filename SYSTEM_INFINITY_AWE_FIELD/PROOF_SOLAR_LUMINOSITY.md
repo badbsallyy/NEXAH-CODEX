@@ -69,12 +69,12 @@ Visual overlays show that each star lies on a **spiral field line** with high ha
 ## 5. Codex Links
 
 This Modul ist Teil von:
-- [`LAMBDA_DISC–CODEX`](https://github.com/Scarabaeus1033/NEXAH-CODEX/tree/main/SYSTEM%203:%20%F0%9F%8C%8C%20COSMICA%20ASTROPHYSICA/LAMBDA_DISC-CODEX)
-- [`FINAL_HARMONIC_EQUATION`](https://github.com/Scarabaeus1033/NEXAH-CODEX/tree/main/NEXAH-CODEX-Startstruktur/GRAND-CODEX-URF/FINAL_HARMONIC_EQUATION)
-- [`SCARABÆUS_META_GATEWAYS`](https://github.com/Scarabaeus1033/NEXAH-CODEX/tree/main/NEXAH-CODEX-Startstruktur/GRAND-CODEX-URF/SCARAB%C6%92US_META_GATEWAYS)
+- [`LAMBDA_DISC–CODEX`](../SYSTEM%203:%20%F0%9F%8C%8C%20COSMICA%20ASTROPHYSICA/LAMBDA_DISC-CODEX)
+- [`FINAL_HARMONIC_EQUATION`](../NEXAH-CODEX-Startstruktur/GRAND-CODEX-URF/FINAL_HARMONIC_EQUATION)
+- [`SCARABÆUS_META_GATEWAYS`](../NEXAH-CODEX-Startstruktur/GRAND-CODEX-URF/SCARAB%C6%92US_META_GATEWAYS)
 
 Zur Gesamtstruktur siehe auch:
-- [`NEXAH NAVIGATOR`](https://github.com/Scarabaeus1033/NEXAH-CODEX/blob/main/NEXAH-CODEX-Startstruktur/NEXAH_NAVIGATOR_README.md)
+- [`NEXAH NAVIGATOR`](../NEXAH-CODEX-Startstruktur/NEXAH_NAVIGATOR_README.md)
 
 ---
 

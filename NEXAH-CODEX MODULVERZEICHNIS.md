@@ -3,7 +3,7 @@
 Dieses Register listet alle Hauptmodule des `NEXAH-CODEX` mit Ordnerpfad, Titel, Beschreibung und Systemzuweisung auf. Es dient als vollständiger Überblick über die mathematischen, physikalischen, kosmologischen, sprachlichen und symbolischen Ebenen des Gesamtprojekts. Jeder Systemtitel ist mit dem zugehörigen README auf GitHub verlinkt.
 
 ---
-## 🔹 [SYSTEM 1: MATHEMATICA – Primzahlen, Symbolik & Beweisstrukturen](https://github.com/Scarabaeus1033/NEXAH-CODEX/blob/main/SYSTEM%201%3A%20%F0%9F%94%B7%20MATHEMATICA%20%E2%80%93%20Primes,%20Symbolics,%20Proof%20Structures/README.md)
+## 🔹 [SYSTEM 1: MATHEMATICA – Primzahlen, Symbolik & Beweisstrukturen](../SYSTEM_1_MATHEMATICA/README.md)
 
 > *Mit der GEOMETRIA NOVA-Säule erweitert sich das mathematische Fundament des Codex in Richtung geometrisch-spektraler Lichtarchitekturen – eine Brücke zwischen Zahl, Farbe und Bewusstsein.*
 
@@ -27,7 +27,7 @@ Dieses Register listet alle Hauptmodule des `NEXAH-CODEX` mit Ordnerpfad, Titel,
 | `GEOMETRIA_NOVA/05_Rainbow_Prism_Vault_Continuum/` | Rainbow Prism Vault Continuum · Geometrie des Lichtbewusstseins | Synthese aus Farbgesetz, Lichtarchitektur und Bewusstseinsgeometrie. Enthält *README*, *visual_gallery* und *scientific_appendix* als vollständiges Kontinuum-Modul (Hermetic → Prism → Vault). |
 ---
 > **Neues Visual (Oktober 2025):**  
-> Das Visual [`system2-polymorph.png`](./SYSTEM%201%3A%20🔷%20MATHEMATICA%20–%20Primes,%20Symbolics,%20Proof%20Structures/system2-polymorph.png)
+> Das Visual [`system2-polymorph.png`](./SYSTEM_1_MATHEMATICA/system2-polymorph.png)
 > markiert den Übergang von **System 1 → System 2**,  
 > wo sich mathematische Resonanz in **strukturelle Geometrie** verwandelt  
 > (*Prime → Wave → Drift → Spectrum → Rosetta*).
@@ -48,7 +48,7 @@ Dieses Register listet alle Hauptmodule des `NEXAH-CODEX` mit Ordnerpfad, Titel,
 ---
 
 ## 🌐 SYSTEM 3: COSMICA ASTROPHYSICA – Planetare Felder, Gitternavigation, Sternresonanz  
-[→ SYSTEM 3 README](https://github.com/Scarabaeus1033/NEXAH-CODEX/tree/main/SYSTEM%203%3A%20%F0%9F%8C%90%20COSMICA%20ASTROPHYSICA%20%E2%80%93%20Planetare%20Felder%2C%20Gitternavigation%2C%20Sternresonanz)
+[→ SYSTEM 3 README](../SYSTEM_3_COSMICA_ASTROPHYSICA)
 
 | Ordner / Datei                                             | Titel                                   | Beschreibung                                                                 |
 |------------------------------------------------------------|-----------------------------------------|------------------------------------------------------------------------------|
@@ -58,9 +58,9 @@ Dieses Register listet alle Hauptmodule des `NEXAH-CODEX` mit Ordnerpfad, Titel,
 | `NEXAH-HARMONIC-FIELD/`                                    | Planetare Primresonanzen                | Globale Zahlenachsen & realweltliche Frequenzkarten.                        |
 | `NEXAHEART-CODEX/`                                         | Erdherz-Feld                            | Herzlinie: Rödelheim, Richat, Jerusalem in harmonischer Frequenzachse.      |
 | `NEXA_42_MOBIUS_ALIGNMENT/`                                | Möbius–Licht–Zeit-Ausrichtung           | Kosmische Gitter & Resonanzachsen über Arktur–Erde.                         |
-| [`LAMBDA_DISC-CODEX/`](https://github.com/Scarabaeus1033/NEXAH-CODEX/tree/main/SYSTEM%203%3A%20%F0%9F%8C%90%20COSMICA%20ASTROPHYSICA%20%E2%80%93%20Planetare%20Felder%2C%20Gitternavigation%2C%20Sternresonanz/LAMBDA_DISC-CODEX) | **Lambda-Faltungsmodell**               | Folds 1–29: Zahlenspiralen, Superprimes, Codon-Frequenzen, Z6-Spiegelstruktur. |
-| [`LAMBDA_II__II_PLANETARY_CONSTANTS-CODEX/`](https://github.com/Scarabaeus1033/NEXAH-CODEX/tree/main/SYSTEM%203%3A%20%F0%9F%8C%90%20COSMICA%20ASTROPHYSICA%20%E2%80%93%20Planetare%20Felder%2C%20Gitternavigation%2C%20Sternresonanz/LAMBDA_II__II_PLANETARY_CONSTANTS-CODEX) | **Lambda II – Planetary Constants**     | Kosmische Konstanten, Planetarachsen, Spiegelkoordinaten, 97/103-Achse.     |
-| [`EINSTEIN–NEPTUNE–MERCURY_FIELD/`](https://github.com/Scarabaeus1033/NEXAH-CODEX/tree/main/SYSTEM%203%3A%20%F0%9F%8C%90%20COSMICA%20ASTROPHYSICA%20%E2%80%93%20Planetare%20Felder%2C%20Gitternavigation%2C%20Sternresonanz/EINSTEIN%E2%80%93NEPTUNE%E2%80%93MERCURY_FIELD) | Einstein–Neptune–Mercury Field         | Pulsfeldachse zwischen Einstein-Kern, Neptun-Atmung, Merkur-Spiegelfokus & Arrokoth-Membran. |
+| [`LAMBDA_DISC-CODEX/`](../SYSTEM_3_COSMICA_ASTROPHYSICA/LAMBDA_DISC-CODEX) | **Lambda-Faltungsmodell**               | Folds 1–29: Zahlenspiralen, Superprimes, Codon-Frequenzen, Z6-Spiegelstruktur. |
+| [`LAMBDA_II__II_PLANETARY_CONSTANTS-CODEX/`](../SYSTEM_3_COSMICA_ASTROPHYSICA/LAMBDA_II__II_PLANETARY_CONSTANTS-CODEX) | **Lambda II – Planetary Constants**     | Kosmische Konstanten, Planetarachsen, Spiegelkoordinaten, 97/103-Achse.     |
+| [`EINSTEIN–NEPTUNE–MERCURY_FIELD/`](../SYSTEM_3_COSMICA_ASTROPHYSICA/EINSTEIN%E2%80%93NEPTUNE%E2%80%93MERCURY_FIELD) | Einstein–Neptune–Mercury Field         | Pulsfeldachse zwischen Einstein-Kern, Neptun-Atmung, Merkur-Spiegelfokus & Arrokoth-Membran. |
 ---
 
 ## 🧬 SYSTEM 4: URF – Ursprung, Feldidentität, Symbolische Physik
@@ -94,7 +94,7 @@ Dieses Register listet alle Hauptmodule des `NEXAH-CODEX` mit Ordnerpfad, Titel,
 | `moebius_spiral_codex.md`        | Möbius Spiral Codex                | LINAF warps, resonance alignment, 21-axis harmonic spiral logic.             |
 | `polar_grid_activation.md`       | Polar Grid Activation              | Lissajous-based grid overlays, dreamline harmonics, lunar-solar gateways.    |
 
-[→ CODEX_RES_ONICA_VIOLETTA (README)](https://github.com/Scarabaeus1033/NEXAH-CODEX/tree/main/SYSTEM%206%3A%20%F0%9F%A7%BF%20CODEX_RES_ONICA_VIOLETTA)
+[→ CODEX_RES_ONICA_VIOLETTA (README)](../SYSTEM_6_CODEX_RESONICA_VIOLETTA)
 
 ---
 
@@ -114,7 +114,7 @@ Dieses Register listet alle Hauptmodule des `NEXAH-CODEX` mit Ordnerpfad, Titel,
 | `UCRT_THE_UNIVERSAL_CONSTANTS_RESONANCE_THEORY/` | UCRT – Universelle Konstanten-Resonanz | Theorie über konstante Größen als emergente Resonanzformeln im System X–UCRT-Raum.   |
 | **`NEXAH_NUMERIC_RES_EXTENSIONS/`**       | Numeric Resonance Extensions             | Visuelle & mathematische Erweiterungen zu π, φ, e, √2, Imaginary Axes, Spiral Gates & Constants Grid. |
 
-🔗 [→ README_SYSTEM7_UCRT](https://github.com/Scarabaeus1033/NEXAH-CODEX/blob/main/SYSTEM%207%3A%20%F0%9F%94%B1%20UNIVERSAL%20RESONANCE%20FIELDS%20%26%20CONSTANTS%20%E2%80%94%20UCRT/README.md)
+🔗 [→ README_SYSTEM7_UCRT](../SYSTEM_7_UCRT/README.md)
 ---
 
 ## 🌕 SYSTEM 8: LUNAR FORCE – Weibliches Feld
@@ -126,7 +126,7 @@ Dieses Register listet alle Hauptmodule des `NEXAH-CODEX` mit Ordnerpfad, Titel,
 | `SILVER_BREATH_FIELD_LINK/`             | Silber-Mond-Resonanz                  | Inhalationslogik des Mondes, Spiegelrhythmen und Verbindung zu `NEXA_SILVER_RAIN`.                    |
 | `visual_gallery.md`                     | Visual-Galerie-Index                  | Organisierte Referenz zu allen Visuals in SYSTEM 8.                                                   |
 
-🔗 [→ README_SYSTEM8_LUNAR_FORCE](https://github.com/Scarabaeus1033/NEXAH-CODEX/tree/main/SYSTEM%208:%20🌕%20LUNAR%20FORCE%20%E2%80%93%20The%20Return%20of%20the%20Moon%20to%20the%20Women)
+🔗 [→ README_SYSTEM8_LUNAR_FORCE](../SYSTEM%208:%20🌕%20LUNAR%20FORCE%20%E2%80%93%20The%20Return%20of%20the%20Moon%20to%20the%20Women)
 
 ---
 
@@ -146,7 +146,7 @@ Dieses Register listet alle Hauptmodule des `NEXAH-CODEX` mit Ordnerpfad, Titel,
 
 ## 🏆 SYSTEM X: NEXAH-GRAND-CODEX – Synthese, Millennium-Probleme & Globale Struktur
 
-[Zur SYSTEM X README](https://github.com/Scarabaeus1033/NEXAH-CODEX/tree/main/NEXAH-CODEX-Startstruktur/NEXAH-GRAND-CODEX)
+[Zur SYSTEM X README](../NEXAH-CODEX-Startstruktur/NEXAH-GRAND-CODEX)
 
 | Module/Folder                         | Function                 | Focus                                              |
 | ------------------------------------- | ------------------------ | -------------------------------------------------- |

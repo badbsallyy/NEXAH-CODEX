@@ -100,10 +100,10 @@ This proof unifies under the NEXAH Codex structure:
 
 | Reference                                                                                                                                                                       | Description                                       |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------- |
-| [`RAMANUJAN–EULER–RIEMANN SYNTHESIS`](https://github.com/Scarabaeus1033/NEXAH-CODEX/tree/main/NEXAH-CODEX-Startstruktur/NEXAH-GRAND-CODEX/codex-mathematics/NEXA_RIEMANN_PROOF) | Harmonic prime–zeta correspondence                |
-| [`PRIME_TRINITY_GRID`](https://github.com/Scarabaeus1033/NEXAH-CODEX/tree/main/SYSTEM%207:%20UCRT%20THEOREM%20FIELD/PRIME_TRINITY_GRID)                                         | Multi-axis resonance and modular field extensions |
-| [`Prime_Grid_Visuals`](../../SYSTEM%201:%20🔷%20MATHEMATICA%20–%20Primes,%20Symbolics,%20Proof%20Structures/Prime-Grid-Visualization)                                           | Visual resonance overlays                         |
-| [`Pi-Prime Field`](../../SYSTEM%201:%20🔷%20MATHEMATICA%20–%20Primes,%20Symbolics,%20Proof%20Structures/pi_prime_field.md)                                                      | π–regulated density oscillation                   |
+| [`RAMANUJAN–EULER–RIEMANN SYNTHESIS`](../NEXAH-CODEX-Startstruktur/NEXAH-GRAND-CODEX/codex-mathematics/NEXA_RIEMANN_PROOF) | Harmonic prime–zeta correspondence                |
+| [`PRIME_TRINITY_GRID`](../SYSTEM%207:%20UCRT%20THEOREM%20FIELD/PRIME_TRINITY_GRID)                                         | Multi-axis resonance and modular field extensions |
+| [`Prime_Grid_Visuals`](../../SYSTEM_1_MATHEMATICA%20–%20Primes,%20Symbolics,%20Proof%20Structures/Prime-Grid-Visualization)                                           | Visual resonance overlays                         |
+| [`Pi-Prime Field`](../../SYSTEM_1_MATHEMATICA%20–%20Primes,%20Symbolics,%20Proof%20Structures/pi_prime_field.md)                                                      | π–regulated density oscillation                   |
 | [`Tessarec Möbius Seal`](../../SYSTEM%209:%20TESSAREC%20Resonantia%20Codex/Prime_Resonance_Frameworks)                                                                          | Geometric embedding of prime spirals              |
 
 ---

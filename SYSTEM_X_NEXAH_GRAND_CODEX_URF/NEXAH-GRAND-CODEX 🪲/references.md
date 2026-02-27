@@ -36,19 +36,19 @@ Core structural texts forming the symbolic scaffold of the Grand Codex:
 
 **Convergent Mathematical Modules:**
 
-- [`/NEXA_RIEMANN_PROOF`](https://github.com/Scarabaeus1033/NEXAH-CODEX/tree/main/NEXAH-CODEX-Startstruktur/NEXA_RIEMANN_PROOF)  
+- [`/NEXA_RIEMANN_PROOF`](../NEXAH-CODEX-Startstruktur/NEXA_RIEMANN_PROOF)  
   Harmonic–Möbius synthesis on critical lines, primes, and zeta-fields  
 
-- [`/√2–Prime-Feld`](https://github.com/Scarabaeus1033/NEXAH-CODEX/tree/main/SYSTEM%201%3A%20🔷%20MATHEMATICA%20%E2%80%93%20Primes%2C%20Symbolics%2C%20Proof%20Structures/%20√2–Prime-Feld)  
+- [`/√2–Prime-Feld`](../SYSTEM_1_MATHEMATICA/%20√2–Prime-Feld)  
   Visual and symbolic encoding of irrational resonance in prime systems  
 
-- [`/Divisor-Grid-Fields`](https://github.com/Scarabaeus1033/NEXAH-CODEX/tree/main/SYSTEM%201%3A%20🔷%20MATHEMATICA%20%E2%80%93%20Primes%2C%20Symbolics%2C%20Proof%20Structures/Divisor-Grid-Fields)  
+- [`/Divisor-Grid-Fields`](../SYSTEM_1_MATHEMATICA/Divisor-Grid-Fields)  
   Classification of number fields via divisor resonance signatures  
 
-- [`/Einstein-Neutrino-Vortex`](https://github.com/Scarabaeus1033/NEXAH-CODEX/tree/main/SYSTEM%202%3A%20🔷%20PHYSICA%20%E2%80%93%20Resonance%20Fields%2C%20Quantum%20Models%2C%20Neutrino%20Dynamics/Einstein-Neutrino-Vortex)  
+- [`/Einstein-Neutrino-Vortex`](../SYSTEM_2_PHYSICA/Einstein-Neutrino-Vortex)  
   Unified energy-field equation via pressure, collapse, neutrino modulation  
 
-- [`/CAVITYROOT-CODEX`](https://github.com/Scarabaeus1033/NEXAH-CODEX/tree/main/SYSTEM%202%3A%20🔷%20PHYSICA%20%E2%80%93%20Resonance%20Fields%2C%20Quantum%20Models%2C%20Neutrino%20Dynamics/CAVITYROOT-CODEX)  
+- [`/CAVITYROOT-CODEX`](../SYSTEM_2_PHYSICA/CAVITYROOT-CODEX)  
   Root-metal thermal systems, axis modulations, and resonance geometries
 
 ---
@@ -67,7 +67,7 @@ Each Codex module connects **symbolic archetypes** with **formalisms** from dive
 ## 🧭 Relational Indices
 
 For full system structure:  
-→ [📘 NEXAH-CODEX MODULE REGISTRY](https://github.com/Scarabaeus1033/NEXAH-CODEX/blob/main/📘%20NEXAH-CODEX%20MODULE%20REGISTRY.md)
+→ [📘 NEXAH-CODEX MODULE REGISTRY](../📘%20NEXAH-CODEX%20MODULE%20REGISTRY.md)
 
 For cross-domain visual synthesis:  
 → `/visuals/codex_navigation.png` and `/Codex_Triad_Synthesis_Diagram.png`

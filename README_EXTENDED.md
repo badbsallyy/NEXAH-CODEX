@@ -35,7 +35,7 @@ Whether in prime number distributions, atomic ratios, or planetary orbits, the s
 
 | Layer | System | Description | Repository Path |
 |:--|:--|:--|:--|
-| 🔷 | **System 1: Mathematica** | Proofs, Primes, Symbolic Operators, Hermetic Color Logic | [`/SYSTEM 1: MATHEMATICA`](./SYSTEM%201:%20%F0%9F%94%B7%20MATHEMATICA%20%E2%80%93%20Primes%2C%20Symbolics%2C%20Proof%20Structures/) |
+| 🔷 | **System 1: Mathematica** | Proofs, Primes, Symbolic Operators, Hermetic Color Logic | [`/SYSTEM 1: MATHEMATICA`](./SYSTEM_1_MATHEMATICA%20%E2%80%93%20Primes%2C%20Symbolics%2C%20Proof%20Structures/) |
 | ⚛️ | **System 2: Physica** | Energy Dynamics · Casimir Threads · Quantum Cavities | [`/SYSTEM 2: PHYSICA`](./SYSTEM%202:%20%E2%9A%9B%EF%B8%8F%20PHYSICA/) |
 | 🌐 | **System 3: Cosmica Astrophysica** | Celestial Geometry · Planetary Grids · Spectral Fields | [`/SYSTEM 3: COSMICA ASTROPHYSICA`](./SYSTEM%203:%20%F0%9F%8C%90%20COSMICA%20ASTROPHYSICA/) |
 | 🧬 | **System 4: URF – Universal Resonance Fields** | Tensor Logic · Transition Equations · Origin Mechanics | [`/SYSTEM 4: URF`](./SYSTEM%204:%20%F0%9F%A7%AC%20URF/) |

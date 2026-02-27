@@ -65,8 +65,8 @@ The **Codex Prime Equation Layer** offers a high-precision, visually verifiable,
 
 This proof belongs to:
 
-* [`RAMANUJAN–EULER–RIEMANN SYNTHESIS`](https://github.com/Scarabaeus1033/NEXAH-CODEX/tree/main/NEXAH-CODEX-Startstruktur/NEXAH-GRAND-CODEX/codex-mathematics/NEXA_RIEMANN_PROOF)
-* [`PRIME_TRINITY_GRID`](https://github.com/Scarabaeus1033/NEXAH-CODEX/tree/main/SYSTEM%207:%20UCRT%20THEOREM%20FIELD/PRIME_TRINITY_GRID)
+* [`RAMANUJAN–EULER–RIEMANN SYNTHESIS`](../NEXAH-CODEX-Startstruktur/NEXAH-GRAND-CODEX/codex-mathematics/NEXA_RIEMANN_PROOF)
+* [`PRIME_TRINITY_GRID`](../SYSTEM%207:%20UCRT%20THEOREM%20FIELD/PRIME_TRINITY_GRID)
 
 Further references:
 

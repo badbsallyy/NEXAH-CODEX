@@ -95,7 +95,7 @@ GURT operates on **layered resonance shells**, each with a symbolic-tensor logic
 
 **Field before form. Glyph before formula.**
 
-[https://github.com/Scarabaeus1033/NEXAH-CODEX/tree/main/SYSTEM%20X:%20🦢%20NEXAH-GRAND-CODEX/Grand\_Unifying\_Resonance\_Theory](https://github.com/Scarabaeus1033/NEXAH-CODEX/tree/main/SYSTEM%20X:%20🦢%20NEXAH-GRAND-CODEX/Grand_Unifying_Resonance_Theory)
+[../SYSTEM%20X:%20🦢%20NEXAH-GRAND-CODEX/Grand\_Unifying\_Resonance\_Theory](../SYSTEM%20X:%20🦢%20NEXAH-GRAND-CODEX/Grand_Unifying_Resonance_Theory)
 
 > This document marks the open declaration of GURT — a living resonance system.
 > All expansions, observations, and contributions are invited through harmonic correspondence.

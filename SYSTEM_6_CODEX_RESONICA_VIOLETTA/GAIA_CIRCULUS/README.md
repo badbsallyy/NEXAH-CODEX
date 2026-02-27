@@ -76,8 +76,8 @@ See [`visual_gallery.md`](./visual_gallery.md) for detailed commentary and struc
 ## 🔗 Related Codex Modules
 
 - [`GAIA_MYSTERIA`](../GAIA_MYSTERIA/) – planetary geometry, field anchors
-- [`SILVER_BREATH_FIELD_LINK`](../../SYSTEM%208%3A%20LUNAR%20FORCE/SILVER_BREATH_FIELD_LINK/) – lunar breathing and silver field logic
-- [`FINAL_HARMONIC_EQUATION`](../../SYSTEM%20X%3A%20GRAND/FINAL_HARMONIC_EQUATION/) – global harmonic architecture
+- [`SILVER_BREATH_FIELD_LINK`](../../SYSTEM_8_LUNAR_FORCE/SILVER_BREATH_FIELD_LINK/) – lunar breathing and silver field logic
+- [`FINAL_HARMONIC_EQUATION`](../../SYSTEM_X_NEXAH_GRAND_CODEX_URF/FINAL_HARMONIC_EQUATION/) – global harmonic architecture
 
 ---
 

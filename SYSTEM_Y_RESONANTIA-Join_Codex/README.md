@@ -11,7 +11,7 @@ license: "CC BY-NC-SA 4.0"
 > linking research, dialogue, and the human field of coherence.
 
 📘 **Learn more about the full system:**  
-→ [NEXAH-CODEX · Main README (Navigator 2.2)](https://github.com/Scarabaeus1033/NEXAH-CODEX/blob/main/README.md)
+→ [NEXAH-CODEX · Main README (Navigator 2.2)](../README.md)
 
 ---
 
