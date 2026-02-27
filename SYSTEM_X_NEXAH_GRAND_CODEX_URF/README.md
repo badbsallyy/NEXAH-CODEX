@@ -1,3 +1,27 @@
+# SYSTEM X – GRAND-CODEX NEXUS
+## Exploratory Synthesis Phase (Archived 2025)
+
+SYSTEM X represented the synthesis core of the exploratory NEXAH-CODEX phase.
+
+It attempted large-scale integration across:
+
+- Mathematical structures
+- Field modeling
+- Symbolic systems
+- Cosmological analogies
+- Consciousness frameworks
+
+This layer pursued maximal structural convergence.
+
+It does not constitute a finalized scientific framework.
+
+As of 2025, SYSTEM X is frozen as part of the Scarabæus exploration phase.
+
+No further universal synthesis development will occur in this module.
+
+It remains accessible as documentation of the integration attempt.
+
+
 ---
 title: "SYSTEM X – GRAND-CODEX NEXUS"
 system: "NEXAH-CODEX"
