@@ -1,15 +1,14 @@
-# 🔒 NEXAH-CODEX (2019–2025)
+# 🔒 NEXAH-CODEX
 ## Exploratory Phase Archive
 
-**Status:** Frozen · Structural Archive  
+**Status:** Frozen (2025) · Structural Archive  
 **Maintainer:** Thomas K. R. Hofmann (Scarabæus1033)
 
 ---
 
 ## 📌 Archive Notice
 
-The NEXAH-CODEX repository documents an exploratory research phase  
-spanning mathematics, geometry, physics, symbolic modeling and resonance structures.
+This repository documents an exploratory structural phase of the Nexah project.
 
 As of 2025, this phase is structurally frozen.
 
@@ -24,9 +23,22 @@ It remains publicly accessible as:
 
 ---
 
+## 🔄 Structural Clarification (2025)
+
+The active direction of Nexah has shifted toward:
+
+- Minimal formal structure (META)  
+- Stability field modeling (ARCHY)  
+- Explicit relational navigation (NEXAH)  
+- Applied structural orientation frameworks  
+
+These developments continue in a separate repository.
+
+---
+
 ## 🧭 What This Repository Represents
 
-Between 2019 and 2025, the NEXAH-CODEX evolved as an expansive structural synthesis attempt.
+The NEXAH-CODEX evolved as an expansive structural synthesis attempt.
 
 It explored:
 
