@@ -1,123 +1,85 @@
-# NEXAH-CODEX  
-### A Modular Research Framework for Resonance Structures in Mathematics, Physics & Geometry  
+# 🔒 NEXAH-CODEX (2019–2025)
+## Exploratory Phase Archive
 
-**Curator:** Thomas Hofmann (Scarabæus1033)  
-**Status:** Active Research Repository  
-**License:** CC BY-NC-SA 4.0  
-
----
-
-## Overview
-
-The **NEXAH-CODEX** is a modular, open research framework exploring structural resonance across mathematical, physical, geometric, and symbolic domains.
-
-It is organized as a multi-layered repository of:
-
-- Mathematical investigations (prime structures, operators, geometric mappings)  
-- Physical resonance models (field transitions, harmonic constants, modulation systems)  
-- Cosmological grid studies and planetary scaling models  
-- Symbolic and visual architectures for structural mapping  
-
-The Codex does **not introduce new particles or forces**.  
-Instead, it investigates whether recurring constants and geometric symmetries  
-(φ, π, √2, 137, etc.) can be studied as cross-domain structural invariants.
+**Status:** Frozen · Structural Archive  
+**Maintainer:** Thomas K. R. Hofmann (Scarabæus1033)
 
 ---
 
-## Research Orientation
+## 📌 Archive Notice
 
-The central working hypothesis is:
+The NEXAH-CODEX repository documents an exploratory research phase  
+spanning mathematics, geometry, physics, symbolic modeling and resonance structures.
 
-> Certain mathematical constants and geometric symmetries reappear  
-> across number theory, field physics, and large-scale structure.
+As of 2025, this phase is structurally frozen.
 
-The repository documents exploratory models and visualizations examining:
+No further theoretical expansion will occur in this repository.
 
-- Prime number distributions and resonance analogies  
-- Möbius and spiral geometries in structural mapping  
-- Harmonic interpretations of physical constants  
-- Cross-scale symmetry patterns  
+It remains publicly accessible as:
 
-All modules are documented transparently and remain open to critique, refinement, or rejection.
-
-This repository is experimental and evolving.
+- A documentation archive  
+- A visual research record  
+- A symbolic exploration phase  
+- A historical development layer of the Nexah project  
 
 ---
 
-## Repository Structure
+## 🧭 What This Repository Represents
 
-The NEXAH-CODEX is organized into modular systems:
+Between 2019 and 2025, the NEXAH-CODEX evolved as an expansive structural synthesis attempt.
 
-| System | Focus |
-|--------|-------|
-| **System 1 – Mathematica** | Prime structures, symbolic operators, geometric models |
-| **System 2 – Physica** | Resonance field concepts, harmonic modulation, cavity models |
-| **System 3 – Cosmica Astrophysica** | Planetary grids, cosmological constants, large-scale mapping |
-| **System 4 – URF** | Universal Resonance Field hypotheses & transition equations |
-| **System 5 – Bloom / Rosetta** | Language-number mappings and symbolic symmetry systems |
-| **System 6 – Violetta** | Visual frequency studies & artistic topology |
-| **System 7 – UCRT** | Resonance constants and higher-dimensional structures |
-| **System 8 – Lunar Force** | Lunar field models and cyclic symmetry structures |
-| **System 9 – Tessarec** | Quaternion geometry and observer-space modeling |
-| **System X – Grand Codex** | Cross-system synthesis modules |
-| **System Y – Builder Lab** | Experimental and exploratory modules |
-| **System Z – Applied Resonance** | Applied and physical experimentation concepts |
+It explored:
 
-A full structural index is available in:
+- Prime number architectures  
+- Möbius and toroidal geometries  
+- Harmonic modeling extensions  
+- Cosmological analogies  
+- Symbolic resonance systems  
+- Experimental geometric structures  
 
-→ `NEXAH-CODEX MODULE REGISTER.md`
+This work was exploratory in nature.
+
+It does **not** claim to replace or extend established physical theories.
 
 ---
 
-## How to Navigate
+## 🔄 Structural Clarification (2025)
 
-**Mathematics-first readers**  
-Start in `SYSTEM_1_MATHEMATICA` and `SYSTEM_7_UCRT`.
+The active direction of Nexah has shifted toward:
 
-**Physics-oriented readers**  
-See `SYSTEM_2_PHYSICA` and `SYSTEM_4_UNIVERSAL_RESONANCE_FIELDS`.
+- Minimal formal structure (META)  
+- Stability field modeling (ARCHY)  
+- Explicit relational navigation (NEXAH)  
+- Applied structural orientation frameworks  
 
-**Cosmology & scaling models**  
-Explore `SYSTEM_3_COSMICA_ASTROPHYSICA`.
-
-**Cross-system synthesis**  
-Review `SYSTEM_X_NEXAH_GRAND_CODEX_URF`.
+These developments continue in a separate repository.
 
 ---
 
-## Scientific Position
+## 📂 Current Status
 
-The NEXAH-CODEX is:
-
-- Not a finalized theory  
-- Not a claim of a completed unified model  
-- Not a replacement for established physics  
-
-It is a **structural research archive** exploring whether resonance logic can serve as a useful cross-domain analytical lens.
-
-Formal validation, falsification, and critique are welcome.
+- Repository frozen
+- No new modules will be added
+- Content remains readable and citable
+- Historical material preserved without revisionism
 
 ---
 
-## Documentation & References
+## 🪲 Scarabæus Phase
 
-- Module Register  
-- Glossary  
-- Extended Documentation (`README_EXTENDED.md`)  
-- CITATION.cff  
-- Zenodo DOI  
+This repository represents the **Scarabæus exploration phase** of the Nexah project.
+
+It is preserved as part of the project’s developmental history.
 
 ---
 
-## Contact
+## 🌐 Active Development
 
-Thomas Hofmann  
-Scarabæus1033 Research Initiative  
+For the current structural framework, see:
 
-GitHub: https://github.com/Scarabaeus1033/NEXAH-CODEX  
-Website: https://www.scarabaeus1033.net  
+→ **NEXAH Core (Structural Orientation Framework)**  
+(link to be inserted once repository is created)
 
 ---
 
-> Open structure. Documented exploration.  
-> Modular resonance research.
+*Structure remains. Expansion pauses. Architecture continues.*
