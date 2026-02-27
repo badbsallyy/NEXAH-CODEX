@@ -4,7 +4,8 @@ category: "LAMBDA\_DISC-CODEX"
 system: "SYSTEM 3: COSMICA ASTROPHYSICA"
 identifier: "\Lambda\_{17}"
 status: "Active Resonance Node"
--------------------------------
+---
+
 
 # Fold 17 – Lilith Counterrotation
 
