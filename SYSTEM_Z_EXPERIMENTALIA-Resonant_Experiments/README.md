@@ -1,3 +1,29 @@
+# SYSTEM Z – Experiments & Practica
+## Exploratory Prototype Layer (Archived 2025)
+
+> ⚠️ This module belongs to the archived Scarabæus exploration phase.
+
+SYSTEM Z documented speculative prototypes, experimental concepts,
+and symbolic-to-physical translation attempts developed during the exploratory period of the NEXAH-CODEX.
+
+It included:
+
+- Conceptual resonance devices
+- Geometry-based energy experiments
+- Bio-interface hypotheses
+- Cymatic and material field explorations
+
+These concepts were exploratory and hypothesis-driven.
+
+They do not constitute validated engineering frameworks
+or experimentally confirmed physical models.
+
+As of 2025, SYSTEM Z is frozen.
+
+No further experimental or prototype development will occur under the NEXAH-CODEX repository.
+
+This module remains accessible as documentation of the exploratory builder phase.
+
 # 🧪 SYSTEM Z – Experiments & Practica  
 *Resonant Prototypes, Devices & Real-World Interfaces*
 
