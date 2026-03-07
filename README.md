@@ -90,7 +90,7 @@ It is preserved as part of the project’s developmental history.
 For the current structural framework, see:
 
 → **NEXAH Core (Structural Orientation Framework)**  
-(link to be inserted once repository is created)
+[(link to be inserted once repository is created)](https://github.com/Scarabaeus1031/NEXAH)
 
 ---
 
