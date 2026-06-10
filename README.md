@@ -1,97 +1,116 @@
 # 🔒 NEXAH-CODEX
-## Exploratory Phase Archive
+## Exploratory Archive
 
-**Status:** Frozen (2025) · Structural Archive  
-**Maintainer:** Thomas K. R. Hofmann (Scarabæus1033)
-
----
-
-## 📌 Archive Notice
-
-This repository documents an exploratory structural phase of the Nexah project.
-
-As of 2025, this phase is structurally frozen.
-
-No further theoretical expansion will occur in this repository.
-
-It remains publicly accessible as:
-
-- A documentation archive  
-- A visual research record  
-- A symbolic exploration phase  
-- A historical development layer of the Nexah project  
+### A Historical Record of the Scarabæus Exploration Phase
 
 ---
 
-## 🔄 Structural Clarification (2025)
+## Archive Status
 
-The active direction of Nexah has shifted toward:
+The NEXAH-CODEX is preserved as a frozen archive.
 
-- Minimal formal structure (META)  
-- Stability field modeling (ARCHY)  
-- Explicit relational navigation (NEXAH)  
-- Applied structural orientation frameworks  
+It documents an exploratory phase in the evolution of the broader NEXAH project.
 
-These developments continue in a separate repository.
+As of 2026, active development has moved elsewhere.
 
----
-
-## 🧭 What This Repository Represents
-
-The NEXAH-CODEX evolved as an expansive structural synthesis attempt.
-
-It explored:
-
-- Prime number architectures  
-- Möbius and toroidal geometries  
-- Harmonic modeling extensions  
-- Cosmological analogies  
-- Symbolic resonance systems  
-- Experimental geometric structures  
-
-This work was exploratory in nature.
-
-It does **not** claim to replace or extend established physical theories.
+This repository remains publicly accessible as a historical record of the ideas, visual systems, symbolic structures and exploratory frameworks that contributed to later developments.
 
 ---
 
-## 🔄 Structural Clarification (2025)
+## What This Repository Is
 
-The active direction of Nexah has shifted toward:
+The NEXAH-CODEX explored a wide range of questions concerning:
 
-- Minimal formal structure (META)  
-- Stability field modeling (ARCHY)  
-- Explicit relational navigation (NEXAH)  
-- Applied structural orientation frameworks  
+- structure
+- geometry
+- pattern formation
+- symbolic representation
+- navigation
+- complex systems
+- visual thinking
 
-These developments continue in a separate repository.
+The repository combines:
 
----
+- visual experiments
+- symbolic architectures
+- geometric explorations
+- mathematical curiosities
+- conceptual frameworks
+- research sketches
 
-## 📂 Current Status
+Many ideas contained here are speculative, exploratory or artistic in nature.
 
-- Repository frozen
-- No new modules will be added
-- Content remains readable and citable
-- Historical material preserved without revisionism
-
----
-
-## 🪲 Scarabæus Phase
-
-This repository represents the **Scarabæus exploration phase** of the Nexah project.
-
-It is preserved as part of the project’s developmental history.
+They should be understood as part of an open-ended investigation rather than as established scientific claims.
 
 ---
 
-## 🌐 Active Development
+## What Emerged From This Phase
 
-For the current structural framework, see:
+Over time, several themes proved consistently useful:
 
-→ **NEXAH Core (Structural Orientation Framework)**  
-[(link to be inserted once repository is created)](https://github.com/Scarabaeus1031/NEXAH)
+- orientation
+- navigation
+- relational structure
+- transition dynamics
+- stability landscapes
+- system cartography
+
+These themes gradually evolved into more focused projects:
+
+### META
+
+Minimal structural language.
+
+### ARCHY
+
+Field reconstruction and stability modeling.
+
+### NEXAH
+
+Navigation and orientation within complex systems.
 
 ---
 
-*Structure remains. Expansion pauses. Architecture continues.*
+## Why Preserve The Archive?
+
+The Codex remains available because exploration matters.
+
+Many concepts that later became formalized began here as visual sketches, symbolic constructions, questions, diagrams and experiments.
+
+The archive preserves that developmental history.
+
+---
+
+## Current Direction
+
+Active development now focuses on:
+
+- complex dynamical systems
+- state-space cartography
+- stability field reconstruction
+- atlas discovery
+- navigation and control
+
+Current work continues in the NEXAH repository.
+
+---
+
+## Final Note
+
+The NEXAH-CODEX is not a destination.
+
+It is a record of a journey.
+
+A map of questions that eventually led toward more structured forms of inquiry.
+
+The archive remains open.
+
+The next chapter continues here:
+
+→ https://github.com/Scarabaeus1031/NEXAH
+
+---
+
+*The Codex explored.*  
+*The Atlas emerged.*  
+*The journey continues.*
