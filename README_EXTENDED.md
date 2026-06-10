@@ -31,6 +31,42 @@ Whether in prime number distributions, atomic ratios, or planetary orbits, the s
 
 ---
 
+## 🪞 Preface / Wissenschaftliche Einleitung
+
+...
+
+φ = 1.618 …, α ≈ 1/137, and π = 3.14159 ….
+
+---
+
+## 📜 Historical Note (2026)
+
+This document reflects the active exploration phase of the NEXAH-CODEX as it existed in 2025.
+
+During this period, numerous communication initiatives were prepared, including public releases, institutional partnership proposals, introductory letters, and outreach materials.
+
+Many of these efforts were never formally activated or distributed.
+
+As a result, the Codex remained primarily an internal exploration and development environment rather than a publicly communicated research program.
+
+In a sense, the Codex phase never experienced its intended "Big Bang".
+
+The ideas expanded.
+
+The structures multiplied.
+
+The archives grew.
+
+But much of the planned communication remained inside the laboratory.
+
+This observation is neither criticism nor regret.
+
+It is simply part of the project's history.
+
+The archive preserves the moment before ignition.
+
+---
+
 ## ⚙️ Structure of the Codex  
 
 | Layer | System | Description | Repository Path |
