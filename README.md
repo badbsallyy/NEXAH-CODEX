@@ -105,12 +105,16 @@ A map of questions that eventually led toward more structured forms of inquiry.
 
 The archive remains open.
 
-The next chapter continues here:
+The scale of the archive reflects several years of continuous exploration, documentation, visual development, and structural experimentation.
+
+It is preserved not because every idea proved correct, but because the record itself documents how the project evolved.
+
+The next chapter emerged from this exploration and continues through the NEXAH framework:
 
 → https://github.com/Scarabaeus1031/NEXAH
 
 ---
 
-*The Codex explored.*  
-*The Atlas emerged.*  
-*The journey continues.*
+The Codex explored.  
+The Atlas emerged.  
+The journey continues.
